@@ -54,34 +54,44 @@ python -m src.main --dow --output-dir "Finaler Run"
 
 ### Architektur
 ```mermaid
-graph TD
-    A[NewsFetcher] --> B[SourceFilter]
-    B --> C[LLM_Sentiment]
+flowchart LR
 
-    %% Market data used by backtest and event study
-    M[MarketData] --> D
-    M --> E
+  %% Ingestion
+  subgraph INGESTION [Ingestion]
+    NF[NewsFetcher] --> SF[SourceFilter]
+    SF --> LLM[LLM_Sentiment]
+  end
 
-    %% Independent branches from sentiment
-    C --> D[Backtester]
-    C --> E[EventStudy]
+  %% Data
+  subgraph DATA [Data]
+    MD[MarketData]
+  end
 
-    %% Backtest branch details
-    D --> F[Bootstrap]
-    D --> G[RandomBenchmarks]
-    D --> H[Portfolio]
-    D --> K[FilterStats]
-    F --> H
-    G --> H
-    H --> PB[PortfolioBootstrap]
+  %% Backtest Branch
+  subgraph BACKTEST [Backtest Branch]
+    LLM --> BT[Backtester]
+    MD --> BT
+    BT --> FS[FilterStats]
+    BT --> RB[RandomBenchmarks]
+    BT --> PF[Portfolio]
+    PF --> PB[PortfolioBootstrap]
+  end
 
-    %% Where results are rendered
-    E --> T[EventStudy_TTests]
-    E --> I[Visuals_Reports]
-    T --> I
-    H --> I
-    PB --> I
-    I --> J[FinalerRun]
+  %% Event Study Branch
+  subgraph EVENTSTUDY [Event Study Branch]
+    LLM --> ES[EventStudy]
+    MD --> ES
+    ES --> EST[EventStudy_TTests]
+  end
+
+  %% Reporting
+  subgraph REPORTING [Reporting]
+    PF --> VR[Visuals_Reports]
+    PB --> VR
+    ES --> VR
+    EST --> VR
+    VR --> OUT[FinalerRun]
+  end
 ```
 > [!NOTE]
 > EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. EventStudy‑Ergebnisse (inkl. optionaler T‑Tests) gehen direkt in die Visual/Report‑Erstellung ein. Die Portfolio‑Aggregation (inkl. PortfolioBootstrap und RandomBenchmarks) basiert ausschließlich auf Backtest‑Outputs. FilterStats werden nach Backtests aus dem `filter_tracker` erzeugt und in die Reports aufgenommen.
