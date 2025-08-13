@@ -31,7 +31,6 @@ Enthaltene Komponenten:
 - [Ausführen der Pipeline](#ausführen-der-pipeline)
 - [CLI und Beispiele](#cli-und-beispiele)
 - [Wissenschaftlicher Kontext & Ergebnisse](#wissenschaftlicher-kontext-und-kernergebnisse-aus-der-bachelorarbeit)
-- [Visuals (Beispiele)](#visuals-beispiele)
 - [Output, Reproduzierbarkeit und Nachnutzung](#output-reproduzierbarkeit-und-nachnutzung)
 - [Post‑Processing‑Skripte](#post-processing-skripte-testscripts)
 - [Performance‑Hinweise](#performance-hinweise)
@@ -341,18 +340,6 @@ python Test_scripts/create_sequential_performance_chart.py
 - Bootstrap‑Tests, Random‑Benchmark, Portfolio‑Aggregation, Modell‑Fit‑Statistiken
 
 </details>
-
-## Visuals (Beispiele)
-> [!NOTE]
-> Beispiel‑Abbildungen. Weitere Visuals liegen unter `Finaler Run/<TICKER>/...`.
-
-| Event‑Study (TSLA) | Sentiment‑Verteilung (MSFT) |
-|---|---|
-| ![TSLA Event Study](Finaler%20Run/TSLA/event_study/TSLA_event_study.png) | ![MSFT Sentiment Distribution](Finaler%20Run/MSFT/sentiment_distribution_MSFT.png) |
-
-| Kumulierte Renditen (NVDA) | Win‑Rate (PEP) |
-|---|---|
-| ![NVDA Cumulative](Finaler%20Run/NVDA/backtest_NVDA_20250617_212212/backtest_NVDA_20250617_212217/cumulative_returns.png) | ![PEP Win Rate](Finaler%20Run/PEP/backtest_PEP_20250617_223733/backtest_PEP_20250617_223735/win_rate.png) |
 
 ## Output, Reproduzierbarkeit und Nachnutzung
 - Alle Ergebnisse werden zeitgestempelt unter `Finaler Run/<TICKER>/...` abgelegt.
