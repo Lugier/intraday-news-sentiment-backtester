@@ -58,39 +58,39 @@ flowchart LR
 
   %% Ingestion
   subgraph INGESTION [Ingestion]
-    NF[NewsFetcher] --> SF[SourceFilter]
-    SF --> LLM[LLM_Sentiment]
+    NF[News] --> SF[Filter]
+    SF --> LLM[LLM]
   end
 
   %% Data
   subgraph DATA [Data]
-    MD[MarketData]
+    MD[MktData]
   end
 
-  %% Backtest Branch
-  subgraph BACKTEST [Backtest Branch]
-    LLM --> BT[Backtester]
+  %% Backtest
+  subgraph BACKTEST [Backtest]
+    LLM --> BT[Backtest]
     MD --> BT
-    BT --> FS[FilterStats]
-    BT --> RB[RandomBenchmarks]
+    BT --> FS[FiltStats]
+    BT --> RB[RandBench]
     BT --> PF[Portfolio]
-    PF --> PB[PortfolioBootstrap]
+    PF --> PB[PFBootstrap]
   end
 
-  %% Event Study Branch
-  subgraph EVENTSTUDY [Event Study Branch]
-    LLM --> ES[EventStudy]
+  %% Event Study
+  subgraph EVENTSTUDY [EventStudy]
+    LLM --> ES[EvStudy]
     MD --> ES
-    ES --> EST[EventStudy_TTests]
+    ES --> EST[T-Tests]
   end
 
   %% Reporting
   subgraph REPORTING [Reporting]
-    PF --> VR[Visuals_Reports]
+    PF --> VR[Visuals]
     PB --> VR
     ES --> VR
     EST --> VR
-    VR --> OUT[FinalerRun]
+    VR --> OUT[FinalRun]
   end
 ```
 > [!NOTE]
