@@ -55,17 +55,17 @@ python -m src.main --dow --output-dir "Finaler Run"
 ### Architektur
 ```mermaid
 graph TD
-    A[News Fetcher (TickerTick API)] --> B[Quellen-Filter & Qualitätsregeln]
-    B --> C[LLM-Sentiment (Gemini)]
-    C --> D[Trading-Backtester]
-    D --> E[Event Study]
-    D --> F[Bootstrap-Tests]
-    D --> G[Random Benchmarks]
-    E --> H[Portfolio-Aggregation]
+    A[NewsFetcher] --> B[SourceFilter]
+    B --> C[LLM_Sentiment]
+    C --> D[Backtester]
+    D --> E[EventStudy]
+    D --> F[Bootstrap]
+    D --> G[RandomBenchmarks]
+    E --> H[Portfolio]
     F --> H
     G --> H
-    H --> I[Visualisierungen & Reports]
-    I --> J[Finaler Run/<TICKER>/*]
+    H --> I[Visuals_Reports]
+    I --> J[FinalerRun]
 ```
 
 ### Funktionen
