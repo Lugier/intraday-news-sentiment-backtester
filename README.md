@@ -54,7 +54,7 @@ python -m src.main --dow --output-dir "Finaler Run"
 
 ### Architektur
 ```mermaid
-%%{init: { 'flowchart': { 'htmlLabels': true, 'nodeSpacing': 60, 'rankSpacing': 60 }, 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'Arial' } }}%%
+%%{init: { 'flowchart': { 'htmlLabels': false, 'nodeSpacing': 60, 'rankSpacing': 60 }, 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'Arial' } }}%%
 flowchart LR
 
   %% Ingestion
