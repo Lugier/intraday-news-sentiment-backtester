@@ -57,19 +57,27 @@ python -m src.main --dow --output-dir "Finaler Run"
 graph TD
     A[NewsFetcher] --> B[SourceFilter]
     B --> C[LLM_Sentiment]
+
+    %% Market data used by backtest and event study
+    M[MarketData] --> D
+    M --> E
+
     C --> D[Backtester]
     C --> E[EventStudy]
+
     D --> F[Bootstrap]
     D --> G[RandomBenchmarks]
     D --> H[Portfolio]
-    E --> H
     F --> H
     G --> H
+
+    %% EventStudy goes straight to visuals (no portfolio node)
     H --> I[Visuals_Reports]
+    E --> I
     I --> J[FinalerRun]
 ```
 > [!NOTE]
-> EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. Beide Pfade werden anschließend auf Portfolio‑Ebene zusammengeführt.
+> EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. EventStudy‑Ergebnisse (JSON/Plots) gehen direkt in die Visual/Report‑Erstellung ein. Die Portfolio‑Aggregation bezieht sich ausschließlich auf Backtest‑Outputs (inkl. Bootstrap/RandomBenchmark).
 
 ### Funktionen
 - **LLM-basiertes Sentiment**: Batch-Verarbeitung über Gemini (Modell/Temperatur/Parallelität konfigurierbar).
