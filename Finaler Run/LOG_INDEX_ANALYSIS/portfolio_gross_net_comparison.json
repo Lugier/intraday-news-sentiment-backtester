@@ -1,0 +1,12 @@
+{
+  "total_trades": 2386,
+  "portfolio_final_value_with_fees": 0.6073513290113745,
+  "portfolio_final_value_without_fees": 72.10995813904431,
+  "total_return_with_fees_pct": -99.39264867098862,
+  "total_return_without_fees_pct": -27.890041860955694,
+  "fee_impact_pct": 71.50260681003293,
+  "date_range": {
+    "start": "2025-03-03",
+    "end": "2025-06-17"
+  }
+}

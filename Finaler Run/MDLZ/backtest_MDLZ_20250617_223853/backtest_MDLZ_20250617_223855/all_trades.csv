@@ -1,0 +1,2 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+MDLZ,2025-03-24 15:05:00,64.705,2025-03-24 16:05:00,64.61,long,positive,-0.14682018391159704,60.0,end_of_data,Afternoon,Monday,-0.09499999999999886,0.129315,-0.22431499999999888,-0.3466733637276854

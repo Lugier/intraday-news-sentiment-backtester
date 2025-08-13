@@ -1,0 +1,29 @@
+{
+  "strategy_name": "GS",
+  "backtest_summary": {
+    "total_trades": 63,
+    "profitable_trades": 26,
+    "losing_trades": 33,
+    "win_rate": 0.4126984126984127
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0012,
+      "mean_return": -0.3230029952091768,
+      "confidence_interval": [
+        -0.5289596535217322,
+        -0.11800520705871749
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.1163,
+      "mean_return": -0.12296130893827717,
+      "confidence_interval": [
+        -0.3276296750474311,
+        0.07805694804395477
+      ],
+      "significant": false
+    }
+  }
+}

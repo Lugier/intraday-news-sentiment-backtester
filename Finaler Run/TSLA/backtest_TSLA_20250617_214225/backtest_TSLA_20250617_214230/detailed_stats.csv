@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Median Return (%),Return Std Dev (%),Sharpe Ratio,Max Drawdown (%),Drawdown Duration (trades),Profit Factor,Expected Return (%)
+TSLA,329,112,217,34.04,-74.74,-0.23,-0.19,1.14,-3.17,-56.16,324,0.56,-0.23

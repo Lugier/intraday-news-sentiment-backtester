@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,GIS
+Total Trades,3
+Profitable Trades,1
+Losing Trades,2
+Win Rate,33.33%
+Mean Return,nan
+Return 95% CI Lower,nan
+Return 95% CI Upper,nan
+Return p-value,1.0000
+Return Significant?,No
+Mean Trade Return,nan
+Trade Return 95% CI Lower,nan
+Trade Return 95% CI Upper,nan
+Trade Return p-value,1.0000
+Trade Return Significant?,No
+Bootstrap Simulations,10000

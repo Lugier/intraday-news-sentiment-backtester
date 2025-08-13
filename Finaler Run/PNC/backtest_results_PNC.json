@@ -1,0 +1,81 @@
+{
+    "ticker": "PNC",
+    "total_trades": 1,
+    "winning_trades": 0,
+    "losing_trades": 1,
+    "win_rate": 0.0,
+    "total_return_pct": -0.6354615384615429,
+    "average_return_pct": -0.6354615384615429,
+    "median_return_pct": -0.6354615384615429,
+    "return_std_dev": 0.0,
+    "sharpe_ratio": 0,
+    "max_drawdown_pct": 0.0,
+    "drawdown_duration": 0,
+    "profit_factor": 0.0,
+    "expected_return_pct": -0.6354615384615429,
+    "trades": [
+        {
+            "ticker": "PNC",
+            "entry_time": "2025-04-15 13:02:00",
+            "entry_price": 156.0,
+            "exit_time": "2025-04-15 14:02:00",
+            "exit_price": 155.32,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.4358974358974403,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": -0.6800000000000068,
+            "transaction_fees": 0.31132,
+            "pnl_after_fees": -0.9913200000000069,
+            "return_pct_after_fees": -0.6354615384615429
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 1,
+            "total_return": -0.6354615384615429,
+            "avg_return": -0.6354615384615429,
+            "median_return": -0.6354615384615429,
+            "win_rate": 0.0,
+            "std_dev": 0.0,
+            "sharpe_ratio": 0,
+            "profit_factor": 0.0
+        }
+    },
+    "exit_reason_stats": {
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.6354615384615429,
+            "avg_return": -0.6354615384615429,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 1,
+            "total_return": -0.6354615384615429,
+            "avg_return": -0.6354615384615429,
+            "win_rate": 0.0
+        }
+    },
+    "day_of_week_stats": {
+        "Tuesday": {
+            "count": 1,
+            "total_return": -0.6354615384615429,
+            "avg_return": -0.6354615384615429,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-04-15 13:02:00",
+        "end_date": "2025-04-15 14:02:00",
+        "start_price": 156.0,
+        "end_price": 156.022,
+        "buyhold_return_pct": 0.014102564102569382,
+        "strategy_return_pct": -0.6354615384615429,
+        "outperformance_pct": -0.6495641025641122
+    }
+}

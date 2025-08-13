@@ -1,0 +1,29 @@
+{
+  "strategy_name": "ADBE",
+  "backtest_summary": {
+    "total_trades": 19,
+    "profitable_trades": 12,
+    "losing_trades": 7,
+    "win_rate": 0.631578947368421
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.1647,
+      "mean_return": -0.20431253066814312,
+      "confidence_interval": [
+        -0.639503126408896,
+        0.1990726699848979
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.4988,
+      "mean_return": -0.004473632414958631,
+      "confidence_interval": [
+        -0.4370805138051654,
+        0.41189273742749327
+      ],
+      "significant": false
+    }
+  }
+}

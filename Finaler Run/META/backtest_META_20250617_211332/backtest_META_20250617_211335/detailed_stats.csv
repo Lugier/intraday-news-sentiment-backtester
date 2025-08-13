@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Median Return (%),Return Std Dev (%),Sharpe Ratio,Max Drawdown (%),Drawdown Duration (trades),Profit Factor,Expected Return (%)
+META,151,48,103,31.79,-33.81,-0.22,-0.2,0.83,-4.26,-29.59,148,0.42,-0.22

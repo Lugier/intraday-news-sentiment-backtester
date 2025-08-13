@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Median Return (%),Return Std Dev (%),Sharpe Ratio,Max Drawdown (%),Drawdown Duration (trades),Profit Factor,Expected Return (%)
+KR,15,6,9,40.0,-4.96,-0.33,-0.14,0.88,-5.97,-7.02,9,0.34,-0.33

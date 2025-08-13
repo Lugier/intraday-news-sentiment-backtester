@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,IBM
+Total Trades,25
+Profitable Trades,14
+Losing Trades,11
+Win Rate,56.00%
+Mean Return,-0.176715
+Return 95% CI Lower,-0.381577
+Return 95% CI Upper,0.017653
+Return p-value,0.0371
+Return Significant?,Yes
+Mean Trade Return,0.023270
+Trade Return 95% CI Lower,-0.186109
+Trade Return 95% CI Upper,0.216970
+Trade Return p-value,0.4048
+Trade Return Significant?,No
+Bootstrap Simulations,10000

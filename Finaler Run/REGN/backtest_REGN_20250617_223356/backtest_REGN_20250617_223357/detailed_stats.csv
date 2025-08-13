@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Median Return (%),Return Std Dev (%),Sharpe Ratio,Max Drawdown (%),Drawdown Duration (trades),Profit Factor,Expected Return (%)
+REGN,14,8,6,57.14,2.99,0.21,0.33,1.26,2.69,-5.45,7,1.51,0.21

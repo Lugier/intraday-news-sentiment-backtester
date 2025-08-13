@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,WFC
+Total Trades,23
+Profitable Trades,13
+Losing Trades,10
+Win Rate,56.52%
+Mean Return,-0.269722
+Return 95% CI Lower,-0.772878
+Return 95% CI Upper,0.226114
+Return p-value,0.1417
+Return Significant?,No
+Mean Trade Return,-0.069948
+Trade Return 95% CI Lower,-0.579627
+Trade Return 95% CI Upper,0.430986
+Trade Return p-value,0.3890
+Trade Return Significant?,No
+Bootstrap Simulations,10000

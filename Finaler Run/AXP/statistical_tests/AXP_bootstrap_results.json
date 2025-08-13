@@ -1,0 +1,29 @@
+{
+  "strategy_name": "AXP",
+  "backtest_summary": {
+    "total_trades": 9,
+    "profitable_trades": 5,
+    "losing_trades": 4,
+    "win_rate": 0.5555555555555556
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

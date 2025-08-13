@@ -1,0 +1,29 @@
+{
+  "strategy_name": "INTC",
+  "backtest_summary": {
+    "total_trades": 54,
+    "profitable_trades": 29,
+    "losing_trades": 24,
+    "win_rate": 0.5370370370370371
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.4548,
+      "mean_return": 0.029811465135968558,
+      "confidence_interval": [
+        -0.32973325721458485,
+        0.4344544191706277
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.111,
+      "mean_return": 0.2299870583715169,
+      "confidence_interval": [
+        -0.1325856462426152,
+        0.6319875681340755
+      ],
+      "significant": false
+    }
+  }
+}

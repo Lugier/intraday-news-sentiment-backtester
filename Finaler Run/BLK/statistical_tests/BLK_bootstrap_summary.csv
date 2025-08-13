@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,BLK
+Total Trades,48
+Profitable Trades,18
+Losing Trades,21
+Win Rate,37.50%
+Mean Return,-0.264379
+Return 95% CI Lower,-0.470506
+Return 95% CI Upper,-0.074080
+Return p-value,0.0038
+Return Significant?,Yes
+Mean Trade Return,-0.064290
+Trade Return 95% CI Lower,-0.267769
+Trade Return 95% CI Upper,0.128448
+Trade Return p-value,0.2574
+Trade Return Significant?,No
+Bootstrap Simulations,10000

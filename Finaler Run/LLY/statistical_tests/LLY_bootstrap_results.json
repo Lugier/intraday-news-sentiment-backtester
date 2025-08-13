@@ -1,0 +1,29 @@
+{
+  "strategy_name": "LLY",
+  "backtest_summary": {
+    "total_trades": 44,
+    "profitable_trades": 13,
+    "losing_trades": 30,
+    "win_rate": 0.29545454545454547
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0027,
+      "mean_return": -0.7650379222560477,
+      "confidence_interval": [
+        -1.4121339983073258,
+        -0.19977921613981817
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.0243,
+      "mean_return": -0.5654435053097407,
+      "confidence_interval": [
+        -1.2336282968120935,
+        -0.003437445325605015
+      ],
+      "significant": true
+    }
+  }
+}

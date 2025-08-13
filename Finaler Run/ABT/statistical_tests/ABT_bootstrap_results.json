@@ -1,0 +1,29 @@
+{
+  "strategy_name": "ABT",
+  "backtest_summary": {
+    "total_trades": 7,
+    "profitable_trades": 5,
+    "losing_trades": 0,
+    "win_rate": 0.7142857142857143
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "ticker": "PEP",
+    "date": "2025-06-17 22:37:33",
+    "total_news": 75,
+    "positive_news": 22,
+    "negative_news": 23,
+    "neutral_news": 30,
+    "actionable_news": 45,
+    "strategy_type": "flip_strategy",
+    "entry_delay_minutes": 2,
+    "holding_period_minutes": 60,
+    "use_stop_loss": true,
+    "stop_loss_pct": 2.0,
+    "take_profit_pct": Infinity,
+    "include_after_hours": false,
+    "max_workers": 16,
+    "transaction_fee_pct": 0.001
+}

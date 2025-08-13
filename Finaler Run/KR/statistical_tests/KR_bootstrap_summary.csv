@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,KR
+Total Trades,15
+Profitable Trades,8
+Losing Trades,7
+Win Rate,53.33%
+Mean Return,-0.330689
+Return 95% CI Lower,-0.805497
+Return 95% CI Upper,0.092476
+Return p-value,0.0671
+Return Significant?,No
+Mean Trade Return,-0.130785
+Trade Return 95% CI Lower,-0.590389
+Trade Return 95% CI Upper,0.301979
+Trade Return p-value,0.2928
+Trade Return Significant?,No
+Bootstrap Simulations,10000

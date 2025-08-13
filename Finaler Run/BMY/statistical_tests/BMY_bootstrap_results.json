@@ -1,0 +1,29 @@
+{
+  "strategy_name": "BMY",
+  "backtest_summary": {
+    "total_trades": 11,
+    "profitable_trades": 6,
+    "losing_trades": 5,
+    "win_rate": 0.5454545454545454
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0314,
+      "mean_return": -0.5004764967458982,
+      "confidence_interval": [
+        -1.0755491531535994,
+        0.02003475940745145
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.1378,
+      "mean_return": -0.3008109777573256,
+      "confidence_interval": [
+        -0.8684975728997026,
+        0.21830520565967404
+      ],
+      "significant": false
+    }
+  }
+}

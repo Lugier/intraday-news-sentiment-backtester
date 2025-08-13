@@ -1,0 +1,4 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+STZ,2025-05-06 15:30:00,187.32,2025-05-06 16:30:00,186.93,short,negative,0.20819987187699465,60.0,max_holding_period,Afternoon,Tuesday,0.38999999999998636,0.37424999999999997,0.015749999999986386,0.008408071748871676
+STZ,2025-05-16 14:18:00,197.6,2025-05-16 15:25:00,197.28,long,positive,-0.1619433198380532,67.0,max_holding_period,Afternoon,Friday,-0.3199999999999932,0.39488,-0.7148799999999932,-0.3617813765182152
+STZ,2025-06-04 15:29:00,177.62,2025-06-04 16:29:00,178.155,long,positive,0.3012048192771065,60.0,end_of_data,Afternoon,Wednesday,0.5349999999999966,0.355775,0.17922499999999658,0.10090361445782942

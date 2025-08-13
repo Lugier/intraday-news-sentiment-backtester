@@ -1,0 +1,205 @@
+{
+    "ticker": "BIIB",
+    "total_trades": 6,
+    "winning_trades": 2,
+    "losing_trades": 4,
+    "win_rate": 0.3333333333333333,
+    "total_return_pct": -0.47049860319821357,
+    "average_return_pct": -0.07841643386636893,
+    "median_return_pct": -0.2,
+    "return_std_dev": 0.7135597017905304,
+    "sharpe_ratio": -1.744524379869138,
+    "max_drawdown_pct": -1.190265297246046,
+    "drawdown_duration": 3,
+    "profit_factor": 0.7661532372154669,
+    "expected_return_pct": -0.07841643386636898,
+    "trades": [
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-03-28 14:30:00",
+            "entry_price": 140.6,
+            "exit_time": "2025-03-28 15:31:00",
+            "exit_price": 139.73,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.6187766714082537,
+            "trade_duration_min": 61.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": -0.8700000000000045,
+            "transaction_fees": 0.28032999999999997,
+            "pnl_after_fees": -1.1503300000000045,
+            "return_pct_after_fees": -0.8181578947368454
+        },
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-04-02 15:18:00",
+            "entry_price": 132.9,
+            "exit_time": "2025-04-02 16:20:00",
+            "exit_price": 132.11,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.5944319036869766,
+            "trade_duration_min": 62.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Wednesday",
+            "pnl": -0.789999999999992,
+            "transaction_fees": 0.26501,
+            "pnl_after_fees": -1.055009999999992,
+            "return_pct_after_fees": -0.7938374717832897
+        },
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-05-01 14:00:00",
+            "entry_price": 122.87,
+            "exit_time": "2025-05-01 14:00:00",
+            "exit_price": 122.87,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.0,
+            "trade_duration_min": 0.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -0.0,
+            "transaction_fees": 0.24574000000000001,
+            "pnl_after_fees": -0.24574000000000001,
+            "return_pct_after_fees": -0.2
+        },
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-05-01 14:00:00",
+            "entry_price": 122.87,
+            "exit_time": "2025-05-01 14:00:00",
+            "exit_price": 122.87,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.0,
+            "trade_duration_min": 0.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 0.0,
+            "transaction_fees": 0.24574000000000001,
+            "pnl_after_fees": -0.24574000000000001,
+            "return_pct_after_fees": -0.2
+        },
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-05-01 14:00:00",
+            "entry_price": 122.87,
+            "exit_time": "2025-05-01 15:27:00",
+            "exit_price": 121.05,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 1.4812403353137522,
+            "trade_duration_min": 87.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 1.8200000000000074,
+            "transaction_fees": 0.24392000000000003,
+            "pnl_after_fees": 1.5760800000000073,
+            "return_pct_after_fees": 1.282721575649066
+        },
+        {
+            "ticker": "BIIB",
+            "entry_time": "2025-05-22 15:30:00",
+            "entry_price": 126.55,
+            "exit_time": "2025-05-22 16:30:00",
+            "exit_price": 125.97,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.45831687080205324,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 0.5799999999999983,
+            "transaction_fees": 0.25251999999999997,
+            "pnl_after_fees": 0.32747999999999833,
+            "return_pct_after_fees": 0.25877518767285534
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 3,
+            "total_return": -1.811995366520135,
+            "avg_return": -0.6039984555067116,
+            "median_return": -0.7938374717832897,
+            "win_rate": 0.0,
+            "std_dev": 0.2858425379843669,
+            "sharpe_ratio": -33.54356668128804,
+            "profit_factor": 0.0
+        },
+        "negative": {
+            "count": 3,
+            "total_return": 1.3414967633219215,
+            "avg_return": 0.4471655877739738,
+            "median_return": 0.25877518767285534,
+            "win_rate": 0.6666666666666666,
+            "std_dev": 0.6198032079413093,
+            "sharpe_ratio": 11.452883027620494,
+            "profit_factor": 7.707483816609606
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 3,
+            "total_return": -0.329273790871069,
+            "avg_return": -0.10975793029035634,
+            "win_rate": 0.3333333333333333
+        },
+        "conflict_flip": {
+            "count": 2,
+            "total_return": -0.4,
+            "avg_return": -0.2,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": 0.25877518767285534,
+            "avg_return": 0.25877518767285534,
+            "win_rate": 1.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 6,
+            "total_return": -0.47049860319821357,
+            "avg_return": -0.07841643386636893,
+            "win_rate": 0.3333333333333333
+        }
+    },
+    "day_of_week_stats": {
+        "Friday": {
+            "count": 1,
+            "total_return": -0.8181578947368454,
+            "avg_return": -0.8181578947368454,
+            "win_rate": 0.0
+        },
+        "Wednesday": {
+            "count": 1,
+            "total_return": -0.7938374717832897,
+            "avg_return": -0.7938374717832897,
+            "win_rate": 0.0
+        },
+        "Thursday": {
+            "count": 4,
+            "total_return": 1.1414967633219213,
+            "avg_return": 0.2853741908304803,
+            "win_rate": 0.5
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-28 14:30:00",
+        "end_date": "2025-05-22 16:30:00",
+        "start_price": 140.6,
+        "end_price": 125.95,
+        "buyhold_return_pct": -10.419630156472259,
+        "strategy_return_pct": -0.47049860319821357,
+        "outperformance_pct": 9.949131553274045
+    }
+}

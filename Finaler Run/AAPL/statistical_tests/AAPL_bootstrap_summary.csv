@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,AAPL
+Total Trades,213
+Profitable Trades,108
+Losing Trades,103
+Win Rate,50.70%
+Mean Return,-0.231776
+Return 95% CI Lower,-0.326538
+Return 95% CI Upper,-0.135026
+Return p-value,0.0000
+Return Significant?,Yes
+Mean Trade Return,-0.031793
+Trade Return 95% CI Lower,-0.127448
+Trade Return 95% CI Upper,0.067048
+Trade Return p-value,0.2639
+Trade Return Significant?,No
+Bootstrap Simulations,10000

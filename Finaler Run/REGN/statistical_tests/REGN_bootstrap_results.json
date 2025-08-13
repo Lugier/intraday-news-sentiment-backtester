@@ -1,0 +1,29 @@
+{
+  "strategy_name": "REGN",
+  "backtest_summary": {
+    "total_trades": 14,
+    "profitable_trades": 8,
+    "losing_trades": 6,
+    "win_rate": 0.5714285714285714
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.2615,
+      "mean_return": 0.21391695587192353,
+      "confidence_interval": [
+        -0.4420532421245358,
+        0.8818913896571665
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.1147,
+      "mean_return": 0.4139098442697846,
+      "confidence_interval": [
+        -0.2543491784893941,
+        1.0686822904004865
+      ],
+      "significant": false
+    }
+  }
+}

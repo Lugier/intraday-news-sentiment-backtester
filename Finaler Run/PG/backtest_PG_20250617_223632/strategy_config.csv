@@ -1,0 +1,17 @@
+Parameter,Value
+ticker,PG
+date,2025-06-17 22:36:32
+total_news,35
+positive_news,7
+negative_news,18
+neutral_news,10
+actionable_news,25
+strategy_type,flip_strategy
+entry_delay_minutes,2
+holding_period_minutes,60
+use_stop_loss,True
+stop_loss_pct,2.0
+take_profit_pct,inf
+include_after_hours,False
+max_workers,16
+transaction_fee_pct,0.001

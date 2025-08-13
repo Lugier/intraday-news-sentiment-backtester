@@ -1,0 +1,4 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+MO,2025-03-27 15:13:00,58.45,2025-03-27 16:13:00,58.165,short,negative,0.48759623609923636,60.0,max_holding_period,Afternoon,Thursday,0.2850000000000037,0.116615,0.1683850000000037,0.28808383233533563
+MO,2025-04-29 13:41:00,57.1,2025-04-29 14:07:00,57.15,short,negative,-0.08756567425568679,26.0,conflict_flip,Midday,Tuesday,-0.04999999999999716,0.11425,-0.16424999999999718,-0.2876532399299425
+MO,2025-04-29 14:07:00,57.15,2025-04-29 15:07:00,56.69,long,positive,-0.8048993875765544,60.0,end_of_data,Afternoon,Tuesday,-0.46000000000000085,0.11384,-0.5738400000000008,-1.004094488188978

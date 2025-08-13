@@ -1,0 +1,3 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+SJM,2025-06-10 13:17:00,104.6,2025-06-10 14:17:00,102.95,short,negative,1.5774378585085962,60.0,max_holding_period,Midday,Tuesday,1.6499999999999915,0.20755,1.4424499999999916,1.3790152963671047
+SJM,2025-06-10 15:51:00,101.165,2025-06-10 16:51:00,97.2,short,negative,3.919339692581429,60.0,end_of_data,Afternoon,Tuesday,3.9650000000000034,0.198365,3.7666350000000035,3.7232590322740102

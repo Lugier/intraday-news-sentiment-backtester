@@ -1,0 +1,387 @@
+Sentiment Analysis Summary for AMGN
+Generated on: 2025-06-17 22:31:28
+
+Sentiment Distribution:
+neutral: 21
+positive: 20
+negative: 13
+
+Detailed Results:
+
+Title: FDA to launch national vouchers to cut drug review time | $BMY $PFE $LLY $MRK $AMGN
+Date: 2025-06-17 18:38:50
+Sentiment: neutral
+Explanation: The news is a broad announcement about an FDA initiative impacting the pharmaceutical industry as a whole, mentioning AMGN along with several other major players. While potentially positive long-term for drug development, the lack of specifics and the broad scope diminish the immediate impact on AMGN in the next 60 minutes, making it unlikely to be a surprise or sentiment trigger for short-term traders.
+```
+--------------------------------------------------------------------------------
+
+Title: Democrats press Pfizer, J&J and others over low tax bills and lobbying as Senate debates Trump's plan
+Date: 2025-06-17 16:00:01
+Sentiment: negative
+Explanation: The news item directly names Amgen alongside other pharmaceutical giants being pressured over tax practices and lobbying. This creates immediate negative sentiment, as traders might anticipate potential regulatory scrutiny or reputational damage, leading to selling pressure in the next 60 minutes. The surprise factor of political pressure adds to the immediate negative reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Lack of permanent director sowing uncertainty at CDC - report | $AMGN $GSK $BMY $PFE $LLY
+Date: 2025-06-05 18:32:31
+Sentiment: neutral
+Explanation: The news discusses uncertainty at the CDC due to a lack of a permanent director. While this *could* indirectly impact pharmaceutical companies like AMGN, there's no *direct* causal link to AMGN's revenue, costs, or immediate operations within the next 60 minutes. The impact is too broad and lacks specific details to create significant short-term price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: FDA launches Elsa, an AI tool designed to accelerate agencywide operations | $MSFT $JNJ $PFE $MRK $AMGN
+Date: 2025-06-03 13:19:08
+Sentiment: neutral
+Explanation: The news indicates the FDA is implementing AI tools, which is generally positive for the healthcare industry's efficiency. However, there's no direct, quantifiable impact on AMGN's immediate revenue, costs, or operations in the next 60 minutes. The broad nature and lack of specific implications for AMGN suggest traders are unlikely to react strongly in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen met main goal in late stage trial for lung cancer treatment
+Date: 2025-06-02 20:41:12
+Sentiment: positive
+Explanation: Meeting the main goal in a late-stage trial for lung cancer treatment is a significant positive catalyst for AMGN. This news has a direct impact on AMGN's potential revenue stream and will likely trigger immediate positive sentiment among short-term traders due to the high potential for a new revenue stream. The positive surprise factor associated with clinical trial success is likely to drive the price upward in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Notable healthcare headlines for the week: AstraZeneca, Eli Lilly, Bristol Myers in focus | $XLV $AMGN $BMY $CVS $LLY
+Date: 2025-06-01 15:05:23
+Sentiment: neutral
+Explanation: The title is simply a list of healthcare companies in focus, including AMGN. There is no specific positive or negative information presented in the title or description, and the news is unlikely to cause a significant price movement within the next 60 minutes. Therefore, the impact is neutral as it lacks any concrete catalysts.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump threatens to limit imports if countries don't pay more for drugs | $AMGN $GILD $VRTX $JNJ $GSK
+Date: 2025-05-23 00:07:41
+Sentiment: negative
+Explanation: The news of Trump threatening to limit imports if countries don't pay more for drugs poses a negative immediate impact on AMGN. This threat creates uncertainty regarding future revenue streams for AMGN due to potential trade barriers. Short-term traders are likely to react negatively to this uncertainty, causing a price decrease within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: MAHA report: 'Overmedicalization, poor diet' factors for childhood chronic diseases | $AMGN $JNJ $GSK $PFE $MRK
+Date: 2025-05-22 23:37:10
+Sentiment: neutral
+Explanation: The news focuses on childhood chronic diseases and mentions AMGN along with several other large pharmaceutical companies. While it touches on health concerns, it does not directly impact AMGN's immediate revenue, costs, or operations. The broad focus and lack of quantifiable data make a significant price movement within 60 minutes unlikely, suggesting it is already priced in as a general industry concern.
+```
+--------------------------------------------------------------------------------
+
+Title: FDA offering states help for Canada drug importation proposals | $AMGN $JNJ $BMY $PFE $LLY
+Date: 2025-05-21 18:03:22
+Sentiment: negative
+Explanation: The news item discusses the FDA offering states help for Canada drug importation proposals. This is a negative development for pharmaceutical companies like AMGN as it could potentially lead to increased competition and lower drug prices in the US, directly impacting AMGN's revenue within the short-term. The inclusion of AMGN's ticker further indicates relevance, making it likely to trigger a negative reaction from traders within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump’s MFN policy seeks parity with branded drug pricing in OECD nations | $JNJ $BMY $PFE $MRK $AMGN
+Date: 2025-05-20 20:14:02
+Sentiment: negative
+Explanation: The news about Trump's MFN policy targeting drug pricing parity with OECD nations presents a direct, negative impact on AMGN's future revenue, as pricing pressures would likely increase. While the actual implementation and long-term effects are uncertain, the initial sentiment trigger for traders is likely to be negative, anticipating reduced profitability, leading to selling pressure in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Regeneron wins over $400M jury award as Amgen found liable in antitrust case | $AMGN $REGN $SNY $SNYNF $GCVRZ
+Date: 2025-05-16 13:16:22
+Sentiment: negative
+Explanation: The news indicates a significant legal loss for Amgen ($400M+ jury award) and a finding of antitrust liability. This presents an immediate negative surprise factor that is likely to trigger selling pressure from short-term traders reacting to the headline. The quantifiable loss directly impacts AMGN's financials, causing an anticipated price decrease within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Zealand CEO: Oral weight loss meds are not the future for treating obesity | $AMGN $RHHBY $NVO $LLY $ALT
+Date: 2025-05-15 23:54:04
+Sentiment: neutral
+Explanation: This news item relates to the CEO of Zealand Pharma commenting on oral weight loss medications, and specifically mentions other companies ($RHHBY, $NVO, $LLY, $ALT) more directly involved in that specific sector. While AMGN has interests in obesity treatments, the impact in the next 60 minutes is likely negligible as it is a commentary, not a direct action affecting AMGN's core business or revenue streams.
+```
+--------------------------------------------------------------------------------
+
+Title: RFK Jr. aide: GLP-1 weight loss meds will cost the same as in least expensive countries | $AMGN $JNJ $BMY $RHHBY $PFE
+Date: 2025-05-15 23:28:48
+Sentiment: negative
+Explanation: The news suggests increased price pressure on GLP-1 weight loss medications, which could negatively impact AMGN's potential revenue if they are developing or planning to develop similar products. Traders might react negatively in the short term due to concerns about future pricing power and market competition in this space. This outweighs any potential benefit from general news about GLP-1 drugs.
+```
+--------------------------------------------------------------------------------
+
+Title: Bayer exec: Trump pharma tariffs would negatively impact R&D | $AMGN $BMY $PFE $LLY $MRK
+Date: 2025-05-15 17:35:46
+Sentiment: neutral
+Explanation: While the news mentions AMGN, it's a second-hand report on a Bayer executive's opinion regarding potential tariffs and their impact on pharmaceutical R&D *generally*. There's no direct, AMGN-specific quantifiable data or specific catalyst. The impact is indirect and speculative within the 60-minute time horizon, suggesting low confidence of a significant price movement due to *this specific news item*.
+```
+--------------------------------------------------------------------------------
+
+Title: Medicare to publish drugs selected for third round of price negotiations by Feb. 1 | $JNJ $GSK $PFE $MRK $AMGN
+Date: 2025-05-13 14:11:32
+Sentiment: negative
+Explanation: The news indicates that AMGN is on the list for Medicare price negotiations. This is a negative catalyst type as it directly impacts AMGN's potential revenue, and although the final list is due in February, the headline itself is enough to trigger an immediate negative reaction. Traders will likely anticipate reduced future earnings and sell in anticipation.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump planning on Executive Order to further cut Medicare drug prices - report | $JNJ $BMY $PFE $MRK $AMGN
+Date: 2025-05-07 22:51:34
+Sentiment: negative
+Explanation: Trump's executive order targeting Medicare drug prices poses a direct threat to AMGN's revenue, a major revenue stream. The surprise element of new policy action is likely to trigger immediate selling pressure from short-term traders anticipating lower future earnings, thus hurting AMGN's price in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen’s Tepezza becomes first U.K.-medicine approved for adults with thyroid eye disease | $AMGN
+Date: 2025-05-07 20:16:47
+Sentiment: positive
+Explanation: Approval in the U.K. for Tepezza, a key Amgen product, is a direct positive catalyst indicating potential revenue expansion and market access. This positive surprise should trigger immediate buying pressure within the 60-minute window as traders react to the news of the U.K. approval.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump administration cancels meeting with FDA workers union - report | $AMGN $BMY $PFE $LLY $MRK
+Date: 2025-05-06 20:37:54
+Sentiment: neutral
+Explanation: The news of the Trump administration canceling a meeting with the FDA workers union has no direct impact on AMGN's financials or operations within the next 60 minutes. Although AMGN is tagged with other pharmaceutical companies, the action is not specific to it and the effect of such a meeting cancellation on short term stock movement is not clear. Thus, there's no strong signal for an immediate positive or negative price reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Healthcare sector flexes earnings muscle, but top-line cracks show | $XLV $AMGN $CVS $PFE $LLY
+Date: 2025-05-04 00:10:00
+Sentiment: neutral
+Explanation: The title indicates a mixed picture for the healthcare sector, with some earnings strength ("flexes earnings muscle") but also weakness ("top-line cracks show"). The title does not provide specific information directly impacting AMGN's financial performance, making an immediate significant price movement unlikely in the next 60 minutes. The mixed sentiment and lack of specific AMGN data suggests a neutral short-term effect.
+```
+--------------------------------------------------------------------------------
+
+Title: 4 stocks to watch on Friday: XOM, CVX, AMGN and TTWO | $AMGN $XOM $TTWO $CVX
+Date: 2025-05-02 15:12:12
+Sentiment: neutral
+Explanation: The title simply lists AMGN as one of four stocks to watch. There is no indication of positive or negative news specifically related to AMGN, so the direct impact on AMGN's revenue, costs, or operations within the next 60 minutes is likely negligible. It is unlikely this will be a sentiment trigger with a direct quantifiable impact.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen signals strong 2025 outlook with revenue growth and pipeline advancements
+Date: 2025-05-02 02:43:09
+Sentiment: positive
+Explanation: The news title "Amgen signals strong 2025 outlook with revenue growth and pipeline advancements" immediately suggests a positive trajectory for the company. This provides a direct signal to short-term traders and algorithms to buy AMGN in the short term, anticipating upward price movement in the next 60 minutes due to perceived positive sentiment around future performance and innovation.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen beats on both lines and reaffirms guidance; stock flat post market | $AMGN
+Date: 2025-05-01 23:28:26
+Sentiment: neutral
+Explanation: While the headline indicates a beat on both lines and reaffirmed guidance, the "stock flat post market" suggests the market's initial reaction is muted. This indicates the news was likely already priced in or not considered significant enough to trigger immediate buying pressure in the next 60 minutes. Therefore, the news is unlikely to cause a significant price deviation.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen in charts: XGEVA sales reach $566M in Q1 | $AMGN
+Date: 2025-05-01 22:37:01
+Sentiment: positive
+Explanation: The headline indicates strong sales figures for XGEVA, a key Amgen product. $566M in Q1 suggests positive revenue generation, which should encourage short-term buying pressure. Traders are likely to interpret this as a positive indicator of Amgen's financial performance and bid the price up in the immediate short-term.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen beats top-line and bottom-line estimates; reaffirms FY25 outlook | $AMGN
+Date: 2025-05-01 22:03:39
+Sentiment: positive
+Explanation: The title indicates AMGN beat both top-line and bottom-line estimates, which is a direct positive impact on the company's financial performance and a known catalyst. Furthermore, reaffirming the FY25 outlook suggests continued positive momentum. This is likely to trigger positive sentiment and short-term buying pressure in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Beats on Profit as Obesity Drug Moves Toward Market
+Date: 2025-05-01 22:01:00
+Sentiment: positive
+Explanation: The news highlights two positive factors: Amgen beating profit estimates and progress in the obesity drug market. Beating profit estimates provides a direct, quantifiable positive impact. Advancement in the weight-loss medicine market, while not immediate revenue, creates short-term positive sentiment due to the potential for significant future growth, triggering immediate trader interest.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Q1 2025 Earnings Preview | $AMGN
+Date: 2025-04-30 17:55:28
+Sentiment: neutral
+Explanation: The title "Amgen Q1 2025 Earnings Preview" suggests a forward-looking analysis rather than concrete, immediate information. Without specific quantifiable data or surprise elements regarding current performance, it's unlikely to cause a significant price movement in the next 60 minutes. This preview is more anticipatory than impactful in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: No misses here: Healthcare earnings sweep past Wall Street estimates | $XLV $AMGN $GILD $BMY $CVS
+Date: 2025-04-27 17:55:00
+Sentiment: positive
+Explanation: The title "Healthcare earnings sweep past Wall Street estimates" implies positive earnings news for the healthcare sector, including AMGN ($AMGN is explicitly mentioned). This creates a positive sentiment trigger, suggesting increased buying pressure and a likely price increase for AMGN in the next 60 minutes as traders react to the positive headline, even if the individual earnings numbers are not immediately available.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen to spend $900M to expand Ohio drugmaking plant
+Date: 2025-04-25 18:33:00
+Sentiment: neutral
+Explanation: A $900M expansion, while positive long-term, likely won't have a significant immediate impact on AMGN's stock price within 60 minutes. The expenditure represents a future investment rather than an immediate catalyst for increased revenue or earnings. The news lacks the surprise factor or urgency needed to trigger immediate trading activity based on sentiment.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Pledges $900 Million, Hundreds of Jobs in Ohio Expansion
+Date: 2025-04-25 18:18:52
+Sentiment: positive
+Explanation: The $900 million investment and creation of hundreds of jobs represent a significant expansion, a positive catalyst. While the reference to tariffs and a potential trade war introduces some uncertainty, the immediate positive signal of investment likely outweighs it in the next 60 minutes, triggering short-term buying.
+```
+--------------------------------------------------------------------------------
+
+Title: SA Asks: What's the best weight-loss drug stock right now? | $NVO $LLY $AMGN $RHHBY $PFE
+Date: 2025-04-17 22:11:00
+Sentiment: neutral
+Explanation: The news is a comparison piece involving several weight-loss drug stocks, including AMGN. While AMGN is mentioned, it doesn't constitute any significant news directly affecting its financials or operations in the immediate short term (60 minutes). Therefore, this generalized mention is unlikely to cause a significant price deviation for AMGN within the specified timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Eli Lilly jumps as oral GLP-1 drug succeeds in Phase 3 trial | $AMGN $NVO $LLY $VKTX $GPCR
+Date: 2025-04-17 13:04:46
+Sentiment: negative
+Explanation: Eli Lilly's success with its oral GLP-1 drug in Phase 3 directly increases competition for AMGN in the weight management and diabetes space, potentially impacting future market share and revenue (Direct Impact). While longer term implications are present, the immediate trader reaction will likely be negative due to increased competitive pressure. (Sentiment Trigger).
+```
+--------------------------------------------------------------------------------
+
+Title: Potential Medicaid Cuts Threaten Maternal Healthcare
+Date: 2025-04-16 18:00:46
+Sentiment: neutral
+Explanation: While the article mentions "potential Medicaid cuts," the impact on AMGN within the next 60 minutes is unlikely to be significant. The description also references Amgen's AI hire, but this is a minor point unlikely to trigger immediate trading activity. Thus, the news lacks a strong, immediate catalyst for AMGN's stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump targets Medicare price negotiations in new executive order | $JNJ $BMY $PFE $LLY $AMGN
+Date: 2025-04-16 02:23:15
+Sentiment: negative
+Explanation: The news of Trump targeting Medicare price negotiations directly impacts AMGN, a major pharmaceutical company relying on Medicare revenue. This introduces uncertainty and potential for decreased revenue in the short term, triggering immediate negative sentiment and selling pressure from algorithms and short-term traders as the market reacts to the potential policy shift.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen faces antitrust lawsuit from Sandoz over Enbrel patents | $AMGN $SDZXF $SDZNY $NVS $NVSEF
+Date: 2025-04-14 13:32:40
+Sentiment: negative
+Explanation: An antitrust lawsuit regarding Enbrel patents from a competitor (Sandoz) introduces uncertainty and potential legal costs for Amgen, directly impacting revenue and potentially market share. While the long-term effects are unknown, the immediate reaction is likely to be negative as traders factor in potential litigation expenses and competitive pressure. This constitutes a negative catalyst within the 60-minute time horizon.
+```
+--------------------------------------------------------------------------------
+
+Title: AI-focused drug discovery firms rise as FDA phases out animal testing | $CRL $ABCL $DNA $RXRX $AMGN
+Date: 2025-04-11 19:56:21
+Sentiment: neutral
+Explanation: While the news mentions AMGN, it primarily focuses on a broader industry trend related to AI and animal testing. The impact on AMGN within the next 60 minutes is likely negligible, as there is no direct, quantifiable impact mentioned, and the shift towards AI drug discovery is a longer-term trend, not an immediate catalyst for significant price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: Why Amgen Hired An AI Head From Nike
+Date: 2025-04-11 16:03:26
+Sentiment: positive
+Explanation: Hiring an AI head from a prominent company like Nike signals Amgen's commitment to innovation and efficiency, which is likely to be perceived positively by short-term traders. While the impact is not immediately quantifiable, the "surprise" factor and potential for improved drug discovery processes could trigger initial buying pressure, driving the stock price slightly higher in the short term. No immediate negative factors are apparent.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen succeeds in late-stage trial for small cell lung cancer | $AMGN
+Date: 2025-04-11 15:36:42
+Sentiment: positive
+Explanation: The headline "Amgen succeeds in late-stage trial for small cell lung cancer" suggests a positive catalyst. Late-stage trial success for a drug indicates potential revenue generation in the near future, surprising positively to investors. This should lead to increased buying pressure in the short term, pushing the stock price up within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Is Getting Into the Obesity Drug Business. Buy the Stock Before It Becomes the Next Winner.
+Date: 2025-04-10 07:00:00
+Sentiment: positive
+Explanation: The title "Amgen Is Getting Into the Obesity Drug Business...Buy the Stock" suggests a positive catalyst. While the description is limited, the implication of entering a high-growth market like obesity, combined with a direct call to buy the stock, indicates potential short-term FOMO (fear of missing out) buying from retail and algorithmic traders. This creates a high probability of a price increase within the immediate 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen got expanded FDA label approval for Uplizna | $AMGN
+Date: 2025-04-03 22:37:45
+Sentiment: positive
+Explanation: FDA label expansion is a known positive catalyst, directly impacting potential revenue for Uplizna. The short timeframe makes it likely that algorithmic and high-frequency traders will react positively to the headline, driving up the price in the immediate term due to increased market demand.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Wins FDA Nod for Uplizna to Treat Rare Disease
+Date: 2025-04-03 21:38:12
+Sentiment: positive
+Explanation: FDA approval for Uplizna is a direct positive catalyst for AMGN. The news highlights approval for a treatment in a specific rare disease, signaling potential revenue growth. The market will likely react positively in the short term to the immediate FDA approval announcement given that it's a new treatment for a rare disease.
+```
+--------------------------------------------------------------------------------
+
+Title: Big Pharma higher after tariff exemption despite ongoing uncertainties | $PPH $JNJ $GSK $AZN $AMGN
+Date: 2025-04-03 17:10:47
+Sentiment: positive
+Explanation: The title indicates a tariff exemption benefiting Big Pharma, including AMGN. This suggests lower costs and increased profitability for AMGN, which is likely to trigger positive sentiment and buying pressure in the short term. The immediate impact should be positive as traders react to the exemption.
+```
+--------------------------------------------------------------------------------
+
+Title: Senior leaders at HHS put on administrative leave amid staff cuts - report | $AMGN $GILD $JNJ $BMY $PFE
+Date: 2025-04-01 17:45:37
+Sentiment: neutral
+Explanation: While the news mentions "staff cuts" at HHS, implying potential future implications for the healthcare industry and companies like AMGN, the administrative leave of senior leaders itself is unlikely to have a significant, immediate impact on AMGN's stock price within 60 minutes. No direct impact on AMGN's revenue, costs, or operations is apparent; therefore, the news is classified as NEUTRAL.
+```
+--------------------------------------------------------------------------------
+
+Title: Trump unlikely to specify any pharma tariffs in ‘Liberation Day’ announcement: Reuters | $JNJ $ABT $PFE $MRK $AMGN
+Date: 2025-04-01 13:13:37
+Sentiment: positive
+Explanation: The news indicates that potential pharma tariffs, a previous overhang on the sector, are now less likely to be specified in an upcoming announcement. This removes a potential negative catalyst for AMGN and the pharma industry in general, likely leading to short-term relief buying. The surprise factor, combined with the broad-based industry relief, suggests a positive sentiment-driven price increase within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Pfizer ran what could be the largest tax dodging scheme among Big Pharma: Senator | $PFE $AMGN $MRK $ABBV
+Date: 2025-03-27 19:27:56
+Sentiment: neutral
+Explanation: While the news involves other pharmaceutical companies ($PFE, $MRK, $ABBV) and allegations of tax avoidance, it has no direct impact on AMGN's immediate operations, revenue, or cost structure within the next 60 minutes. The article's focus on Pfizer makes AMGN's inclusion likely due to sector association, not direct implication. Therefore, the sentiment is neutral as the risk of a significant price movement in AMGN within 60 minutes based on this news alone is low.
+```
+--------------------------------------------------------------------------------
+
+Title: Fresenius gets FDA approval for biosimilars of Amgen's bone-condition drugs
+Date: 2025-03-26 19:20:33
+Sentiment: negative
+Explanation: FDA approval for biosimilars of AMGN's bone-condition drugs poses a direct threat to AMGN's revenue stream from those specific drugs. While long-term impacts might be nuanced, the immediate reaction will likely be negative as traders anticipate decreased sales and increased competition in that market. This is a significant catalyst event for AMGN.
+```
+--------------------------------------------------------------------------------
+
+Title: Marty Makary and Jay Bhattacharya clear Senate hurdles to lead FDA and NIH | $PFE $NVO $LLY $MRK $AMGN
+Date: 2025-03-26 11:56:17
+Sentiment: neutral
+Explanation: The news focuses on potential leadership changes at the FDA and NIH. While these changes *could* have long-term implications for the pharmaceutical industry, the immediate impact on AMGN's stock price within the next 60 minutes is likely negligible. The news lacks specific, quantifiable data directly affecting AMGN's revenue or operations in the short term, and the market impact of these potential appointments is difficult to predict immediately.
+```
+--------------------------------------------------------------------------------
+
+Title: Alvotech and Dr. Reddy’s biosimilar for Amgen's Prolia under FDA review | $AMGN $RDY $ALVO
+Date: 2025-03-18 15:06:06
+Sentiment: negative
+Explanation: The FDA review of a biosimilar for Amgen's Prolia introduces immediate competitive pressure. While approval is not guaranteed, the news increases the perceived likelihood of future competition for a key Amgen product, which will likely trigger a negative sentiment reaction within the next 60 minutes. This negatively impacts AMGN's expected revenue from Prolia.
+```
+--------------------------------------------------------------------------------
+
+Title: FDA commissioner nominee Makary advances to full Senate vote | $AMGN $GILD $JNJ $GSK $BMY
+Date: 2025-03-13 15:58:39
+Sentiment: neutral
+Explanation: The news is about the FDA commissioner nominee advancing to a full Senate vote. While relevant to the healthcare sector, it doesn't directly impact AMGN's specific products, revenue, or costs within the next 60 minutes. The development is likely already somewhat anticipated and lacks the immediate surprise factor or direct financial implications necessary to drive a significant short-term price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen set for seven straight sessions of gains
+Date: 2025-03-10 18:38:08
+Sentiment: positive
+Explanation: The news title "Amgen set for seven straight sessions of gains" suggests positive momentum and investor sentiment. This could trigger further short-term buying pressure from momentum traders and algorithms within the next 60 minutes, creating a positive price movement due to FOMO (Fear Of Missing Out). While potentially not a fundamental driver, the psychological impact and short-term trading strategies triggered by this news warrant a positive classification.
+```
+--------------------------------------------------------------------------------
+
+Title: Notable healthcare headlines for the week: Walgreens Boots Alliance, AbbVie and Novo Nordisk in focus | $XLV $AMGN $BIIB $JNJ $NVO
+Date: 2025-03-09 14:05:09
+Sentiment: neutral
+Explanation: The headline is simply a list of healthcare headlines, including AMGN. It does not contain any specific news about AMGN itself, and its mention as one of several companies suggests no particularly positive or negative immediate catalyst. Therefore, there is no identifiable direct impact or sentiment trigger likely to move AMGN's price in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen begins late-stage trials for obesity therapy
+Date: 2025-03-05 16:38:26
+Sentiment: positive
+Explanation: Starting late-stage trials for an obesity therapy represents a significant catalyst. The obesity market is highly lucrative, so positive news around a potential product's progression to this stage should create immediate, albeit potentially short-lived, buying pressure due to perceived revenue opportunities for AMGN in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen starts two critical late-stage trials for weight loss drug MariTide
+Date: 2025-03-05 15:54:53
+Sentiment: positive
+Explanation: Starting late-stage trials for MariTide is a positive catalyst. The description emphasizes potential competition with Novo Nordisk and Eli Lilly, suggesting significant market opportunity if successful. Short-term traders are likely to react positively to this development, pushing the stock price up in anticipation.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen Starts Final-Stage Studies of Its Monthly Obesity Drug
+Date: 2025-03-05 15:52:52
+Sentiment: positive
+Explanation: The news of Amgen starting final-stage studies for its obesity drug represents a significant positive catalyst. This highlights Amgen's progress in a high-growth market (obesity treatment), and the "final-stage" detail creates a positive surprise factor and will likely trigger short-term buying from traders expecting a future blockbuster drug, thus driving up the price in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Amgen declares $2.38 dividend
+Date: 2025-03-04 22:56:41
+Sentiment: positive
+Explanation: Dividend declarations are generally viewed favorably as they represent a return of capital to shareholders. While expected by some, the confirmation and specific amount ($2.38) offer immediate positive sentiment. This news is a known catalyst type for short-term buying pressure from dividend-focused traders and algorithms.
+```
+--------------------------------------------------------------------------------

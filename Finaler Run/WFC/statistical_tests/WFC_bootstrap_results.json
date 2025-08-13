@@ -1,0 +1,29 @@
+{
+  "strategy_name": "WFC",
+  "backtest_summary": {
+    "total_trades": 23,
+    "profitable_trades": 13,
+    "losing_trades": 10,
+    "win_rate": 0.5652173913043478
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.1417,
+      "mean_return": -0.26972211756043446,
+      "confidence_interval": [
+        -0.77287816683553,
+        0.22611386712123252
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.389,
+      "mean_return": -0.06994837186088704,
+      "confidence_interval": [
+        -0.579626730453983,
+        0.43098613205157815
+      ],
+      "significant": false
+    }
+  }
+}

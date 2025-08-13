@@ -1,0 +1,175 @@
+{
+    "ticker": "GILD",
+    "total_trades": 4,
+    "winning_trades": 2,
+    "losing_trades": 2,
+    "win_rate": 0.5,
+    "total_return_pct": 0.8465181259018462,
+    "average_return_pct": 0.21162953147546154,
+    "median_return_pct": 0.29008252850648664,
+    "return_std_dev": 0.48839965591631446,
+    "sharpe_ratio": 6.8786179954696065,
+    "max_drawdown_pct": -0.5255772769680304,
+    "drawdown_duration": 2,
+    "profit_factor": 2.609337392489095,
+    "expected_return_pct": 0.21162953147546154,
+    "trades": [
+        {
+            "ticker": "GILD",
+            "entry_time": "2025-03-19 13:59:00",
+            "entry_price": 108.01,
+            "exit_time": "2025-03-19 14:59:00",
+            "exit_price": 107.06,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.8795481899824117,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.9500000000000028,
+            "transaction_fees": 0.21507,
+            "pnl_after_fees": 0.7349300000000029,
+            "return_pct_after_fees": 0.6804277381723941
+        },
+        {
+            "ticker": "GILD",
+            "entry_time": "2025-04-21 15:30:00",
+            "entry_price": 104.1,
+            "exit_time": "2025-04-21 16:30:00",
+            "exit_price": 105.0296,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.8929875120076924,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Monday",
+            "pnl": 0.9296000000000078,
+            "transaction_fees": 0.2091296,
+            "pnl_after_fees": 0.7204704000000077,
+            "return_pct_after_fees": 0.6920945244956848
+        },
+        {
+            "ticker": "GILD",
+            "entry_time": "2025-05-23 15:21:00",
+            "entry_price": 106.21,
+            "exit_time": "2025-05-23 16:21:00",
+            "exit_price": 105.97,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.2259674230298417,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": -0.23999999999999488,
+            "transaction_fees": 0.21217999999999998,
+            "pnl_after_fees": -0.45217999999999486,
+            "return_pct_after_fees": -0.42574145560681187
+        },
+        {
+            "ticker": "GILD",
+            "entry_time": "2025-06-17 14:23:00",
+            "entry_price": 110.4,
+            "exit_time": "2025-06-17 15:23:00",
+            "exit_price": 110.29,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.09963768115941976,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": 0.10999999999999943,
+            "transaction_fees": 0.22069000000000003,
+            "pnl_after_fees": -0.1106900000000006,
+            "return_pct_after_fees": -0.10026268115942083
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 2,
+            "total_return": 0.2663530688888729,
+            "avg_return": 0.13317653444443645,
+            "median_return": 0.13317653444443645,
+            "win_rate": 0.5,
+            "std_dev": 0.5589179900512483,
+            "sharpe_ratio": 3.7825083130041866,
+            "profit_factor": 1.6256216428565506
+        },
+        "negative": {
+            "count": 2,
+            "total_return": 0.5801650570129733,
+            "avg_return": 0.29008252850648664,
+            "median_return": 0.29008252850648664,
+            "win_rate": 0.5,
+            "std_dev": 0.39034520966590747,
+            "sharpe_ratio": 11.797038279575952,
+            "profit_factor": 6.786450654461279
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 3,
+            "total_return": 0.946780807061267,
+            "avg_return": 0.31559360235375566,
+            "win_rate": 0.6666666666666666
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.10026268115942083,
+            "avg_return": -0.10026268115942083,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 1,
+            "total_return": 0.6804277381723941,
+            "avg_return": 0.6804277381723941,
+            "win_rate": 1.0
+        },
+        "Afternoon": {
+            "count": 3,
+            "total_return": 0.16609038772945206,
+            "avg_return": 0.05536346257648402,
+            "win_rate": 0.3333333333333333
+        }
+    },
+    "day_of_week_stats": {
+        "Wednesday": {
+            "count": 1,
+            "total_return": 0.6804277381723941,
+            "avg_return": 0.6804277381723941,
+            "win_rate": 1.0
+        },
+        "Monday": {
+            "count": 1,
+            "total_return": 0.6920945244956848,
+            "avg_return": 0.6920945244956848,
+            "win_rate": 1.0
+        },
+        "Friday": {
+            "count": 1,
+            "total_return": -0.42574145560681187,
+            "avg_return": -0.42574145560681187,
+            "win_rate": 0.0
+        },
+        "Tuesday": {
+            "count": 1,
+            "total_return": -0.10026268115942083,
+            "avg_return": -0.10026268115942083,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-19 13:59:00",
+        "end_date": "2025-06-17 15:23:00",
+        "start_price": 108.01,
+        "end_price": 110.24,
+        "buyhold_return_pct": 2.0646236459586964,
+        "strategy_return_pct": 0.8465181259018462,
+        "outperformance_pct": -1.2181055200568502
+    }
+}

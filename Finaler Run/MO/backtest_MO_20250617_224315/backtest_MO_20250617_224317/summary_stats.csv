@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Positive Sentiment - Count,Positive Sentiment - Avg Return (%),Positive Sentiment - Win Rate (%),Negative Sentiment - Count,Negative Sentiment - Avg Return (%),Negative Sentiment - Win Rate (%)
+MO,3,1,2,33.33,-1.0,-0.33,1,-1.0,0.0,2,0.0,50.0

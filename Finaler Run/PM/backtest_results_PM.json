@@ -1,0 +1,259 @@
+{
+    "ticker": "PM",
+    "total_trades": 8,
+    "winning_trades": 3,
+    "losing_trades": 5,
+    "win_rate": 0.375,
+    "total_return_pct": -4.264951223702234,
+    "average_return_pct": -0.5331189029627792,
+    "median_return_pct": -0.15899343406580052,
+    "return_std_dev": 1.215388584541434,
+    "sharpe_ratio": -6.963205287957863,
+    "max_drawdown_pct": -4.259429755522802,
+    "drawdown_duration": 5,
+    "profit_factor": 0.14427573012120615,
+    "expected_return_pct": -0.5331189029627791,
+    "trades": [
+        {
+            "ticker": "PM",
+            "entry_time": "2025-04-22 12:47:00",
+            "entry_price": 162.27,
+            "exit_time": "2025-04-22 14:00:00",
+            "exit_price": 162.0,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.16638935108153707,
+            "trade_duration_min": 73.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": -0.27000000000001023,
+            "transaction_fees": 0.32427000000000006,
+            "pnl_after_fees": -0.5942700000000103,
+            "return_pct_after_fees": -0.36622296173045554
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-04-23 13:25:00",
+            "entry_price": 170.6,
+            "exit_time": "2025-04-23 13:26:00",
+            "exit_price": 171.5,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.527549824150062,
+            "trade_duration_min": 1.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.9000000000000057,
+            "transaction_fees": 0.3421,
+            "pnl_after_fees": 0.5579000000000056,
+            "return_pct_after_fees": 0.3270222743259119
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-04-23 13:28:00",
+            "entry_price": 171.94,
+            "exit_time": "2025-04-23 13:26:00",
+            "exit_price": 171.5,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.2559032220542036,
+            "trade_duration_min": -2.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.4399999999999977,
+            "transaction_fees": 0.34344,
+            "pnl_after_fees": 0.0965599999999977,
+            "return_pct_after_fees": 0.0561591252762578
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-04-23 13:28:00",
+            "entry_price": 171.94,
+            "exit_time": "2025-04-23 14:00:00",
+            "exit_price": 166.0205,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -3.4427707339769684,
+            "trade_duration_min": 32.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -5.919499999999999,
+            "transaction_fees": 0.3379605,
+            "pnl_after_fees": -6.2574605,
+            "return_pct_after_fees": -3.6393279632429913
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-04-29 13:40:00",
+            "entry_price": 169.98,
+            "exit_time": "2025-04-29 14:44:00",
+            "exit_price": 169.07,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.5353571008353905,
+            "trade_duration_min": 64.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": 0.9099999999999966,
+            "transaction_fees": 0.33904999999999996,
+            "pnl_after_fees": 0.5709499999999966,
+            "return_pct_after_fees": 0.33589245793622585
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-05-22 15:03:00",
+            "entry_price": 174.64,
+            "exit_time": "2025-05-22 16:03:00",
+            "exit_price": 173.835,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.4609482363719528,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -0.8049999999999784,
+            "transaction_fees": 0.348475,
+            "pnl_after_fees": -1.1534749999999785,
+            "return_pct_after_fees": -0.6604872881355808
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-06-03 13:17:00",
+            "entry_price": 182.62,
+            "exit_time": "2025-06-03 14:29:00",
+            "exit_price": 182.76,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.07666192092869695,
+            "trade_duration_min": 72.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": 0.13999999999998636,
+            "transaction_fees": 0.36538000000000004,
+            "pnl_after_fees": -0.22538000000001368,
+            "return_pct_after_fees": -0.12341474099223179
+        },
+        {
+            "ticker": "PM",
+            "entry_time": "2025-06-13 12:45:00",
+            "entry_price": 184.05,
+            "exit_time": "2025-06-13 13:45:00",
+            "exit_price": 184.06,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.005433306166797557,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Midday",
+            "day_of_week": "Friday",
+            "pnl": 0.009999999999990905,
+            "transaction_fees": 0.36811000000000005,
+            "pnl_after_fees": -0.35811000000000914,
+            "return_pct_after_fees": -0.19457212713936928
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 6,
+            "total_return": -4.657002806914717,
+            "avg_return": -0.7761671344857861,
+            "median_return": -0.2803975444349124,
+            "win_rate": 0.16666666666666666,
+            "std_dev": 1.31405804631134,
+            "sharpe_ratio": -9.376504574217881,
+            "profit_factor": 0.06561409081924387
+        },
+        "negative": {
+            "count": 2,
+            "total_return": 0.3920515832124837,
+            "avg_return": 0.19602579160624184,
+            "median_return": 0.19602579160624184,
+            "win_rate": 1.0,
+            "std_dev": 0.139866666329984,
+            "sharpe_ratio": 22.248424535453694,
+            "profit_factor": 0
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 4,
+            "total_return": -0.8142325329220422,
+            "avg_return": -0.20355813323051056,
+            "win_rate": 0.25
+        },
+        "conflict_flip": {
+            "count": 2,
+            "total_return": 0.3831813996021697,
+            "avg_return": 0.19159069980108484,
+            "win_rate": 1.0
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -3.6393279632429913,
+            "avg_return": -3.6393279632429913,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.19457212713936928,
+            "avg_return": -0.19457212713936928,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 7,
+            "total_return": -3.6044639355666526,
+            "avg_return": -0.5149234193666646,
+            "win_rate": 0.42857142857142855
+        },
+        "Afternoon": {
+            "count": 1,
+            "total_return": -0.6604872881355808,
+            "avg_return": -0.6604872881355808,
+            "win_rate": 0.0
+        }
+    },
+    "day_of_week_stats": {
+        "Tuesday": {
+            "count": 3,
+            "total_return": -0.15374524478646148,
+            "avg_return": -0.05124841492882049,
+            "win_rate": 0.3333333333333333
+        },
+        "Wednesday": {
+            "count": 3,
+            "total_return": -3.256146563640822,
+            "avg_return": -1.0853821878802739,
+            "win_rate": 0.6666666666666666
+        },
+        "Thursday": {
+            "count": 1,
+            "total_return": -0.6604872881355808,
+            "avg_return": -0.6604872881355808,
+            "win_rate": 0.0
+        },
+        "Friday": {
+            "count": 1,
+            "total_return": -0.19457212713936928,
+            "avg_return": -0.19457212713936928,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-04-22 12:47:00",
+        "end_date": "2025-06-13 13:45:00",
+        "start_price": 162.27,
+        "end_price": 184.05,
+        "buyhold_return_pct": 13.422074320576826,
+        "strategy_return_pct": -4.264951223702234,
+        "outperformance_pct": -17.68702554427906
+    }
+}

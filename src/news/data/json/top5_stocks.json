@@ -1,0 +1,9 @@
+{
+  "tickers": [
+    {"ticker": "AAPL", "name": "Apple Inc."},
+    {"ticker": "MSFT", "name": "Microsoft Corp."},
+    {"ticker": "AMZN", "name": "Amazon.com Inc."},
+    {"ticker": "GOOGL", "name": "Alphabet Inc. (Class A)"},
+    {"ticker": "META", "name": "Meta Platforms Inc."}
+  ]
+} 

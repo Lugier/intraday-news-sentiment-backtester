@@ -1,0 +1,29 @@
+{
+  "strategy_name": "ORCL",
+  "backtest_summary": {
+    "total_trades": 27,
+    "profitable_trades": 12,
+    "losing_trades": 14,
+    "win_rate": 0.4444444444444444
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.3834,
+      "mean_return": 0.08856279833345118,
+      "confidence_interval": [
+        -0.4198195423318022,
+        0.6424095307037375
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.14,
+      "mean_return": 0.28862376154004465,
+      "confidence_interval": [
+        -0.2093902442399534,
+        0.8543880318043885
+      ],
+      "significant": false
+    }
+  }
+}

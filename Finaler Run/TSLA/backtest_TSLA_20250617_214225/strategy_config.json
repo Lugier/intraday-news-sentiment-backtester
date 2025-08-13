@@ -1,0 +1,18 @@
+{
+    "ticker": "TSLA",
+    "date": "2025-06-17 21:42:25",
+    "total_news": 3160,
+    "positive_news": 332,
+    "negative_news": 1392,
+    "neutral_news": 1436,
+    "actionable_news": 1724,
+    "strategy_type": "flip_strategy",
+    "entry_delay_minutes": 2,
+    "holding_period_minutes": 60,
+    "use_stop_loss": true,
+    "stop_loss_pct": 2.0,
+    "take_profit_pct": Infinity,
+    "include_after_hours": false,
+    "max_workers": 16,
+    "transaction_fee_pct": 0.001
+}

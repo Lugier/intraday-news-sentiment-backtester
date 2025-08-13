@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,UNH
+Total Trades,34
+Profitable Trades,19
+Losing Trades,15
+Win Rate,55.88%
+Mean Return,0.486941
+Return 95% CI Lower,-0.226312
+Return 95% CI Upper,1.470011
+Return p-value,0.1251
+Return Significant?,No
+Mean Trade Return,0.686287
+Trade Return 95% CI Lower,-0.025226
+Trade Return 95% CI Upper,1.671596
+Trade Return p-value,0.0301
+Trade Return Significant?,Yes
+Bootstrap Simulations,10000

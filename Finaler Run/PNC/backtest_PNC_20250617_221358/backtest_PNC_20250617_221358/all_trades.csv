@@ -1,0 +1,2 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+PNC,2025-04-15 13:02:00,156.0,2025-04-15 14:02:00,155.32,long,positive,-0.4358974358974403,60.0,end_of_data,Midday,Tuesday,-0.6800000000000068,0.31132,-0.9913200000000069,-0.6354615384615429

@@ -1,0 +1,295 @@
+{
+    "ticker": "ABBV",
+    "total_trades": 10,
+    "winning_trades": 5,
+    "losing_trades": 5,
+    "win_rate": 0.5,
+    "total_return_pct": -0.3120273998086933,
+    "average_return_pct": -0.03120273998086933,
+    "median_return_pct": 0.21556064257027902,
+    "return_std_dev": 1.0441932037226271,
+    "sharpe_ratio": -0.47436445622637013,
+    "max_drawdown_pct": -3.242811054452178,
+    "drawdown_duration": 4,
+    "profit_factor": 0.9271442047599017,
+    "expected_return_pct": -0.031202739980869365,
+    "trades": [
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-03-03 13:08:00",
+            "entry_price": 209.1,
+            "exit_time": "2025-03-03 14:20:00",
+            "exit_price": 209.18,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.03825920612147896,
+            "trade_duration_min": 72.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": 0.0800000000000125,
+            "transaction_fees": 0.41828,
+            "pnl_after_fees": -0.3382799999999875,
+            "return_pct_after_fees": -0.16177905308464255
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-03-10 13:56:00",
+            "entry_price": 210.02,
+            "exit_time": "2025-03-10 14:34:00",
+            "exit_price": 214.625,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -2.1926483192076898,
+            "trade_duration_min": 38.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": -4.60499999999999,
+            "transaction_fees": 0.42464500000000005,
+            "pnl_after_fees": -5.02964499999999,
+            "return_pct_after_fees": -2.3948409675268976
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-03-11 12:09:00",
+            "entry_price": 216.44,
+            "exit_time": "2025-03-11 13:22:00",
+            "exit_price": 216.66,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.10164479763444784,
+            "trade_duration_min": 73.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": -0.21999999999999886,
+            "transaction_fees": 0.4331,
+            "pnl_after_fees": -0.6530999999999989,
+            "return_pct_after_fees": -0.30174644243208226
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-03-27 14:12:00",
+            "entry_price": 201.0,
+            "exit_time": "2025-03-27 15:12:00",
+            "exit_price": 202.87,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.9303482587064699,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 1.8700000000000045,
+            "transaction_fees": 0.40387000000000006,
+            "pnl_after_fees": 1.4661300000000046,
+            "return_pct_after_fees": 0.7294179104477634
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-04-08 15:26:00",
+            "entry_price": 187.64,
+            "exit_time": "2025-04-08 16:26:00",
+            "exit_price": 185.595,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -1.0898529098273224,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": -2.0449999999999875,
+            "transaction_fees": 0.373235,
+            "pnl_after_fees": -2.4182349999999877,
+            "return_pct_after_fees": -1.288763056917495
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-04-24 15:26:00",
+            "entry_price": 176.98,
+            "exit_time": "2025-04-24 16:26:00",
+            "exit_price": 179.4,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 1.3673861453271647,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 2.420000000000016,
+            "transaction_fees": 0.35638000000000003,
+            "pnl_after_fees": 2.0636200000000158,
+            "return_pct_after_fees": 1.1660187591818376
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-04-25 13:48:00",
+            "entry_price": 185.0,
+            "exit_time": "2025-04-25 14:15:00",
+            "exit_price": 186.42,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.7675675675675608,
+            "trade_duration_min": 27.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Friday",
+            "pnl": 1.4199999999999875,
+            "transaction_fees": 0.37142,
+            "pnl_after_fees": 1.0485799999999874,
+            "return_pct_after_fees": 0.5667999999999933
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-04-25 14:17:00",
+            "entry_price": 186.75,
+            "exit_time": "2025-04-25 14:24:00",
+            "exit_price": 186.63,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.06425702811245224,
+            "trade_duration_min": 7.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": 0.12000000000000455,
+            "transaction_fees": 0.37338,
+            "pnl_after_fees": -0.25337999999999544,
+            "return_pct_after_fees": -0.1356787148594353
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-04-25 14:28:00",
+            "entry_price": 186.29,
+            "exit_time": "2025-04-25 15:28:00",
+            "exit_price": 188.3,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 1.078962907295088,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": 2.0100000000000193,
+            "transaction_fees": 0.37459,
+            "pnl_after_fees": 1.6354100000000193,
+            "return_pct_after_fees": 0.8778839443877928
+        },
+        {
+            "ticker": "ABBV",
+            "entry_time": "2025-05-16 15:25:00",
+            "entry_price": 181.0,
+            "exit_time": "2025-05-16 16:25:00",
+            "exit_price": 182.505,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.8314917127071797,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": 1.5049999999999955,
+            "transaction_fees": 0.36350499999999997,
+            "pnl_after_fees": 1.1414949999999955,
+            "return_pct_after_fees": 0.6306602209944725
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 7,
+            "total_return": 2.520238725009722,
+            "avg_return": 0.36003410357281745,
+            "median_return": 0.6306602209944725,
+            "win_rate": 0.7142857142857143,
+            "std_dev": 0.7709952564008704,
+            "sharpe_ratio": 7.412969356017462,
+            "profit_factor": 2.7374460952436657
+        },
+        "negative": {
+            "count": 3,
+            "total_return": -2.832266124818415,
+            "avg_return": -0.944088708272805,
+            "median_return": -0.30174644243208226,
+            "win_rate": 0.0,
+            "std_dev": 1.0280746441231543,
+            "sharpe_ratio": -14.577680435671745,
+            "profit_factor": 0.0
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 6,
+            "total_return": 1.0210320615831738,
+            "avg_return": 0.1701720102638623,
+            "win_rate": 0.5
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -2.3948409675268976,
+            "avg_return": -2.3948409675268976,
+            "win_rate": 0.0
+        },
+        "conflict_flip": {
+            "count": 2,
+            "total_return": 0.43112128514055803,
+            "avg_return": 0.21556064257027902,
+            "win_rate": 0.5
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": 0.6306602209944725,
+            "avg_return": 0.6306602209944725,
+            "win_rate": 1.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 4,
+            "total_return": -2.2915664630436288,
+            "avg_return": -0.5728916157609072,
+            "win_rate": 0.25
+        },
+        "Afternoon": {
+            "count": 6,
+            "total_return": 1.9795390632349361,
+            "avg_return": 0.3299231772058227,
+            "win_rate": 0.6666666666666666
+        }
+    },
+    "day_of_week_stats": {
+        "Monday": {
+            "count": 2,
+            "total_return": -2.55662002061154,
+            "avg_return": -1.27831001030577,
+            "win_rate": 0.0
+        },
+        "Tuesday": {
+            "count": 2,
+            "total_return": -1.5905094993495772,
+            "avg_return": -0.7952547496747886,
+            "win_rate": 0.0
+        },
+        "Thursday": {
+            "count": 2,
+            "total_return": 1.895436669629601,
+            "avg_return": 0.9477183348148005,
+            "win_rate": 1.0
+        },
+        "Friday": {
+            "count": 4,
+            "total_return": 1.9396654505228235,
+            "avg_return": 0.48491636263070587,
+            "win_rate": 0.75
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-03 13:08:00",
+        "end_date": "2025-05-16 16:25:00",
+        "start_price": 209.1,
+        "end_price": 182.435,
+        "buyhold_return_pct": -12.752271640363455,
+        "strategy_return_pct": -0.3120273998086933,
+        "outperformance_pct": 12.440244240554762
+    }
+}

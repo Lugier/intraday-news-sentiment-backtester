@@ -1,0 +1,23 @@
+{
+  "filtering_statistics": {
+    "total_fetched_from_api": 1,
+    "filtered_by_source": 0,
+    "filtered_by_missing_data": 0,
+    "filtered_by_neutral_sentiment": 0,
+    "filtered_by_after_hours": 1,
+    "filtered_by_weekend": 0,
+    "filtered_by_missing_market_data": 0,
+    "final_valid_news": 1,
+    "final_trades_executed": 0
+  },
+  "total_news_removed": 1,
+  "conversion_rate_news_to_trades": 0.0,
+  "overall_conversion_rate": 0.0,
+  "detailed_logs": [
+    "Page 1: Fetched 1 news from API",
+    "Source filter: Removed 0 news (kept 1)",
+    "After hours filter: Removed 1 news",
+    "Final valid news: 1",
+    "Trades executed: 0"
+  ]
+}

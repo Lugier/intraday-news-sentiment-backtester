@@ -1,0 +1,29 @@
+{
+  "strategy_name": "AAPL",
+  "backtest_summary": {
+    "total_trades": 213,
+    "profitable_trades": 108,
+    "losing_trades": 103,
+    "win_rate": 0.5070422535211268
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0,
+      "mean_return": -0.23177590963386271,
+      "confidence_interval": [
+        -0.3265380885638448,
+        -0.1350257140817371
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2639,
+      "mean_return": -0.03179261301923352,
+      "confidence_interval": [
+        -0.1274483943701962,
+        0.06704787672917172
+      ],
+      "significant": false
+    }
+  }
+}

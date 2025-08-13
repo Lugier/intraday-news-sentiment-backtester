@@ -1,0 +1,29 @@
+{
+  "strategy_name": "UNH",
+  "backtest_summary": {
+    "total_trades": 34,
+    "profitable_trades": 19,
+    "losing_trades": 15,
+    "win_rate": 0.5588235294117647
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.1251,
+      "mean_return": 0.48694136278683225,
+      "confidence_interval": [
+        -0.22631151740933597,
+        1.4700110642969462
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.0301,
+      "mean_return": 0.6862865094903444,
+      "confidence_interval": [
+        -0.02522638955493897,
+        1.671596465257485
+      ],
+      "significant": true
+    }
+  }
+}

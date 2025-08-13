@@ -1,0 +1,29 @@
+{
+  "strategy_name": "BLK",
+  "backtest_summary": {
+    "total_trades": 48,
+    "profitable_trades": 18,
+    "losing_trades": 21,
+    "win_rate": 0.375
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0038,
+      "mean_return": -0.2643789271225079,
+      "confidence_interval": [
+        -0.4705059093566643,
+        -0.0740797415725859
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2574,
+      "mean_return": -0.06429028235872983,
+      "confidence_interval": [
+        -0.2677686834220547,
+        0.12844829649717457
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,63 @@
+================================================================================
+PORTFOLIO EVENT STUDY STATISTICAL ANALYSIS REPORT
+================================================================================
+
+Total stocks analyzed: 57
+Total news events: 62218
+Event distribution: {'positive': 14565, 'negative': 19724, 'neutral': 27929}
+Time windows: [5, 15, 30, 60] minutes
+
+PORTFOLIO T-TEST RESULTS (AAR)
+----------------------------------------
+
+POSITIVE Sentiment:
+  5min: AAR=0.000301, t=0.703, p=0.4849 
+  15min: AAR=-0.000084, t=-0.582, p=0.5626 
+  30min: AAR=0.000015, t=0.088, p=0.9305 
+  60min: AAR=0.000492, t=1.299, p=0.1991 
+
+NEGATIVE Sentiment:
+  5min: AAR=0.000044, t=0.415, p=0.6795 
+  15min: AAR=-0.000129, t=-0.499, p=0.6201 
+  30min: AAR=0.000135, t=0.492, p=0.6243 
+  60min: AAR=-0.000044, t=-0.262, p=0.7942 
+
+NEUTRAL Sentiment:
+  5min: AAR=-0.000193, t=-1.958, p=0.0552 
+  15min: AAR=0.000572, t=1.289, p=0.2026 
+  30min: AAR=-0.000108, t=-0.650, p=0.5184 
+  60min: AAR=-0.000032, t=-0.497, p=0.6208 
+
+
+EFFECT SIZES (Cohen's d vs Neutral)
+----------------------------------------
+
+POSITIVE vs Neutral:
+  5min: d=0.211 (small)
+  15min: d=-0.263 (small)
+  30min: d=0.096 (negligible)
+  60min: d=0.255 (small)
+
+NEGATIVE vs Neutral:
+  5min: d=0.307 (small)
+  15min: d=-0.256 (small)
+  30min: d=0.142 (negligible)
+  60min: d=-0.013 (negligible)
+
+
+MODEL FIT STATISTICS
+----------------------------------------
+Sentiment Prediction Model (R²):
+  5min: R²=0.0029, p=0.4874
+  15min: R²=0.0001, p=0.9195
+  30min: R²=0.0010, p=0.6869
+  60min: R²=0.0143, p=0.1187
+
+
+CONSISTENCY MEASURES
+----------------------------------------
+positive: 29.8% of stocks show consistent directional effects
+negative: 40.4% of stocks show consistent directional effects
+neutral: 0.0% of stocks show consistent directional effects
+
+================================================================================

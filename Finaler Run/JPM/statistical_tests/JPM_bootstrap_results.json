@@ -1,0 +1,29 @@
+{
+  "strategy_name": "JPM",
+  "backtest_summary": {
+    "total_trades": 65,
+    "profitable_trades": 26,
+    "losing_trades": 37,
+    "win_rate": 0.4
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0,
+      "mean_return": -0.41841342257563097,
+      "confidence_interval": [
+        -0.6139999103011726,
+        -0.23533881368347917
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.0086,
+      "mean_return": -0.21833739104349026,
+      "confidence_interval": [
+        -0.4120777593159577,
+        -0.03575889689769538
+      ],
+      "significant": true
+    }
+  }
+}

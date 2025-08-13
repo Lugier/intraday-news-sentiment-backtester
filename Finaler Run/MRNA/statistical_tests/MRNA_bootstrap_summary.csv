@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,MRNA
+Total Trades,10
+Profitable Trades,4
+Losing Trades,6
+Win Rate,40.00%
+Mean Return,-0.092529
+Return 95% CI Lower,-0.472244
+Return 95% CI Upper,0.345923
+Return p-value,0.3178
+Return Significant?,No
+Mean Trade Return,0.107304
+Trade Return 95% CI Lower,-0.269945
+Trade Return 95% CI Upper,0.541068
+Trade Return p-value,0.3216
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,332 @@
+[
+    {
+        "title": "The Aisle-Prowling Albertsons CEO Taking On Kroger",
+        "date": "2025-06-17 13:00:00",
+        "sentiment": "negative",
+        "explanation": "The title suggests increased competitive pressure on Kroger, as Albertsons is directly challenging them. While the specifics are unknown without the description, the phrasing \"taking on Kroger\" implies a negative development for Kroger's market share and potential profitability in the immediate short term. This competitive threat will likely trigger negative sentiment from short-term traders.\n```"
+    },
+    {
+        "title": "Fed Seeks to Preserve Labor Market Lessons in Rewriting Rates Strategy",
+        "date": "2025-06-12 12:00:00",
+        "sentiment": "negative",
+        "explanation": "The news description explicitly mentions that the FTC is likely to sue to block the Kroger-Albertsons tie-up. This is a negative catalyst since the merger being blocked introduces significant uncertainty, increasing costs and potentially derailing KR's growth strategy in the immediate term. This negative news will likely trigger an immediate sell-off, particularly since the merger was viewed as a potential positive catalyst.\n```"
+    },
+    {
+        "title": "Nationwide coordinated retail crime crackdown results in hundreds of arrests, authorities say",
+        "date": "2025-06-04 15:42:58",
+        "sentiment": "positive",
+        "explanation": "The nationwide crackdown on retail crime, involving Kroger, suggests a potential decrease in losses due to theft. This positive sentiment arises because addressing theft directly impacts Kroger's profitability by reducing costs, which may trigger short-term buying based on improved financial outlook.\n```"
+    },
+    {
+        "title": "Consumer staples favorites Kroger and Coca-Cola fall as investors go on the offensive",
+        "date": "2025-06-03 19:39:25",
+        "sentiment": "negative",
+        "explanation": "The title indicates Kroger (KR) is falling as investors become more offensive, which is a negative signal. While the magnitude isn't clear from the title alone, the initial negative reaction of investors suggests a likely short-term price decrease as short-term traders may interpret this as a sign of weakening investor confidence, triggering immediate selling pressure.\n```"
+    },
+    {
+        "title": "Walmart, Amazon, Costco, And Home Depot Tackle The Tariff Whiplash",
+        "date": "2025-06-01 14:00:00",
+        "sentiment": "neutral",
+        "explanation": "The news indicates that Kroger, along with competitors, are actively addressing tariff impacts. This action suggests mitigation, not necessarily a positive or negative outcome on revenue immediately. This is likely already priced in, and the market will wait for concrete financial results rather than immediately reacting in the next 60 minutes. No quantifiable data to act as a catalyst.\n```"
+    },
+    {
+        "title": "Court OKs Rite Aid Pharmacy Asset Sale To CVS, Walgreens And Grocers",
+        "date": "2025-05-21 23:45:11",
+        "sentiment": "positive",
+        "explanation": "This news is positive because it indicates KR is acquiring assets from Rite Aid. This increases KR's market share and potentially revenue through acquiring pharmacy assets. The immediate trader sentiment will likely be positive, anticipating increased market presence and financial gain within the 60-minute timeframe.\n```"
+    },
+    {
+        "title": "Midea Group, ZTO Express to Join Hong Kong\u2019s Hang Seng Index",
+        "date": "2025-05-16 12:14:23",
+        "sentiment": "neutral",
+        "explanation": "This news concerns the Hang Seng Index adding Midea Group and ZTO Express. There is no direct impact on KR's revenue, costs, operations, or market share identified, failing the \"Direct Impact\" check. Consequently, this news is unlikely to trigger any significant short-term price movement in KR's stock within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger hiring 15,000 new employees",
+        "date": "2025-05-15 16:56:42",
+        "sentiment": "neutral",
+        "explanation": "Hiring 15,000 new employees suggests growth, but lacks specific financial impact in the immediate term. The market might interpret this as increased operating expenses or simply necessary to maintain operations, thus not necessarily prompting immediate buying. The news is not a significant surprise or direct catalyst that would move the price notably within 60 minutes.\n```"
+    },
+    {
+        "title": "Bull Signal Flashing On Flailing Grocery Giant",
+        "date": "2025-05-14 20:12:33",
+        "sentiment": "negative",
+        "explanation": "The news describes KR trading lower and approaching its fifth daily drop in six sessions, which signals negative momentum. While the title mentions a \"Bull Signal,\" the immediate context of the description suggests short-term negative pressure, likely causing more traders to sell in the next 60 minutes than buy.\n```"
+    },
+    {
+        "title": "Kroger quietly shuts down third-party marketplace and shipping service",
+        "date": "2025-05-13 06:00:00",
+        "sentiment": "neutral",
+        "explanation": "The closure of the third-party marketplace and shipping service (\"Kroger Ship\") occurred earlier in March 2025. This suggests the market has already absorbed any potential impact. Furthermore, the company's redirection to pickup and delivery services indicates a shift in strategy rather than a significant loss of revenue or customer base, limiting any immediate negative reaction.\n```"
+    },
+    {
+        "title": "How Underinvestment Is Starving Grocery Stores And Feeding Wall Street",
+        "date": "2025-05-12 13:00:00",
+        "sentiment": "negative",
+        "explanation": "The news highlights \"underinvestment and understaffing\" leading to \"record profits.\" While profits are usually positive, the framing of this news creates a potential negative perception for KR in the short term. Traders may interpret this as unethical practices or unsustainable strategies, triggering a sell-off within the 60-minute window.\n```"
+    },
+    {
+        "title": "Kroger and Albertsons cut worker hours. A new report looks at the impact to workers",
+        "date": "2025-05-09 12:30:00",
+        "sentiment": "negative",
+        "explanation": "The news reports on understaffing and stagnant wages at Kroger, coupled with reduced worker hours. While the merger blockage is already known, this report highlights the negative impact on workers, which could lead to immediate negative sentiment and potentially boycotts, negatively impacting KR's short-term sales and profitability within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Egg lovers can\u2019t get a break. Vital Farms to raise prices because of tariffs.",
+        "date": "2025-05-08 18:23:00",
+        "sentiment": "negative",
+        "explanation": "The news directly affects KR's costs, as they will likely need to pay more for eggs from Vital Farms. This could negatively impact their profit margins or force them to raise prices, potentially impacting sales volumes. While the magnitude is somewhat limited to one supplier's eggs, the negative sentiment trigger of price increases makes a short-term price dip likely.\n```"
+    },
+    {
+        "title": "Alpha Modus and Kroger settle patent dispute with agreement reached",
+        "date": "2025-05-05 14:36:44",
+        "sentiment": "positive",
+        "explanation": "A settlement reached suggests removing a potential cost or liability from KR's financials, even if the details aren't known in the description. In the immediate term, traders are likely to interpret this as a positive development, as it removes uncertainty surrounding the patent dispute, and therefore likely buy the stock. This surprise factor is high enough to trigger a short-term price increase.\n```"
+    },
+    {
+        "title": "Walmart Opens First New Supercenter in 4 Years",
+        "date": "2025-04-30 20:31:15",
+        "sentiment": "neutral",
+        "explanation": "While Walmart's expansion could indirectly affect KR in the long term, there's no immediate, direct impact on KR's revenue, costs, or operations. The news is about a competitor's activities, not KR's. Therefore, it's unlikely to cause a significant price deviation in KR within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Walmart is once again America's grocery king, but rival Costco is rapidly gaining ground",
+        "date": "2025-04-28 21:21:37",
+        "sentiment": "negative",
+        "explanation": "The news highlights Walmart and Costco gaining grocery market share, directly implying KR's market share is being eroded. This creates a negative sentiment trigger among short-term traders who will likely interpret this as a sign of reduced future growth for Kroger. Although not a direct, quantified loss, the trend towards competitors presents an immediate negative pressure.\n```"
+    },
+    {
+        "title": "Walmart leads Raleigh grocery market, but Publix gains fast",
+        "date": "2025-04-25 02:41:07",
+        "sentiment": "neutral",
+        "explanation": "The news focuses on Walmart and Publix's market share in Raleigh, NC. While Kroger operates in the grocery sector, the news doesn't directly impact KR's revenue, operations, or market share in a significant way within the next 60 minutes. There is no indication that the described competitive landscape has a material short-term effect on Kroger.\n```"
+    },
+    {
+        "title": "Albertsons warns of lower-than-expected profit ahead as it gears up to go it alone",
+        "date": "2025-04-15 14:21:00",
+        "sentiment": "negative",
+        "explanation": "The news of Albertsons warning of lower-than-expected profit is likely to negatively impact KR within the next 60 minutes. Although the Albertsons/Kroger merger failed, Albertsons performance directly influences market perception of the grocery sector as a whole and adds negative pressure on KR. This is a direct financial warning (lower-than-expected profit) which is considered a negative catalyst and traders may react immediately by selling KR stock.\n```"
+    },
+    {
+        "title": "Insider trades: Nike, Kroger, GameStop among notable names this week",
+        "date": "2025-04-12 17:03:00",
+        "sentiment": "neutral",
+        "explanation": "The news title only mentions Kroger as one of several companies with insider trading activity. Without specific details on the nature (buying or selling), quantity, and timing of the insider trades, and without comparing this activity to historical averages, there is no way to predict its immediate impact on KR's stock price within the next 60 minutes. Therefore, no significant surprise factor or directional sentiment can be derived from this headline alone.\n```"
+    },
+    {
+        "title": "Paper Towel Maker Royal Paper Files for Bankruptcy",
+        "date": "2025-04-08 23:21:41",
+        "sentiment": "neutral",
+        "explanation": "The bankruptcy of Royal Paper, while a supplier to Kroger, is unlikely to cause a significant price reaction in the next 60 minutes. The impact on Kroger's revenue or operations will likely be minimal and manageable, as Kroger can find alternative suppliers of paper products. No direct impact identified; the news does not present a catalyst or surprise factor that traders would immediately react to.\n```"
+    },
+    {
+        "title": "Playing defense: Kroger, General Mills, and PepsiCo are notable gainers amid the tariff turmoil",
+        "date": "2025-04-03 19:55:13",
+        "sentiment": "positive",
+        "explanation": "The title indicates that Kroger (KR) is a \"notable gainer\" amidst tariff turmoil. This suggests that KR is outperforming its peers and the market, which is a positive sentiment trigger. Traders may buy into KR in the short term, expecting it to continue benefiting from the current market environment, thus causing a price increase within the next 60 minutes.\n```"
+    },
+    {
+        "title": "How Albertsons Media Collective is positioning itself to brands after failed Kroger merger",
+        "date": "2025-04-01 06:00:00",
+        "sentiment": "neutral",
+        "explanation": "The news discusses Albertsons' strategy post-failed Kroger merger, focusing on their media collective. While this provides insights into Albertsons' competitive positioning, it has no direct, immediate impact on KR's financials, operations, or market share within the next 60 minutes. The focus on Albertsons weakens the relevance of any impact on KR.\n```"
+    },
+    {
+        "title": "Lessons from a big M&A blow-up",
+        "date": "2025-03-31 21:15:39",
+        "sentiment": "negative",
+        "explanation": "The news discusses the collapse of Kroger's merger with Albertsons, a major strategic initiative. While the merger's long-term impact is debatable, the immediate reaction will likely be negative as it removes a potential growth catalyst and introduces uncertainty. Traders will likely sell in the short term, leading to a price decrease within the 60-minute timeframe.\n```"
+    },
+    {
+        "title": "The Vampire Diaries author LJ Smith dies at 66",
+        "date": "2025-03-28 13:21:49",
+        "sentiment": "neutral",
+        "explanation": "No direct impact on Kroger (KR)'s revenue, costs, operations, or market share can be identified. The news relates to the death of an author, unrelated to KR's business, and therefore unlikely to trigger any significant short-term trading activity related to KR stock.\n```"
+    },
+    {
+        "title": "Kroger Fights Suit by Albertsons Over Failed $24.6 Billion Deal",
+        "date": "2025-03-25 16:45:41",
+        "sentiment": "neutral",
+        "explanation": "The news regarding Kroger fighting a lawsuit related to a failed merger is unlikely to significantly impact KR's price in the next 60 minutes. The market has already priced in the failed merger, so further legal wrangling is unlikely to generate significant surprise or new information that will drive immediate trading decisions. This is primarily a continuation of an existing situation, not a new catalyst.\n```"
+    },
+    {
+        "title": "Kroger Accuses Albertsons of Undermining Their $20 Billion Merger",
+        "date": "2025-03-25 16:38:55",
+        "sentiment": "negative",
+        "explanation": "This news introduces further uncertainty and conflict into the already lengthy merger process with Albertsons. The accusation of undermining the merger suggests a potential breakdown in negotiations, which would likely cause short-term traders to sell KR shares due to increased risk of the deal falling through, impacting KR negatively within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Grocery store wars: Kroger is fighting Albertsons over a $600M merger termination fee",
+        "date": "2025-03-25 15:58:07",
+        "sentiment": "negative",
+        "explanation": "The news of Kroger fighting Albertsons over a merger termination fee introduces uncertainty and potential financial risk regarding the already-tenuous merger, and has an immediate negative surprise factor. This introduces uncertainty around the deal\u2019s closure and raises concerns about potential costs associated with a broken deal, likely leading to a short-term negative sentiment.\n```"
+    },
+    {
+        "title": "Kroger increases its focus on e-commerce with the creation of a new business unit",
+        "date": "2025-03-11 16:22:16",
+        "sentiment": "positive",
+        "explanation": "This news item indicates Kroger is investing in e-commerce, suggesting forward-thinking management and potential future revenue growth in a competitive market. While the creation of a new unit doesn't have immediate quantifiable data, it signals a commitment to a growth area and is likely to trigger positive sentiment from short-term traders hoping for increased online sales, creating a positive short-term price movement.\n```"
+    },
+    {
+        "title": "Kroger Interim Chief to Staff: \u2018Move Forward\u2019 After CEO Exit",
+        "date": "2025-03-06 23:05:38",
+        "sentiment": "neutral",
+        "explanation": "The news discusses an interim CEO urging employees to \"move forward\" after the previous CEO's exit. While a CEO exit can initially cause uncertainty, the interim CEO's message is intended to stabilize the situation. The absence of specific financial or operational details, and the fact that the market was already aware of the CEO exit, suggests no significant price impact in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger Reports 11% Growth in Digital Sales in Q4",
+        "date": "2025-03-06 21:29:31",
+        "sentiment": "positive",
+        "explanation": "The 11% growth in digital sales in Q4 significantly outpaces overall sales growth (2.4%), indicating a successful shift towards higher-margin digital channels. This positive surprise, coupled with management's optimistic outlook and the reported benefits of AI and personalization, will likely trigger immediate buying pressure within the next 60 minutes as traders react to the positive sales figures and commentary.\n```"
+    },
+    {
+        "title": "Kroger outlines 2025 guidance with projected EPS of $4.60-$4.80",
+        "date": "2025-03-06 20:02:53",
+        "sentiment": "positive",
+        "explanation": "The news provides quantifiable data in the form of EPS guidance ($4.60-$4.80). Assuming this guidance is better than prior expectations or analyst estimates, this represents a positive surprise. Traders are likely to react positively to favorable EPS outlook within the immediate trading window.\n```"
+    },
+    {
+        "title": "Kroger Seeks to Shuffle Supply Chain, Sidestep Tariffs",
+        "date": "2025-03-06 17:51:00",
+        "sentiment": "neutral",
+        "explanation": "The news suggests a potential positive long-term operational shift for Kroger by potentially reducing the negative financial impacts of tariffs. However, the phrase \"seeks to\" suggests this is a plan in progress, not an immediate event, meaning no immediate direct impact on financials. There's no quantifiable data or surprise element to trigger significant price movement within the strict 60-minute time frame.\n```"
+    },
+    {
+        "title": "Kroger Posts a Mixed Quarter and Soft Guidance. The Stock Rises Anyway.",
+        "date": "2025-03-06 16:03:00",
+        "sentiment": "positive",
+        "explanation": "The title states \"Kroger Posts a Mixed Quarter and Soft Guidance. The Stock Rises Anyway.\" The phrase \"The Stock Rises Anyway\" suggests that the market is interpreting the mixed quarter and soft guidance positively, indicating a bullish sentiment trigger for immediate short-term trading. This creates a short-term buying opportunity pushing the price higher in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger Profit Outlook Disappoints Following CEO Exit",
+        "date": "2025-03-06 15:03:00",
+        "sentiment": "negative",
+        "explanation": "A disappointing profit outlook directly impacts KR's financial performance, making this a negative catalyst. Coupled with the CEO exit, which creates uncertainty, this news has a high surprise factor and is likely to trigger immediate selling pressure within the 60-minute trading window.\n```"
+    },
+    {
+        "title": "Earnings Snapshot: Kroger reports mixed Q4 results; initiates FY25 outlook",
+        "date": "2025-03-06 14:54:07",
+        "sentiment": "neutral",
+        "explanation": "The headline indicates \"mixed Q4 results,\" which introduces ambiguity. Traders will likely need time to digest the full earnings report and FY25 outlook details before reacting strongly. Without further information specifying beats or misses of key expectations or significant surprise elements within the FY25 outlook, the immediate impact within 60 minutes is likely to be minimal.\n```"
+    },
+    {
+        "title": "Stocks to Watch Thursday: Alibaba, Broadcom, Macy's, Kroger",
+        "date": "2025-03-06 14:38:55",
+        "sentiment": "neutral",
+        "explanation": "The news is a list of stocks to watch, with Kroger merely being one of them. This information, by itself, provides no direct impact on KR's financials or operations, and lacks the surprise factor necessary to trigger immediate trading activity. Therefore, it's unlikely to cause significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger in charts: Identical sales without fuel increased 2.4% in Q4",
+        "date": "2025-03-06 14:23:26",
+        "sentiment": "positive",
+        "explanation": "A 2.4% increase in identical sales (excluding fuel) for Q4 suggests positive momentum in Kroger's core business. While the report might contain other details, the headline figure is likely to be perceived positively by short-term traders, potentially leading to immediate buying pressure within the 60-minute timeframe. This constitutes a quantifiable data point and potential surprise that can drive the price upward.\n```"
+    },
+    {
+        "title": "Supermarket giant Kroger\u2019s downbeat profit view reflects factors \u2018outside our control\u2019",
+        "date": "2025-03-06 14:18:00",
+        "sentiment": "negative",
+        "explanation": "The title indicates a \"downbeat profit view\" from Kroger, which directly impacts revenue expectations and signals potential underperformance. This is a negative surprise likely to trigger immediate selling pressure from short-term traders within the next 60 minutes due to disappointment in Kroger's near-term financial outlook.\n```"
+    },
+    {
+        "title": "Kroger tops identical-store sales expectations as it points to 2025 momentum",
+        "date": "2025-03-06 14:17:07",
+        "sentiment": "positive",
+        "explanation": "The title \"Kroger tops identical-store sales expectations as it points to 2025 momentum\" suggests KR exceeded sales expectations. This positive surprise factor, coupled with forward-looking guidance, is likely to trigger immediate buying pressure from short-term traders capitalizing on the better-than-expected performance within the 60-minute window.\n```"
+    },
+    {
+        "title": "Kroger Gives Upbeat Outlook Amid Questions About CEO Exit",
+        "date": "2025-03-06 14:08:30",
+        "sentiment": "positive",
+        "explanation": "The \"upbeat outlook\" and \"higher-than-expected guidance\" are direct positive catalysts likely to trigger immediate buying pressure. While the CEO exit creates uncertainty, the strong guidance outweighs that concern for short-term traders, presenting a quantifiable and surprising data point that beats expectations and causes FOMO.\n```"
+    },
+    {
+        "title": "Kroger Non-GAAP EPS of $1.14 beats by $0.03, revenue of $34.3B misses by $460M",
+        "date": "2025-03-06 14:03:04",
+        "sentiment": "negative",
+        "explanation": "The news presents a mixed picture but leans negative in the immediate term. While EPS beat expectations, the revenue miss of $460M is significant and more likely to trigger an immediate negative reaction from short-term traders. This revenue miss outweighs the positive EPS surprise in the first 60 minutes.\n```"
+    },
+    {
+        "title": "Outgoing Kroger CEO Rodney McMullen lost $11 million in bonus and stock payments when he resigned from the grocery chain",
+        "date": "2025-03-05 19:00:35",
+        "sentiment": "negative",
+        "explanation": "The news of the CEO's resignation due to \"personal conduct\" issues and loss of bonus/stock payments is likely to create immediate uncertainty and negative sentiment among investors. While the company states his actions are not connected to financial performance, the lack of transparency and the mention of \"inconsistent with Kroger's Policy on Business Ethics\" will likely lead to initial selling pressure in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger Q4 2025 Earnings Preview",
+        "date": "2025-03-05 17:03:31",
+        "sentiment": "neutral",
+        "explanation": "The title \"Kroger Q4 2025 Earnings Preview\" indicates an upcoming event, not a current event with immediate quantifiable data. Without specific figures or surprising information within the announcement itself, there's no direct impact identified to cause a significant price movement within the next 60 minutes; it is merely an anticipation of an event.\n```"
+    },
+    {
+        "title": "Kroger CEO Resigns Over 'Personal Conduct'",
+        "date": "2025-03-03 22:20:26",
+        "sentiment": "negative",
+        "explanation": "The unexpected resignation of the CEO due to a conduct investigation constitutes a significant negative surprise. Short-term traders will likely react negatively to the uncertainty and potential leadership vacuum, triggering immediate selling pressure, even if the long-term impact is unclear. This represents a catalyst type event that prompts quick reactions.\n```"
+    },
+    {
+        "title": "Albertsons Names New CEO Following Failed Deal With Kroger",
+        "date": "2025-03-03 22:19:54",
+        "sentiment": "neutral",
+        "explanation": "The news of Albertsons naming a new CEO is unlikely to significantly impact KR's stock price within the next 60 minutes. While the failed merger is relevant, Albertsons' CEO change is an internal matter. The market has already largely priced in the failed merger, so this specific news event has minimal surprise and little direct impact on KR's immediate financial performance or operations.\n```"
+    },
+    {
+        "title": "Kroger CEO Rodney McMullen resigns after probe into personal conduct",
+        "date": "2025-03-03 21:30:00",
+        "sentiment": "negative",
+        "explanation": "The unexpected resignation of the CEO after a probe into personal conduct introduces significant uncertainty and a negative surprise factor. Although the conduct is not related to financial performance, the news mentions KR's shares are down 1.4% in early trading, and an attorney is quoted saying \"McMullen stepping down certainly puts Kroger in a vulnerable position.\" This negative sentiment is likely to cause a further dip in the short term.\n```"
+    },
+    {
+        "title": "Kroger Says CEO Rodney McMullen Resigns Due to \u2018Personal Conduct\u2019",
+        "date": "2025-03-03 17:33:34",
+        "sentiment": "negative",
+        "explanation": "The unexpected resignation of the CEO, regardless of the reason given, introduces uncertainty and instability. While the release attempts to mitigate concerns, the \"personal conduct\" issue, combined with a change in leadership, creates immediate negative sentiment among short-term traders, likely leading to a price decrease in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger C.E.O. Resigns After Board\u2019s Personal Conduct Investigation",
+        "date": "2025-03-03 16:19:51",
+        "sentiment": "negative",
+        "explanation": "The unexpected resignation of the CEO due to a personal conduct investigation introduces significant uncertainty and potential instability within Kroger. This constitutes a high surprise factor and is likely to trigger negative sentiment among short-term traders, leading to immediate selling pressure. The lack of immediate quantifiable data is less relevant than the likely perception of operational risk and reputational damage in the very short term.\n```"
+    },
+    {
+        "title": "Kroger's CEO Rodney McMullen abruptly resigned after an investigation into his 'personal conduct'",
+        "date": "2025-03-03 15:43:23",
+        "sentiment": "negative",
+        "explanation": "The abrupt resignation of Kroger's CEO due to an ethics violation, even if unrelated to financials, introduces uncertainty and potential instability at the leadership level. This surprise factor, coupled with negative sentiment surrounding ethics concerns, will likely trigger an immediate negative reaction from short-term traders, pushing the price down within the 60-minute window.\n```"
+    },
+    {
+        "title": "Kroger CEO Rodney McMullen resigns following probe of personal conduct",
+        "date": "2025-03-03 13:49:00",
+        "sentiment": "negative",
+        "explanation": "The resignation of a CEO, even if attributed to reasons unrelated to financial performance, is likely to trigger immediate negative sentiment among short-term traders. The surprise factor of the resignation creates uncertainty and potential instability at the top, prompting a sell-off in the immediate aftermath. The news acts as a negative sentiment trigger, causing downward price pressure within the 60-minute window.\n```"
+    },
+    {
+        "title": "Kroger says chief Rodney McMullen has quit over personal conduct",
+        "date": "2025-03-03 13:29:35",
+        "sentiment": "negative",
+        "explanation": "The sudden departure of the CEO due to \"personal conduct\" creates significant uncertainty and negative sentiment regarding the company's stability and future direction. The surprise factor is high. While an interim CEO is appointed, the market is likely to react negatively to the abrupt change, at least in the immediate short-term (next 60 minutes).\n```"
+    },
+    {
+        "title": "Kroger's CEO steps down after a board investigation into his personal conduct",
+        "date": "2025-03-03 13:14:37",
+        "sentiment": "negative",
+        "explanation": "The unexpected departure of Kroger's CEO due to a board investigation into personal conduct introduces uncertainty and potential instability in leadership, which is a negative surprise. This event creates a short-term sentiment trigger for increased selling pressure from algorithmic and emotional traders within the next 60 minutes, as leadership changes are often viewed negatively in the short term.\n```"
+    },
+    {
+        "title": "Kroger ousts CEO after board investigation into personal conduct",
+        "date": "2025-03-03 13:11:26",
+        "sentiment": "negative",
+        "explanation": "The unexpected ousting of a CEO due to a board investigation introduces significant uncertainty and perceived instability, a negative catalyst. This surprise factor will likely trigger immediate negative sentiment and selling pressure as traders react to the perceived leadership vacuum and potential operational disruptions within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Kroger CEO Resigns Over \u2018Personal Conduct,\u2019 Board Investigating",
+        "date": "2025-03-03 13:08:14",
+        "sentiment": "negative",
+        "explanation": "A CEO resignation, particularly under the cloud of an investigation into \"personal conduct,\" introduces significant uncertainty and raises concerns about internal stability. This is a surprise event with potential for negative sentiment triggering immediate selling pressure as short-term traders react to the news and potential reputational risks for KR.\n```"
+    },
+    {
+        "title": "Kroger\u2019s stock slumps after CEO Rodney McMullen ousted following probe of personal conduct",
+        "date": "2025-03-03 13:08:00",
+        "sentiment": "negative",
+        "explanation": "The news of the CEO's ousting following a probe of personal conduct creates immediate uncertainty and suggests internal issues. This event has a significant surprise factor and is likely to trigger a negative sentiment trigger among short-term traders in the next 60 minutes, leading to potential selling pressure.\n```"
+    }
+]

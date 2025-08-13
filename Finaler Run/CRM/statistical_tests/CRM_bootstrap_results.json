@@ -1,0 +1,29 @@
+{
+  "strategy_name": "CRM",
+  "backtest_summary": {
+    "total_trades": 24,
+    "profitable_trades": 13,
+    "losing_trades": 10,
+    "win_rate": 0.5416666666666666
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.1603,
+      "mean_return": -0.2135585491428127,
+      "confidence_interval": [
+        -0.6671694741568687,
+        0.1865365782201838
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.4809,
+      "mean_return": -0.01376034045799083,
+      "confidence_interval": [
+        -0.45981830268509444,
+        0.3962383091896021
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Metric,Value
+Strategy Return (%),5.10
+Random Mean Return (%),0.13
+Strategy Percentile Rank,75.3%
+Outperformed by Random (%),24.7
+Statistical Significance (p-value),0.0000
+Significant at 5%,True
+Interpretation,"Strategy performance is good (top 25%) compared to random trading. Additionally, the difference between strategy returns and random trading mean is statistically significant (p=0.0000)."

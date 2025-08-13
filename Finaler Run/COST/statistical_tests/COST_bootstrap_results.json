@@ -1,0 +1,29 @@
+{
+  "strategy_name": "COST",
+  "backtest_summary": {
+    "total_trades": 13,
+    "profitable_trades": 5,
+    "losing_trades": 7,
+    "win_rate": 0.38461538461538464
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0001,
+      "mean_return": -0.40786966801151975,
+      "confidence_interval": [
+        -0.7058791877551861,
+        -0.16560949479154088
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.054,
+      "mean_return": -0.2078452955440157,
+      "confidence_interval": [
+        -0.49398948418529764,
+        0.03536804240634457
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Global pharma stocks down as Trump renews tariff threat | $PPH $JNJ $PFE $MRK $GILD",
+        "date": "2025-06-17 13:15:55",
+        "sentiment": "negative",
+        "explanation": "The title indicates a broad negative sentiment towards global pharma stocks due to renewed tariff threats from Trump. Although it mentions several companies, including GILD, this suggests a likely immediate, albeit possibly small, downward pressure on GILD's price within the 60-minute window due to increased uncertainty in the sector (Sentiment Trigger). The news impacting the broader pharmaceutical sector is a significant negative for GILD (Direct Impact).\n```"
+    },
+    {
+        "title": "Sens. Sanders, King introduce bill to end prescription drug advertising | $GILD $GSK $BMY $PFE $NVO",
+        "date": "2025-06-12 20:02:37",
+        "sentiment": "negative",
+        "explanation": "A bill targeting prescription drug advertising, while not guaranteed to pass, introduces uncertainty and the potential for future revenue constraints for companies like GILD. The surprise element of senators pushing this specific bill creates immediate negative sentiment as traders anticipate potential negative impacts on profitability, especially in the short-term trading window.\n```"
+    },
+    {
+        "title": "Gilead faces clinical hold on trials of two HIV candidates | $GILD",
+        "date": "2025-06-10 16:50:10",
+        "sentiment": "negative",
+        "explanation": "A clinical hold on trials of two HIV candidates is a significant negative catalyst. This directly impacts GILD's pipeline and potential future revenue, creating immediate uncertainty and likely triggering a negative reaction from short-term traders in the next 60 minutes. The \"clinical hold\" has a high surprise factor, thus prompting a knee-jerk reaction.\n```"
+    },
+    {
+        "title": "FDA Pauses Trials of Gilead HIV Combination After Safety Signal",
+        "date": "2025-06-10 16:18:10",
+        "sentiment": "negative",
+        "explanation": "The FDA pausing trials due to safety signals (white blood cell count drops) is a direct negative catalyst (FDA decision) impacting GILD's drug development pipeline. This surprise safety concern will likely trigger immediate negative sentiment and a sell-off within the 60-minute window as traders react to potential delays and setbacks in the HIV drug program.\n```"
+    },
+    {
+        "title": "Healthy Returns: AstraZeneca, Pfizer, Gilead and other drugmakers release promising cancer drug data at ASCO",
+        "date": "2025-06-03 21:34:25",
+        "sentiment": "neutral",
+        "explanation": "While the title mentions Gilead, the description indicates it's one of several drugmakers releasing cancer drug data. The impact on GILD specifically within 60 minutes is unclear as the extent of positive or negative news for Gilead is unknown. There's no easily quantifiable data to immediately trigger a significant directional price movement based solely on this headline.\n```"
+    },
+    {
+        "title": "Gilead\u2019s Trodelvy with Merck\u2019s Keytruda cuts disease progression/ death in breast cancer",
+        "date": "2025-05-31 15:12:40",
+        "sentiment": "positive",
+        "explanation": "The news indicates positive clinical trial results for Gilead's Trodelvy in combination with Merck's Keytruda. This is a likely catalyst that suggests a positive outcome, directly impacting GILD's potential revenue stream and likely triggering short-term buying pressure due to perceived increased market value and positive trader sentiment within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Gilead succeeds in late-stage trial for breast cancer therapy Trodelvy as a first line option | $GILD",
+        "date": "2025-05-23 15:07:42",
+        "sentiment": "positive",
+        "explanation": "The title indicates a successful late-stage trial for Trodelvy as a first-line treatment option in breast cancer, which is a positive development. This news is likely to trigger immediate positive sentiment and buying pressure from short-term traders due to the potential for increased revenue and market share for GILD in a significant disease area. The surprise factor of a successful late-stage trial exceeding expectations further supports a positive price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Trump threatens to limit imports if countries don't pay more for drugs | $AMGN $GILD $VRTX $JNJ $GSK",
+        "date": "2025-05-23 00:07:41",
+        "sentiment": "negative",
+        "explanation": "The news of potential import limitations due to drug pricing threats from Trump creates immediate uncertainty and perceived risk for pharmaceutical companies like GILD. This will likely trigger short-term negative sentiment as traders anticipate potential revenue hits and react to headline risk, making immediate downward price pressure likely.\n```"
+    },
+    {
+        "title": "Gilead to buy certain Hookipa Pharma assets for up to $10M | $GILD $HOOK",
+        "date": "2025-05-22 16:41:42",
+        "sentiment": "neutral",
+        "explanation": "The acquisition of certain Hookipa Pharma assets for up to $10M is a relatively small deal for a company the size of Gilead. While potentially positive in the long term, the small dollar amount and lack of immediate, quantifiable impact on Gilead's revenue or operations suggest minimal price movement within the next 60 minutes. The surprise factor is also likely low, given that smaller asset acquisitions are common in the pharmaceutical industry.\n```"
+    },
+    {
+        "title": "Sanofi will invest at least $20B in the U.S., focus on R&D spends | $SNY $GILD $JNJ $LLY",
+        "date": "2025-05-14 19:00:35",
+        "sentiment": "neutral",
+        "explanation": "The news describes Sanofi's investment plans, which include R&D spending. While GILD is mentioned alongside other pharmaceutical companies, there's no direct impact on GILD's revenue, costs, or operations within the next 60 minutes. This indirect reference is unlikely to trigger significant trading activity specific to GILD in the short term.\n```"
+    },
+    {
+        "title": "Roche plans $700M North Carolina facility | $RHHBY $GILD $JNJ $LLY",
+        "date": "2025-05-12 16:53:11",
+        "sentiment": "neutral",
+        "explanation": "The news is about Roche building a facility. While it mentions GILD, it's in a list of other pharma companies and has no direct impact on GILD's financials, operations, or competitive position within the next 60 minutes. The mention seems tangential, and the news lacks surprise or any immediately actionable implications for short-term traders concerning GILD.\n```"
+    },
+    {
+        "title": "Merck boosts U.S. investments with $895M expansion in Kansas site | $MRK $GILD $JNJ $LLY",
+        "date": "2025-05-08 15:42:52",
+        "sentiment": "neutral",
+        "explanation": "While the news mentions GILD, it primarily focuses on Merck's investment expansion. This has no direct, immediate impact on GILD's revenue, costs, or market share within the next 60 minutes. The news, though broadly about the pharmaceutical industry, lacks a direct catalyst for GILD's stock specifically.\n```"
+    },
+    {
+        "title": "Gilead to invest about $32B in U.S. manufacturing through 2030 | $GILD $JNJ $LLY",
+        "date": "2025-05-07 21:14:10",
+        "sentiment": "neutral",
+        "explanation": "While a $32B investment sounds positive, it's spread over several years (through 2030). This long-term, already planned investment likely won't create a significant immediate (60-minute) impact on GILD's stock price as it is likely already priced into the stock.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines for the week: Gilead, CVS Health, Sanofi in focus",
+        "date": "2025-05-04 20:53:57",
+        "sentiment": "neutral",
+        "explanation": "The title mentions Gilead (GILD) but provides no specific details about the news related to it. The reference is generic, indicating GILD is just one of several companies being \"in focus\" for the week's healthcare headlines. Without specific details on the GILD headline, there's no basis to expect a significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Gilead and Vertex Pharma named among biotech\u2019s tariff safe havens",
+        "date": "2025-05-03 20:09:55",
+        "sentiment": "neutral",
+        "explanation": "The news of GILD being named among biotech \"tariff safe havens\" is unlikely to have a significant immediate (60-minute) impact. While it might be a positive indicator of stability, it's not a direct catalyst with quantifiable data impacting revenue or earnings, and the surprise factor is likely low. Most short-term traders won't see this as actionable news to drive immediate buying or selling.\n```"
+    },
+    {
+        "title": "Gilead in $202M settlement with DoJ over kickbacks to doctors",
+        "date": "2025-04-29 20:36:51",
+        "sentiment": "negative",
+        "explanation": "A $202M settlement suggests a financial cost to GILD and potentially reflects negatively on past business practices. The immediate trader reaction within 60 minutes will likely be negative due to the monetary cost, even if the long-term impact is minimal. This acts as a catalyst for short-term selling pressure.\n```"
+    },
+    {
+        "title": "Gilead Reaches $202 Million Settlement Over Payments to Doctors",
+        "date": "2025-04-29 20:10:27",
+        "sentiment": "negative",
+        "explanation": "A $202 million settlement represents a direct cost to GILD, negatively impacting short-term profitability. Although the amount might not be significant in the long run, the negative press and immediate trader reaction to the headline of a settlement is likely to trigger selling pressure in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Gilead Sciences agrees to pay $202 million to settle claims of kickbacks to doctors for HIV drug prescriptions",
+        "date": "2025-04-29 19:48:19",
+        "sentiment": "negative",
+        "explanation": "The $202 million settlement represents a direct cost to Gilead (Direct Impact). Although likely anticipated to some degree, the headline will likely trigger immediate negative sentiment from traders focusing on the substantial cash outflow (Sentiment Trigger, Quantifiable Data). This should cause a temporary dip in the stock price over the next 60 minutes.\n```"
+    },
+    {
+        "title": "SA analyst downgrades: TSLA, AAPL, T, PG, HPE, GILD, LRCX, ARCC | $AAPL $T $PG $GILD $LRCX",
+        "date": "2025-04-28 20:26:32",
+        "sentiment": "negative",
+        "explanation": "A downgrade from an analyst, while not always decisive, generally creates immediate negative sentiment amongst short-term traders. This news directly impacts perception of GILD's value and will likely trigger some selling pressure in the next 60 minutes, even if the downgrade lacks specific detail in this provided excerpt. The combination of a downgrade with other tickers suggests a broad negative view from the analyst which further increases the probability of a negative response.\n```"
+    },
+    {
+        "title": "Daily Dividend Report: OKE, Charles Schwab, Gilead, Sysco, PH",
+        "date": "2025-04-28 20:08:10",
+        "sentiment": "neutral",
+        "explanation": "The news is simply a \"Daily Dividend Report\" listing various companies, including Gilead. This has no immediate direct impact on GILD's financials or operations, nor does it contain any new or surprising information regarding its dividend policy. The mere mention of GILD in this report is unlikely to trigger significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "No misses here: Healthcare earnings sweep past Wall Street estimates | $XLV $AMGN $GILD $BMY $CVS",
+        "date": "2025-04-27 17:55:00",
+        "sentiment": "positive",
+        "explanation": "The title suggests healthcare earnings, including GILD's, are exceeding expectations. This positive surprise factor, even without specific numbers in the title, will likely trigger short-term buying pressure as traders react positively to the overall sector and GILD being mentioned in the sweep.\n```"
+    },
+    {
+        "title": "4 stocks to watch on Friday: GILD, ABBV, CL and SLB | $GILD $CL $SLB $ABBV",
+        "date": "2025-04-25 15:27:53",
+        "sentiment": "neutral",
+        "explanation": "The news item is a list of stocks to watch, including GILD, but provides no specific information or catalyst related to GILD. This is unlikely to cause a significant price movement in the next 60 minutes, as it lacks a direct impact on GILD's financials or operations and does not present a significant surprise or sentiment trigger.\n```"
+    },
+    {
+        "title": "Gilead Sciences declares $0.79 dividend | $GILD",
+        "date": "2025-04-25 08:15:48",
+        "sentiment": "neutral",
+        "explanation": "A dividend declaration of $0.79 is unlikely to have a significant surprise factor or direct impact on GILD's price within the next 60 minutes. Dividend announcements are typically planned and already factored into the stock price. Therefore, while positive in the long term, the immediate price action based solely on this news is anticipated to be negligible.\n```"
+    },
+    {
+        "title": "Gilead sciences highlights potential FDA approval for lenacapavir in June 2025",
+        "date": "2025-04-25 02:02:55",
+        "sentiment": "neutral",
+        "explanation": "An FDA approval mentioned for June 2025 has minimal immediate impact within a 60-minute window. The timeline is far too distant to trigger significant short-term trading activity. While potentially positive long-term, there is no immediate quantifiable data or surprise that would drastically shift GILD's price within the given timeframe.\n```"
+    },
+    {
+        "title": "Gilead down 3% after hours as 2025 diluted EPS guidance lowered",
+        "date": "2025-04-24 23:34:43",
+        "sentiment": "negative",
+        "explanation": "Lowered EPS guidance for 2025 directly impacts investor expectations and is a significant negative surprise. Traders will likely react negatively within the 60-minute window due to the quantified data (EPS) missing expectations, triggering immediate selling pressure.\n```"
+    },
+    {
+        "title": "Gilead Sciences in charts: Revenue from HIV product sales grows most among segments in Q1",
+        "date": "2025-04-24 23:16:21",
+        "sentiment": "positive",
+        "explanation": "The news indicates strong growth in HIV product sales, a key segment for Gilead. This positive data point is likely to be perceived favorably by short-term traders, potentially triggering immediate buying pressure within the 60-minute trading window. The title emphasizes the growth, suggesting it is a significant and potentially unexpected result.\n```"
+    },
+    {
+        "title": "Gilead Sciences Non-GAAP EPS of $1.81 beats by $0.04, revenue of $6.67B misses by $140M",
+        "date": "2025-04-24 22:03:43",
+        "sentiment": "negative",
+        "explanation": "The news presents mixed results: EPS beats expectations, but revenue misses. While the EPS beat is positive, the revenue miss of $140M is significant and will likely trigger a negative sentiment reaction from short-term traders within the next 60 minutes due to concerns about future growth and sales. The magnitude of the revenue miss outweighs the EPS beat.\n```"
+    },
+    {
+        "title": "Gilead Sciences Q1 2025 Earnings Preview | $GILD",
+        "date": "2025-04-23 17:08:29",
+        "sentiment": "neutral",
+        "explanation": "An earnings preview is typically priced into the stock beforehand, so the title alone provides no surprise or novel information. Without specific details on expectations or any surprising elements hinted at in the title, there's no indication of a positive or negative catalyst in the next 60 minutes. The direct impact on immediate trading is likely negligible.\n```"
+    },
+    {
+        "title": "Gilead Trodelvy + Merck Keytruda combo excels in first-line breast cancer | $GILD $MRK",
+        "date": "2025-04-21 15:26:26",
+        "sentiment": "positive",
+        "explanation": "The title indicates a successful combination therapy involving Gilead's Trodelvy in first-line breast cancer treatment. This is a positive catalyst (positive clinical trial data) and is likely to trigger short-term trader optimism and buying pressure immediately after release, causing an increase in GILD's stock price in the next 60 minutes, as it suggests expanded market potential for Trodelvy.\n```"
+    },
+    {
+        "title": "Nurix gets FDA clearance to initiate trial for its anti-inflammatory drug candidate | $GILD $NRIX",
+        "date": "2025-04-17 15:40:37",
+        "sentiment": "neutral",
+        "explanation": "Nurix receiving FDA clearance for a trial, while potentially positive for $NRIX, has no direct impact on GILD's revenue, costs, or operations in the immediate 60-minute timeframe. The news mentions both stocks, but the FDA clearance is related to Nurix, not Gilead. Therefore, I do not expect a significant price movement in GILD based solely on this news within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Senior leaders at HHS put on administrative leave amid staff cuts - report | $AMGN $GILD $JNJ $BMY $PFE",
+        "date": "2025-04-01 17:45:37",
+        "sentiment": "neutral",
+        "explanation": "The news, while mentioning GILD, focuses on HHS administrative changes. No direct impact on GILD's financials, operations, or drug approvals is identified, and the mention alongside other large pharma companies dilutes any immediate significance for GILD specifically. This is unlikely to cause significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "CVS, COR, among top S&P 500 healthcare gainers in Q1; WST and MRNA among losers | $XLV $GILD $VRTX $CVS $CI",
+        "date": "2025-04-01 16:58:55",
+        "sentiment": "neutral",
+        "explanation": "The headline mentions GILD as being among the top S&P 500 healthcare gainers in Q1, along with other companies. While mentioning GILD is positive, the news doesn't provide any specific quantifiable data or catalyst that would significantly affect its stock price in the next 60 minutes; it is more of a general overview and thus has minimal immediate impact.\n```"
+    },
+    {
+        "title": "Democrats warn Trump about consequences of HIV prevention cuts | $GILD $GSK $PFE $SGIOF $SGIOY",
+        "date": "2025-03-21 19:14:13",
+        "sentiment": "neutral",
+        "explanation": "The news discusses potential consequences of HIV prevention cuts and mentions GILD alongside other pharmaceutical companies. While relevant to GILD as a player in the HIV treatment market, the immediate impact of a political warning on GILD's stock price within the next 60 minutes is likely insignificant. This lacks quantifiable data and operates outside of a direct, immediate financial catalyst.\n```"
+    },
+    {
+        "title": "Stock of the Day: Gilead Sciences falls on report the Trump administration could slash funds for HIV prevention",
+        "date": "2025-03-19 13:56:24",
+        "sentiment": "negative",
+        "explanation": "The news directly impacts GILD's revenue stream by highlighting potential cuts to HIV prevention funding, which directly affects sales of their HIV/AIDS medications. The premarket drop of 2.52% indicates immediate negative sentiment and a likely continuation of selling pressure within the next 60 minutes as traders react to the news.\n```"
+    },
+    {
+        "title": "These Stocks Are Moving the Most Today: Nvidia, Tesla, Autodesk, Gilead Sciences, HealthEquity, General Mills, and More",
+        "date": "2025-03-19 11:50:00",
+        "sentiment": "neutral",
+        "explanation": "The news title simply lists GILD among several companies \"moving the most today.\" Without the specific reason for the movement provided in the description, it's impossible to determine whether the direction will be positive or negative in the short term. There is no direct impact or surprise factor evident from the title itself.\n```"
+    },
+    {
+        "title": "Stocks to Watch Wednesday: Tesla, Nvidia, Gilead, GSK",
+        "date": "2025-03-19 11:49:12",
+        "sentiment": "neutral",
+        "explanation": "The title only mentions GILD as one of several \"Stocks to Watch.\" There's no indication of specific positive or negative news about GILD, and the generic nature of the \"Stocks to Watch\" list suggests minimal immediate price impact. Therefore, the news is unlikely to cause a significant price move in either direction within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Gilead, GSK could be impacted by potential HHS HIV prevention cuts | $GILD $JNJ $GSK",
+        "date": "2025-03-18 22:34:54",
+        "sentiment": "negative",
+        "explanation": "The headline suggests potential cuts to HIV prevention programs, which would directly impact GILD's revenue stream as a leading provider of HIV treatments and preventatives. While the actual cuts are not quantified in the headline, the association with \"impact\" combined with GSK and JNJ suggests the impact is big enough to be shared across the companies. This is a negative signal that could cause a minor sell-off as traders briefly react to the potential revenue reduction.\n```"
+    },
+    {
+        "title": "FDA commissioner nominee Makary advances to full Senate vote | $AMGN $GILD $JNJ $GSK $BMY",
+        "date": "2025-03-13 15:58:39",
+        "sentiment": "neutral",
+        "explanation": "The news relates to the FDA commissioner nominee advancing to a full Senate vote. While this affects the pharmaceutical industry generally, it lacks a direct and immediate causal impact on GILD's financials or operations within the next 60 minutes. The news is also broadly expected and does not present any specific quantifiable data or surprise factor directly relating to GILD.\n```"
+    },
+    {
+        "title": "Merck releases positive phase 3 data on daily oral HIV drug | $MRK $GILD",
+        "date": "2025-03-12 17:21:12",
+        "sentiment": "negative",
+        "explanation": "Merck's positive Phase 3 data on a daily oral HIV drug directly impacts GILD, a major player in the HIV treatment market, as it introduces a potential competitor. This news is likely to trigger immediate negative sentiment, as traders anticipate increased competition and potential market share erosion for GILD in the short term.\n```"
+    },
+    {
+        "title": "Gilead posts early Phase 1 data for once-yearly HIV PrEP therapy",
+        "date": "2025-03-11 19:36:54",
+        "sentiment": "positive",
+        "explanation": "Early Phase 1 data, while preliminary, suggests a potential long-term competitive advantage for GILD in the HIV PrEP market with a once-yearly treatment. Although Phase 1 data has limitations, the novelty and potential market disruption of a yearly PrEP treatment will likely trigger short-term positive sentiment from traders within the next 60 minutes, leading to a price increase due to speculative buying.\n```"
+    }
+]

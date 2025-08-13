@@ -1,0 +1,29 @@
+{
+  "strategy_name": "NFLX",
+  "backtest_summary": {
+    "total_trades": 38,
+    "profitable_trades": 18,
+    "losing_trades": 17,
+    "win_rate": 0.47368421052631576
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0043,
+      "mean_return": -0.25968175485020223,
+      "confidence_interval": [
+        -0.4695816453984801,
+        -0.06306161735398923
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2881,
+      "mean_return": -0.05970608036731052,
+      "confidence_interval": [
+        -0.2613271676358359,
+        0.13984100652313852
+      ],
+      "significant": false
+    }
+  }
+}

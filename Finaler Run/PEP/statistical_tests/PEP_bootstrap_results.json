@@ -1,0 +1,29 @@
+{
+  "strategy_name": "PEP",
+  "backtest_summary": {
+    "total_trades": 15,
+    "profitable_trades": 7,
+    "losing_trades": 8,
+    "win_rate": 0.4666666666666667
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.3183,
+      "mean_return": -0.06055476078014306,
+      "confidence_interval": [
+        -0.3126644790089852,
+        0.24922224599992726
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.1716,
+      "mean_return": 0.13945439060856557,
+      "confidence_interval": [
+        -0.11059937422449093,
+        0.44435552095683123
+      ],
+      "significant": false
+    }
+  }
+}

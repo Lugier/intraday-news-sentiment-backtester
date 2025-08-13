@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,BAC
+Total Trades,47
+Profitable Trades,27
+Losing Trades,20
+Win Rate,57.45%
+Mean Return,-0.148727
+Return 95% CI Lower,-0.332972
+Return 95% CI Upper,0.021057
+Return p-value,0.0423
+Return Significant?,Yes
+Mean Trade Return,0.051208
+Trade Return 95% CI Lower,-0.132354
+Trade Return 95% CI Upper,0.222667
+Trade Return p-value,0.2877
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,7 @@
+Exit Reason,Count,Percentage,Total Return,Avg Return,Win Rate,Avg Duration (min)
+max_holding_period,11,91.67%,-0.85%,-0.08%,36.36%,68.09
+end_of_data,1,8.33%,0.06%,0.06%,100.00%,60.00
+
+Direction,Count,Percentage,Total Return,Avg Return
+long,3,25.00%,-0.10%,-0.03%
+short,9,75.00%,-0.69%,-0.08%

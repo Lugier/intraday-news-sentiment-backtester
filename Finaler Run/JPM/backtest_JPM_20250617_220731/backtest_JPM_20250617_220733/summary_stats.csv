@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Positive Sentiment - Count,Positive Sentiment - Avg Return (%),Positive Sentiment - Win Rate (%),Negative Sentiment - Count,Negative Sentiment - Avg Return (%),Negative Sentiment - Win Rate (%)
+JPM,65,16,49,24.62,-27.2,-0.42,24,-0.39,20.83,41,-0.43,26.83

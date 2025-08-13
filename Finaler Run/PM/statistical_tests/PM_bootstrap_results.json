@@ -1,0 +1,29 @@
+{
+  "strategy_name": "PM",
+  "backtest_summary": {
+    "total_trades": 8,
+    "profitable_trades": 5,
+    "losing_trades": 3,
+    "win_rate": 0.625
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

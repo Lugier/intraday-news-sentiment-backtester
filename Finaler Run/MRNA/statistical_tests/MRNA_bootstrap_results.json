@@ -1,0 +1,29 @@
+{
+  "strategy_name": "MRNA",
+  "backtest_summary": {
+    "total_trades": 10,
+    "profitable_trades": 4,
+    "losing_trades": 6,
+    "win_rate": 0.4
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.3178,
+      "mean_return": -0.09252879480449075,
+      "confidence_interval": [
+        -0.47224377708278925,
+        0.34592267816721867
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.3216,
+      "mean_return": 0.10730393124926747,
+      "confidence_interval": [
+        -0.2699452453625862,
+        0.5410684592747842
+      ],
+      "significant": false
+    }
+  }
+}

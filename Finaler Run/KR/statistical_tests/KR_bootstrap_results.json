@@ -1,0 +1,29 @@
+{
+  "strategy_name": "KR",
+  "backtest_summary": {
+    "total_trades": 15,
+    "profitable_trades": 8,
+    "losing_trades": 7,
+    "win_rate": 0.5333333333333333
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0671,
+      "mean_return": -0.3306885788310198,
+      "confidence_interval": [
+        -0.8054972496552972,
+        0.09247560246190387
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.2928,
+      "mean_return": -0.1307847119983979,
+      "confidence_interval": [
+        -0.5903885516929098,
+        0.30197876701554555
+      ],
+      "significant": false
+    }
+  }
+}

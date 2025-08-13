@@ -1,0 +1,1083 @@
+{
+  "index_name": "LOG",
+  "total_tickers": 60,
+  "tickers_with_data": 59,
+  "filtering_statistics": {
+    "total_fetched_from_api": 27864,
+    "filtered_by_source": 7567,
+    "filtered_by_missing_data": 0,
+    "filtered_by_neutral_sentiment": 0,
+    "filtered_by_after_hours": 7454,
+    "filtered_by_weekend": 0,
+    "filtered_by_missing_market_data": 0,
+    "final_valid_news": 20297,
+    "final_trades_executed": 2386
+  },
+  "total_news_removed": 15021,
+  "conversion_rate_news_to_trades": 11.755431837217323,
+  "overall_conversion_rate": 8.563020384725812,
+  "ticker_details": [
+    {
+      "ticker": "AAPL",
+      "stats": {
+        "total_fetched_from_api": 3326,
+        "filtered_by_source": 1160,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 776,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 2166,
+        "final_trades_executed": 213
+      },
+      "conversion_rates": {
+        "news_to_trades": 9.833795013850416,
+        "overall_conversion": 6.404088995790739
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "stats": {
+        "total_fetched_from_api": 2150,
+        "filtered_by_source": 801,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 427,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 1349,
+        "final_trades_executed": 139
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.303928836174943,
+        "overall_conversion": 6.465116279069767
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "stats": {
+        "total_fetched_from_api": 2063,
+        "filtered_by_source": 759,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 444,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 1304,
+        "final_trades_executed": 143
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.966257668711657,
+        "overall_conversion": 6.931652932622395
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "stats": {
+        "total_fetched_from_api": 3910,
+        "filtered_by_source": 1443,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 966,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 2467,
+        "final_trades_executed": 224
+      },
+      "conversion_rates": {
+        "news_to_trades": 9.079854073773815,
+        "overall_conversion": 5.728900255754476
+      }
+    },
+    {
+      "ticker": "META",
+      "stats": {
+        "total_fetched_from_api": 2214,
+        "filtered_by_source": 751,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 589,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 1463,
+        "final_trades_executed": 151
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.321257689678742,
+        "overall_conversion": 6.820234869015357
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "stats": {
+        "total_fetched_from_api": 1975,
+        "filtered_by_source": 498,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 764,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 1477,
+        "final_trades_executed": 230
+      },
+      "conversion_rates": {
+        "news_to_trades": 15.572105619498986,
+        "overall_conversion": 11.645569620253164
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "stats": {
+        "total_fetched_from_api": 3818,
+        "filtered_by_source": 658,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 1162,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 3160,
+        "final_trades_executed": 329
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.41139240506329,
+        "overall_conversion": 8.617077003666841
+      }
+    },
+    {
+      "ticker": "ORCL",
+      "stats": {
+        "total_fetched_from_api": 267,
+        "filtered_by_source": 78,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 88,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 189,
+        "final_trades_executed": 27
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.285714285714285,
+        "overall_conversion": 10.112359550561797
+      }
+    },
+    {
+      "ticker": "CRM",
+      "stats": {
+        "total_fetched_from_api": 238,
+        "filtered_by_source": 63,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 68,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 175,
+        "final_trades_executed": 24
+      },
+      "conversion_rates": {
+        "news_to_trades": 13.714285714285715,
+        "overall_conversion": 10.084033613445378
+      }
+    },
+    {
+      "ticker": "ADBE",
+      "stats": {
+        "total_fetched_from_api": 168,
+        "filtered_by_source": 56,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 51,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 112,
+        "final_trades_executed": 19
+      },
+      "conversion_rates": {
+        "news_to_trades": 16.964285714285715,
+        "overall_conversion": 11.30952380952381
+      }
+    },
+    {
+      "ticker": "NFLX",
+      "stats": {
+        "total_fetched_from_api": 706,
+        "filtered_by_source": 151,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 128,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 555,
+        "final_trades_executed": 38
+      },
+      "conversion_rates": {
+        "news_to_trades": 6.846846846846846,
+        "overall_conversion": 5.382436260623229
+      }
+    },
+    {
+      "ticker": "INTC",
+      "stats": {
+        "total_fetched_from_api": 577,
+        "filtered_by_source": 195,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 158,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 382,
+        "final_trades_executed": 54
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.136125654450263,
+        "overall_conversion": 9.358752166377817
+      }
+    },
+    {
+      "ticker": "IBM",
+      "stats": {
+        "total_fetched_from_api": 348,
+        "filtered_by_source": 121,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 53,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 227,
+        "final_trades_executed": 25
+      },
+      "conversion_rates": {
+        "news_to_trades": 11.013215859030836,
+        "overall_conversion": 7.183908045977011
+      }
+    },
+    {
+      "ticker": "AMD",
+      "stats": {
+        "total_fetched_from_api": 345,
+        "filtered_by_source": 104,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 130,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 241,
+        "final_trades_executed": 36
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.937759336099585,
+        "overall_conversion": 10.434782608695652
+      }
+    },
+    {
+      "ticker": "QCOM",
+      "stats": {
+        "total_fetched_from_api": 167,
+        "filtered_by_source": 50,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 51,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 117,
+        "final_trades_executed": 19
+      },
+      "conversion_rates": {
+        "news_to_trades": 16.23931623931624,
+        "overall_conversion": 11.377245508982035
+      }
+    },
+    {
+      "ticker": "JPM",
+      "stats": {
+        "total_fetched_from_api": 728,
+        "filtered_by_source": 60,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 207,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 668,
+        "final_trades_executed": 65
+      },
+      "conversion_rates": {
+        "news_to_trades": 9.73053892215569,
+        "overall_conversion": 8.928571428571429
+      }
+    },
+    {
+      "ticker": "BAC",
+      "stats": {
+        "total_fetched_from_api": 424,
+        "filtered_by_source": 37,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 81,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 387,
+        "final_trades_executed": 47
+      },
+      "conversion_rates": {
+        "news_to_trades": 12.144702842377262,
+        "overall_conversion": 11.084905660377359
+      }
+    },
+    {
+      "ticker": "C",
+      "stats": {
+        "total_fetched_from_api": 365,
+        "filtered_by_source": 12,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 87,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 353,
+        "final_trades_executed": 36
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.198300283286118,
+        "overall_conversion": 9.863013698630137
+      }
+    },
+    {
+      "ticker": "WFC",
+      "stats": {
+        "total_fetched_from_api": 224,
+        "filtered_by_source": 16,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 67,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 208,
+        "final_trades_executed": 23
+      },
+      "conversion_rates": {
+        "news_to_trades": 11.057692307692307,
+        "overall_conversion": 10.267857142857142
+      }
+    },
+    {
+      "ticker": "USB",
+      "stats": {
+        "total_fetched_from_api": 26,
+        "filtered_by_source": 2,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 10,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 24,
+        "final_trades_executed": 7
+      },
+      "conversion_rates": {
+        "news_to_trades": 29.166666666666668,
+        "overall_conversion": 26.923076923076923
+      }
+    },
+    {
+      "ticker": "PNC",
+      "stats": {
+        "total_fetched_from_api": 14,
+        "filtered_by_source": 0,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 6,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 14,
+        "final_trades_executed": 1
+      },
+      "conversion_rates": {
+        "news_to_trades": 7.142857142857142,
+        "overall_conversion": 7.142857142857142
+      }
+    },
+    {
+      "ticker": "AXP",
+      "stats": {
+        "total_fetched_from_api": 66,
+        "filtered_by_source": 5,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 29,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 61,
+        "final_trades_executed": 9
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.754098360655737,
+        "overall_conversion": 13.636363636363635
+      }
+    },
+    {
+      "ticker": "V",
+      "stats": {
+        "total_fetched_from_api": 112,
+        "filtered_by_source": 8,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 58,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 104,
+        "final_trades_executed": 17
+      },
+      "conversion_rates": {
+        "news_to_trades": 16.346153846153847,
+        "overall_conversion": 15.178571428571427
+      }
+    },
+    {
+      "ticker": "MA",
+      "stats": {
+        "total_fetched_from_api": 84,
+        "filtered_by_source": 3,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 41,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 81,
+        "final_trades_executed": 11
+      },
+      "conversion_rates": {
+        "news_to_trades": 13.580246913580247,
+        "overall_conversion": 13.095238095238097
+      }
+    },
+    {
+      "ticker": "GS",
+      "stats": {
+        "total_fetched_from_api": 543,
+        "filtered_by_source": 34,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 155,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 509,
+        "final_trades_executed": 63
+      },
+      "conversion_rates": {
+        "news_to_trades": 12.37721021611002,
+        "overall_conversion": 11.602209944751381
+      }
+    },
+    {
+      "ticker": "MS",
+      "stats": {
+        "total_fetched_from_api": 347,
+        "filtered_by_source": 25,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 86,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 322,
+        "final_trades_executed": 44
+      },
+      "conversion_rates": {
+        "news_to_trades": 13.664596273291925,
+        "overall_conversion": 12.680115273775217
+      }
+    },
+    {
+      "ticker": "SCHW",
+      "stats": {
+        "total_fetched_from_api": 1,
+        "filtered_by_source": 0,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 1,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 1,
+        "final_trades_executed": 0
+      },
+      "conversion_rates": {
+        "news_to_trades": 0.0,
+        "overall_conversion": 0.0
+      }
+    },
+    {
+      "ticker": "BLK",
+      "stats": {
+        "total_fetched_from_api": 394,
+        "filtered_by_source": 35,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 105,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 359,
+        "final_trades_executed": 48
+      },
+      "conversion_rates": {
+        "news_to_trades": 13.370473537604457,
+        "overall_conversion": 12.18274111675127
+      }
+    },
+    {
+      "ticker": "COF",
+      "stats": {
+        "total_fetched_from_api": 96,
+        "filtered_by_source": 9,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 41,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 87,
+        "final_trades_executed": 15
+      },
+      "conversion_rates": {
+        "news_to_trades": 17.24137931034483,
+        "overall_conversion": 15.625
+      }
+    },
+    {
+      "ticker": "BK",
+      "stats": {
+        "total_fetched_from_api": 29,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 3,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 28,
+        "final_trades_executed": 2
+      },
+      "conversion_rates": {
+        "news_to_trades": 7.142857142857142,
+        "overall_conversion": 6.896551724137931
+      }
+    },
+    {
+      "ticker": "JNJ",
+      "stats": {
+        "total_fetched_from_api": 158,
+        "filtered_by_source": 32,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 48,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 126,
+        "final_trades_executed": 18
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.285714285714285,
+        "overall_conversion": 11.39240506329114
+      }
+    },
+    {
+      "ticker": "PFE",
+      "stats": {
+        "total_fetched_from_api": 180,
+        "filtered_by_source": 29,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 54,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 151,
+        "final_trades_executed": 25
+      },
+      "conversion_rates": {
+        "news_to_trades": 16.55629139072848,
+        "overall_conversion": 13.88888888888889
+      }
+    },
+    {
+      "ticker": "UNH",
+      "stats": {
+        "total_fetched_from_api": 223,
+        "filtered_by_source": 27,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 79,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 196,
+        "final_trades_executed": 34
+      },
+      "conversion_rates": {
+        "news_to_trades": 17.346938775510203,
+        "overall_conversion": 15.246636771300448
+      }
+    },
+    {
+      "ticker": "MRK",
+      "stats": {
+        "total_fetched_from_api": 151,
+        "filtered_by_source": 28,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 45,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 123,
+        "final_trades_executed": 35
+      },
+      "conversion_rates": {
+        "news_to_trades": 28.455284552845526,
+        "overall_conversion": 23.178807947019866
+      }
+    },
+    {
+      "ticker": "ABBV",
+      "stats": {
+        "total_fetched_from_api": 84,
+        "filtered_by_source": 32,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 16,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 52,
+        "final_trades_executed": 10
+      },
+      "conversion_rates": {
+        "news_to_trades": 19.230769230769234,
+        "overall_conversion": 11.904761904761903
+      }
+    },
+    {
+      "ticker": "LLY",
+      "stats": {
+        "total_fetched_from_api": 269,
+        "filtered_by_source": 66,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 74,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 203,
+        "final_trades_executed": 44
+      },
+      "conversion_rates": {
+        "news_to_trades": 21.67487684729064,
+        "overall_conversion": 16.356877323420075
+      }
+    },
+    {
+      "ticker": "TMO",
+      "stats": {
+        "total_fetched_from_api": 21,
+        "filtered_by_source": 2,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 6,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 19,
+        "final_trades_executed": 4
+      },
+      "conversion_rates": {
+        "news_to_trades": 21.052631578947366,
+        "overall_conversion": 19.047619047619047
+      }
+    },
+    {
+      "ticker": "AMGN",
+      "stats": {
+        "total_fetched_from_api": 69,
+        "filtered_by_source": 15,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 24,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 54,
+        "final_trades_executed": 8
+      },
+      "conversion_rates": {
+        "news_to_trades": 14.814814814814813,
+        "overall_conversion": 11.594202898550725
+      }
+    },
+    {
+      "ticker": "BMY",
+      "stats": {
+        "total_fetched_from_api": 76,
+        "filtered_by_source": 18,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 25,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 58,
+        "final_trades_executed": 11
+      },
+      "conversion_rates": {
+        "news_to_trades": 18.96551724137931,
+        "overall_conversion": 14.473684210526317
+      }
+    },
+    {
+      "ticker": "GILD",
+      "stats": {
+        "total_fetched_from_api": 53,
+        "filtered_by_source": 13,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 16,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 40,
+        "final_trades_executed": 4
+      },
+      "conversion_rates": {
+        "news_to_trades": 10.0,
+        "overall_conversion": 7.547169811320755
+      }
+    },
+    {
+      "ticker": "REGN",
+      "stats": {
+        "total_fetched_from_api": 80,
+        "filtered_by_source": 24,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 18,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 56,
+        "final_trades_executed": 14
+      },
+      "conversion_rates": {
+        "news_to_trades": 25.0,
+        "overall_conversion": 17.5
+      }
+    },
+    {
+      "ticker": "ABT",
+      "stats": {
+        "total_fetched_from_api": 50,
+        "filtered_by_source": 5,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 17,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 45,
+        "final_trades_executed": 7
+      },
+      "conversion_rates": {
+        "news_to_trades": 15.555555555555555,
+        "overall_conversion": 14.000000000000002
+      }
+    },
+    {
+      "ticker": "BIIB",
+      "stats": {
+        "total_fetched_from_api": 27,
+        "filtered_by_source": 10,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 5,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 17,
+        "final_trades_executed": 6
+      },
+      "conversion_rates": {
+        "news_to_trades": 35.294117647058826,
+        "overall_conversion": 22.22222222222222
+      }
+    },
+    {
+      "ticker": "MRNA",
+      "stats": {
+        "total_fetched_from_api": 80,
+        "filtered_by_source": 17,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 28,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 63,
+        "final_trades_executed": 10
+      },
+      "conversion_rates": {
+        "news_to_trades": 15.873015873015872,
+        "overall_conversion": 12.5
+      }
+    },
+    {
+      "ticker": "DHR",
+      "stats": {
+        "total_fetched_from_api": 21,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 4,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 20,
+        "final_trades_executed": 6
+      },
+      "conversion_rates": {
+        "news_to_trades": 30.0,
+        "overall_conversion": 28.57142857142857
+      }
+    },
+    {
+      "ticker": "PG",
+      "stats": {
+        "total_fetched_from_api": 40,
+        "filtered_by_source": 5,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 11,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 35,
+        "final_trades_executed": 7
+      },
+      "conversion_rates": {
+        "news_to_trades": 20.0,
+        "overall_conversion": 17.5
+      }
+    },
+    {
+      "ticker": "KO",
+      "stats": {
+        "total_fetched_from_api": 71,
+        "filtered_by_source": 9,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 18,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 62,
+        "final_trades_executed": 12
+      },
+      "conversion_rates": {
+        "news_to_trades": 19.35483870967742,
+        "overall_conversion": 16.901408450704224
+      }
+    },
+    {
+      "ticker": "PEP",
+      "stats": {
+        "total_fetched_from_api": 82,
+        "filtered_by_source": 7,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 24,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 75,
+        "final_trades_executed": 15
+      },
+      "conversion_rates": {
+        "news_to_trades": 20.0,
+        "overall_conversion": 18.29268292682927
+      }
+    },
+    {
+      "ticker": "COST",
+      "stats": {
+        "total_fetched_from_api": 184,
+        "filtered_by_source": 66,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 54,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 118,
+        "final_trades_executed": 13
+      },
+      "conversion_rates": {
+        "news_to_trades": 11.016949152542372,
+        "overall_conversion": 7.065217391304348
+      }
+    },
+    {
+      "ticker": "MDLZ",
+      "stats": {
+        "total_fetched_from_api": 17,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 3,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 16,
+        "final_trades_executed": 1
+      },
+      "conversion_rates": {
+        "news_to_trades": 6.25,
+        "overall_conversion": 5.88235294117647
+      }
+    },
+    {
+      "ticker": "GIS",
+      "stats": {
+        "total_fetched_from_api": 25,
+        "filtered_by_source": 5,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 5,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 20,
+        "final_trades_executed": 3
+      },
+      "conversion_rates": {
+        "news_to_trades": 15.0,
+        "overall_conversion": 12.0
+      }
+    },
+    {
+      "ticker": "CL",
+      "stats": {
+        "total_fetched_from_api": 13,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 1,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 12,
+        "final_trades_executed": 5
+      },
+      "conversion_rates": {
+        "news_to_trades": 41.66666666666667,
+        "overall_conversion": 38.46153846153847
+      }
+    },
+    {
+      "ticker": "KR",
+      "stats": {
+        "total_fetched_from_api": 64,
+        "filtered_by_source": 9,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 17,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 55,
+        "final_trades_executed": 15
+      },
+      "conversion_rates": {
+        "news_to_trades": 27.27272727272727,
+        "overall_conversion": 23.4375
+      }
+    },
+    {
+      "ticker": "STZ",
+      "stats": {
+        "total_fetched_from_api": 37,
+        "filtered_by_source": 4,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 11,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 33,
+        "final_trades_executed": 3
+      },
+      "conversion_rates": {
+        "news_to_trades": 9.090909090909092,
+        "overall_conversion": 8.108108108108109
+      }
+    },
+    {
+      "ticker": "MO",
+      "stats": {
+        "total_fetched_from_api": 14,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 3,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 13,
+        "final_trades_executed": 3
+      },
+      "conversion_rates": {
+        "news_to_trades": 23.076923076923077,
+        "overall_conversion": 21.428571428571427
+      }
+    },
+    {
+      "ticker": "PM",
+      "stats": {
+        "total_fetched_from_api": 24,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 8,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 23,
+        "final_trades_executed": 8
+      },
+      "conversion_rates": {
+        "news_to_trades": 34.78260869565217,
+        "overall_conversion": 33.33333333333333
+      }
+    },
+    {
+      "ticker": "CLX",
+      "stats": {
+        "total_fetched_from_api": 5,
+        "filtered_by_source": 0,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 4,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 5,
+        "final_trades_executed": 0
+      },
+      "conversion_rates": {
+        "news_to_trades": 0.0,
+        "overall_conversion": 0.0
+      }
+    },
+    {
+      "ticker": "SJM",
+      "stats": {
+        "total_fetched_from_api": 10,
+        "filtered_by_source": 3,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 2,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 7,
+        "final_trades_executed": 2
+      },
+      "conversion_rates": {
+        "news_to_trades": 28.57142857142857,
+        "overall_conversion": 20.0
+      }
+    },
+    {
+      "ticker": "EL",
+      "stats": {
+        "total_fetched_from_api": 11,
+        "filtered_by_source": 1,
+        "filtered_by_missing_data": 0,
+        "filtered_by_neutral_sentiment": 0,
+        "filtered_by_after_hours": 2,
+        "filtered_by_weekend": 0,
+        "filtered_by_missing_market_data": 0,
+        "final_valid_news": 10,
+        "final_trades_executed": 4
+      },
+      "conversion_rates": {
+        "news_to_trades": 40.0,
+        "overall_conversion": 36.36363636363637
+      }
+    }
+  ]
+}

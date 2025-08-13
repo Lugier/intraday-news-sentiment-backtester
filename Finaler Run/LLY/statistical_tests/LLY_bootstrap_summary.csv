@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,LLY
+Total Trades,44
+Profitable Trades,13
+Losing Trades,30
+Win Rate,29.55%
+Mean Return,-0.765038
+Return 95% CI Lower,-1.412134
+Return 95% CI Upper,-0.199779
+Return p-value,0.0027
+Return Significant?,Yes
+Mean Trade Return,-0.565444
+Trade Return 95% CI Lower,-1.233628
+Trade Return 95% CI Upper,-0.003437
+Trade Return p-value,0.0243
+Trade Return Significant?,Yes
+Bootstrap Simulations,10000

@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,MSFT
+Total Trades,139
+Profitable Trades,76
+Losing Trades,61
+Win Rate,54.68%
+Mean Return,-0.152071
+Return 95% CI Lower,-0.235280
+Return 95% CI Upper,-0.061187
+Return p-value,0.0008
+Return Significant?,Yes
+Mean Trade Return,0.047911
+Trade Return 95% CI Lower,-0.036374
+Trade Return 95% CI Upper,0.134955
+Trade Return p-value,0.1384
+Trade Return Significant?,No
+Bootstrap Simulations,10000

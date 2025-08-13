@@ -1,0 +1,18 @@
+{
+    "ticker": "SCHW",
+    "date": "2025-06-17 22:20:21",
+    "total_news": 1,
+    "positive_news": 0,
+    "negative_news": 1,
+    "neutral_news": 0,
+    "actionable_news": 1,
+    "strategy_type": "flip_strategy",
+    "entry_delay_minutes": 2,
+    "holding_period_minutes": 60,
+    "use_stop_loss": true,
+    "stop_loss_pct": 2.0,
+    "take_profit_pct": Infinity,
+    "include_after_hours": false,
+    "max_workers": 16,
+    "transaction_fee_pct": 0.001
+}

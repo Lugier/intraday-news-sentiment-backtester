@@ -1,0 +1,29 @@
+{
+  "strategy_name": "SJM",
+  "backtest_summary": {
+    "total_trades": 2,
+    "profitable_trades": 2,
+    "losing_trades": 0,
+    "win_rate": 1.0
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

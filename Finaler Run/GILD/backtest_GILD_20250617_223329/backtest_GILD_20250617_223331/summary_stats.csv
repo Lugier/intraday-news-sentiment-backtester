@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Positive Sentiment - Count,Positive Sentiment - Avg Return (%),Positive Sentiment - Win Rate (%),Negative Sentiment - Count,Negative Sentiment - Avg Return (%),Negative Sentiment - Win Rate (%)
+GILD,4,2,2,50.0,0.85,0.21,2,0.13,50.0,2,0.29,50.0

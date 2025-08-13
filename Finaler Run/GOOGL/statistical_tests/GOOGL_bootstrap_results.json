@@ -1,0 +1,29 @@
+{
+  "strategy_name": "GOOGL",
+  "backtest_summary": {
+    "total_trades": 224,
+    "profitable_trades": 122,
+    "losing_trades": 99,
+    "win_rate": 0.5446428571428571
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0,
+      "mean_return": -0.17560780716016186,
+      "confidence_interval": [
+        -0.2544082448838777,
+        -0.09565173794864916
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2764,
+      "mean_return": 0.024382751682847172,
+      "confidence_interval": [
+        -0.056882936283773125,
+        0.10336209759510469
+      ],
+      "significant": false
+    }
+  }
+}

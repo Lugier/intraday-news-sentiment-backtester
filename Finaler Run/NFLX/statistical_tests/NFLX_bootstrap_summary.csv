@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,NFLX
+Total Trades,38
+Profitable Trades,18
+Losing Trades,17
+Win Rate,47.37%
+Mean Return,-0.259682
+Return 95% CI Lower,-0.469582
+Return 95% CI Upper,-0.063062
+Return p-value,0.0043
+Return Significant?,Yes
+Mean Trade Return,-0.059706
+Trade Return 95% CI Lower,-0.261327
+Trade Return 95% CI Upper,0.139841
+Trade Return p-value,0.2881
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,2 @@
+Ticker,Total Trades,Winning Trades,Losing Trades,Win Rate (%),Strategy Return (%),Average Return per Trade (%),Positive Sentiment - Count,Positive Sentiment - Avg Return (%),Positive Sentiment - Win Rate (%),Negative Sentiment - Count,Negative Sentiment - Avg Return (%),Negative Sentiment - Win Rate (%)
+ORCL,27,10,17,37.04,2.39,0.09,15,0.11,33.33,12,0.06,41.67

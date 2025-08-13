@@ -1,0 +1,381 @@
+LOG INDEX - NEWS FILTERING STATISTICS SUMMARY
+======================================================================
+
+📊 INDEX OVERVIEW:
+Index Name: LOG
+Total Tickers: 60
+Tickers with Data: 59
+
+📈 OVERALL STATISTICS:
+Total news fetched from API: 27,864
+Total news removed by filters: 15,021
+Final valid news events: 20,297
+Final trades executed: 2,386
+
+🔄 CONVERSION RATES:
+Valid News to Trades: 11.76%
+Overall API to Trades: 8.56%
+
+🚫 FILTERING BREAKDOWN:
+Filtered by source restrictions: 7,567
+Filtered by missing data: 0
+Filtered by neutral sentiment: 0
+Filtered by after-hours timing: 7,454
+Filtered by weekend timing: 0
+Filtered by missing market data: 0
+
+📋 TICKER BREAKDOWN:
+
+AAPL:
+  API Fetched: 3,326
+  Valid News: 2,166
+  Trades: 213
+  Conversion Rate: 9.83%
+
+MSFT:
+  API Fetched: 2,150
+  Valid News: 1,349
+  Trades: 139
+  Conversion Rate: 10.30%
+
+AMZN:
+  API Fetched: 2,063
+  Valid News: 1,304
+  Trades: 143
+  Conversion Rate: 10.97%
+
+GOOGL:
+  API Fetched: 3,910
+  Valid News: 2,467
+  Trades: 224
+  Conversion Rate: 9.08%
+
+META:
+  API Fetched: 2,214
+  Valid News: 1,463
+  Trades: 151
+  Conversion Rate: 10.32%
+
+NVDA:
+  API Fetched: 1,975
+  Valid News: 1,477
+  Trades: 230
+  Conversion Rate: 15.57%
+
+TSLA:
+  API Fetched: 3,818
+  Valid News: 3,160
+  Trades: 329
+  Conversion Rate: 10.41%
+
+ORCL:
+  API Fetched: 267
+  Valid News: 189
+  Trades: 27
+  Conversion Rate: 14.29%
+
+CRM:
+  API Fetched: 238
+  Valid News: 175
+  Trades: 24
+  Conversion Rate: 13.71%
+
+ADBE:
+  API Fetched: 168
+  Valid News: 112
+  Trades: 19
+  Conversion Rate: 16.96%
+
+NFLX:
+  API Fetched: 706
+  Valid News: 555
+  Trades: 38
+  Conversion Rate: 6.85%
+
+INTC:
+  API Fetched: 577
+  Valid News: 382
+  Trades: 54
+  Conversion Rate: 14.14%
+
+IBM:
+  API Fetched: 348
+  Valid News: 227
+  Trades: 25
+  Conversion Rate: 11.01%
+
+AMD:
+  API Fetched: 345
+  Valid News: 241
+  Trades: 36
+  Conversion Rate: 14.94%
+
+QCOM:
+  API Fetched: 167
+  Valid News: 117
+  Trades: 19
+  Conversion Rate: 16.24%
+
+JPM:
+  API Fetched: 728
+  Valid News: 668
+  Trades: 65
+  Conversion Rate: 9.73%
+
+BAC:
+  API Fetched: 424
+  Valid News: 387
+  Trades: 47
+  Conversion Rate: 12.14%
+
+C:
+  API Fetched: 365
+  Valid News: 353
+  Trades: 36
+  Conversion Rate: 10.20%
+
+WFC:
+  API Fetched: 224
+  Valid News: 208
+  Trades: 23
+  Conversion Rate: 11.06%
+
+USB:
+  API Fetched: 26
+  Valid News: 24
+  Trades: 7
+  Conversion Rate: 29.17%
+
+PNC:
+  API Fetched: 14
+  Valid News: 14
+  Trades: 1
+  Conversion Rate: 7.14%
+
+AXP:
+  API Fetched: 66
+  Valid News: 61
+  Trades: 9
+  Conversion Rate: 14.75%
+
+V:
+  API Fetched: 112
+  Valid News: 104
+  Trades: 17
+  Conversion Rate: 16.35%
+
+MA:
+  API Fetched: 84
+  Valid News: 81
+  Trades: 11
+  Conversion Rate: 13.58%
+
+GS:
+  API Fetched: 543
+  Valid News: 509
+  Trades: 63
+  Conversion Rate: 12.38%
+
+MS:
+  API Fetched: 347
+  Valid News: 322
+  Trades: 44
+  Conversion Rate: 13.66%
+
+SCHW:
+  API Fetched: 1
+  Valid News: 1
+  Trades: 0
+  Conversion Rate: 0.00%
+
+BLK:
+  API Fetched: 394
+  Valid News: 359
+  Trades: 48
+  Conversion Rate: 13.37%
+
+COF:
+  API Fetched: 96
+  Valid News: 87
+  Trades: 15
+  Conversion Rate: 17.24%
+
+BK:
+  API Fetched: 29
+  Valid News: 28
+  Trades: 2
+  Conversion Rate: 7.14%
+
+JNJ:
+  API Fetched: 158
+  Valid News: 126
+  Trades: 18
+  Conversion Rate: 14.29%
+
+PFE:
+  API Fetched: 180
+  Valid News: 151
+  Trades: 25
+  Conversion Rate: 16.56%
+
+UNH:
+  API Fetched: 223
+  Valid News: 196
+  Trades: 34
+  Conversion Rate: 17.35%
+
+MRK:
+  API Fetched: 151
+  Valid News: 123
+  Trades: 35
+  Conversion Rate: 28.46%
+
+ABBV:
+  API Fetched: 84
+  Valid News: 52
+  Trades: 10
+  Conversion Rate: 19.23%
+
+LLY:
+  API Fetched: 269
+  Valid News: 203
+  Trades: 44
+  Conversion Rate: 21.67%
+
+TMO:
+  API Fetched: 21
+  Valid News: 19
+  Trades: 4
+  Conversion Rate: 21.05%
+
+AMGN:
+  API Fetched: 69
+  Valid News: 54
+  Trades: 8
+  Conversion Rate: 14.81%
+
+BMY:
+  API Fetched: 76
+  Valid News: 58
+  Trades: 11
+  Conversion Rate: 18.97%
+
+GILD:
+  API Fetched: 53
+  Valid News: 40
+  Trades: 4
+  Conversion Rate: 10.00%
+
+REGN:
+  API Fetched: 80
+  Valid News: 56
+  Trades: 14
+  Conversion Rate: 25.00%
+
+ABT:
+  API Fetched: 50
+  Valid News: 45
+  Trades: 7
+  Conversion Rate: 15.56%
+
+BIIB:
+  API Fetched: 27
+  Valid News: 17
+  Trades: 6
+  Conversion Rate: 35.29%
+
+MRNA:
+  API Fetched: 80
+  Valid News: 63
+  Trades: 10
+  Conversion Rate: 15.87%
+
+DHR:
+  API Fetched: 21
+  Valid News: 20
+  Trades: 6
+  Conversion Rate: 30.00%
+
+PG:
+  API Fetched: 40
+  Valid News: 35
+  Trades: 7
+  Conversion Rate: 20.00%
+
+KO:
+  API Fetched: 71
+  Valid News: 62
+  Trades: 12
+  Conversion Rate: 19.35%
+
+PEP:
+  API Fetched: 82
+  Valid News: 75
+  Trades: 15
+  Conversion Rate: 20.00%
+
+COST:
+  API Fetched: 184
+  Valid News: 118
+  Trades: 13
+  Conversion Rate: 11.02%
+
+MDLZ:
+  API Fetched: 17
+  Valid News: 16
+  Trades: 1
+  Conversion Rate: 6.25%
+
+GIS:
+  API Fetched: 25
+  Valid News: 20
+  Trades: 3
+  Conversion Rate: 15.00%
+
+CL:
+  API Fetched: 13
+  Valid News: 12
+  Trades: 5
+  Conversion Rate: 41.67%
+
+KR:
+  API Fetched: 64
+  Valid News: 55
+  Trades: 15
+  Conversion Rate: 27.27%
+
+STZ:
+  API Fetched: 37
+  Valid News: 33
+  Trades: 3
+  Conversion Rate: 9.09%
+
+MO:
+  API Fetched: 14
+  Valid News: 13
+  Trades: 3
+  Conversion Rate: 23.08%
+
+PM:
+  API Fetched: 24
+  Valid News: 23
+  Trades: 8
+  Conversion Rate: 34.78%
+
+CLX:
+  API Fetched: 5
+  Valid News: 5
+  Trades: 0
+  Conversion Rate: 0.00%
+
+SJM:
+  API Fetched: 10
+  Valid News: 7
+  Trades: 2
+  Conversion Rate: 28.57%
+
+EL:
+  API Fetched: 11
+  Valid News: 10
+  Trades: 4
+  Conversion Rate: 40.00%

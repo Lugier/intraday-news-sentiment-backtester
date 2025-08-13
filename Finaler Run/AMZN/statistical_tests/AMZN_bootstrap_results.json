@@ -1,0 +1,29 @@
+{
+  "strategy_name": "AMZN",
+  "backtest_summary": {
+    "total_trades": 143,
+    "profitable_trades": 76,
+    "losing_trades": 65,
+    "win_rate": 0.5314685314685315
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0002,
+      "mean_return": -0.20869271106282164,
+      "confidence_interval": [
+        -0.3307298613790213,
+        -0.09177701148109346
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.4462,
+      "mean_return": -0.008693934404742764,
+      "confidence_interval": [
+        -0.13099357048463867,
+        0.10869431270392114
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,835 @@
+Sentiment Analysis Summary for COST
+Generated on: 2025-06-17 22:38:20
+
+Sentiment Distribution:
+neutral: 51
+positive: 42
+negative: 25
+
+Detailed Results:
+
+Title: Gold is near an all-time high—here's how much a Costco bar bought a year ago is worth today
+Date: 2025-06-17 16:40:28
+Sentiment: neutral
+Explanation: While interesting, the news is about the profitability of Costco's gold bar sales for *customers*. It does not directly impact Costco's overall revenue or costs in a significant or surprising way within the next 60 minutes. The news lacks quantifiable data and acts on speculation, so it's unlikely to trigger immediate trader action for COST stock.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco tests the waters with a stand-alone gas station for members
+Date: 2025-06-16 21:49:46
+Sentiment: positive
+Explanation: The news of a stand-alone gas station demonstrates innovation and expansion of a successful aspect of Costco's business. This coupled with the expected high volume (9,500 vehicles per day) suggests a positive impact on revenue and market share, likely triggering short-term buying pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: I shopped at Costco to see if the store has raised prices due to tariffs. Here are the biggest changes I noticed.
+Date: 2025-06-16 19:55:07
+Sentiment: positive
+Explanation: The news suggests Costco is actively managing tariffs and avoiding price increases, which directly impacts customer perception and potential sales. While it's an article about shopping experience and tariffs in general, the takeaway that COST is proactively managing costs and keeping prices stable is likely to be perceived positively by short-term traders, creating a slight buying pressure within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a mom of 4 who loves shopping at Costco. Here are my favorite ways to use the $5 rotisserie chicken.
+Date: 2025-06-16 16:35:34
+Sentiment: neutral
+Explanation: This news item highlighting uses of Costco's rotisserie chicken is likely to be perceived as more of a lifestyle piece than a significant business driver. While it reinforces the value proposition of a Costco membership, it lacks the magnitude, surprise factor, or quantifiable data needed to cause a noticeable price impact in the immediate 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco worker worries new early store hours will be an 'absolute nightmare'
+Date: 2025-06-13 11:07:01
+Sentiment: negative
+Explanation: The news highlights employee concerns about understaffing and potential operational problems due to the new early opening hours. While aimed at improving the Executive member experience, the negative sentiment from employees and potential for a "nightmare" experience for customers presents a short-term risk of operational disruption and negative press, potentially impacting customer perception and causing a slight dip in the stock.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco's $130 Executive Membership just got a brand new perk
+Date: 2025-06-12 18:25:46
+Sentiment: neutral
+Explanation: The news lacks specific details on the new perk and doesn't provide quantifiable data that would immediately impact COST's financials. The article only restates existing membership costs, presenting no significant surprise or new information to traders within the next 60 minutes. Therefore, it is unlikely to trigger a strong positive or negative reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco And RH Add Extra Benefits For Their Most Valuable Membership Customers
+Date: 2025-06-11 18:51:24
+Sentiment: positive
+Explanation: Enhancing benefits for valuable membership customers, who account for a large percentage of revenue, likely leads to increased customer loyalty and spending. This news item suggests potential for increased near-term sales, creating a positive sentiment trigger likely to push the stock price slightly higher within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco could expand its store hours as early as this month
+Date: 2025-06-10 13:57:42
+Sentiment: neutral
+Explanation: The news of potentially expanded store hours has a limited, if any, surprise factor, as retailers often adjust hours. No specific quantifiable data is presented, and the impact on immediate revenue within 60 minutes is minimal. Therefore, while slightly positive long-term, it's unlikely to significantly move the stock price in the next hour.
+```
+--------------------------------------------------------------------------------
+
+Title: Why Costco CEO Ron Vachris is Fast Company’s Visionary of the Year
+Date: 2025-06-10 13:00:00
+Sentiment: neutral
+Explanation: While an award for Costco's CEO is generally positive, the news is unlikely to significantly impact COST's stock price within 60 minutes. The article primarily highlights Vachris' background and Costco's approach to DEI policies, but does not provide any quantifiable data or surprise that would act as an immediate catalyst. The DEI discussion might even trigger polarized reactions, potentially canceling each other out in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Sorry, you can't use your Costco membership card to get through TSA
+Date: 2025-06-10 03:54:45
+Sentiment: neutral
+Explanation: This news item has no direct impact on Costco's revenue, costs, or operations. While potentially amusing, the clarification that Costco cards are not valid Real IDs is unlikely to surprise or influence short-term trading decisions regarding COST stock within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco is bringing back a perk to help shoppers beat the crowds — if you have an Executive Membership
+Date: 2025-06-09 17:40:27
+Sentiment: positive
+Explanation: The news of Costco bringing back a perk for Executive members has a positive surprise factor and may drive membership upgrades, potentially increasing short-term revenue. The focus on rewarding loyal (and higher-spending) members could generate immediate positive sentiment among investors and traders in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Your Costco Membership Card? No, It Is Not a Replacement for Real ID.
+Date: 2025-06-08 20:39:39
+Sentiment: neutral
+Explanation: This news is essentially a public service announcement regarding the T.S.A.'s policies and does not directly impact Costco's revenue, costs, or operations. There is no surprise factor, and it is unlikely to trigger any significant buying or selling pressure within the next 60 minutes. It's irrelevant to COST's core business.
+```
+--------------------------------------------------------------------------------
+
+Title: 1.7 million air conditioners recalled just as summer heat hits
+Date: 2025-06-06 19:45:00
+Sentiment: negative
+Explanation: The recall of air conditioners sold at Costco, due to mold concerns, has a direct negative impact on potential sales revenue and may lead to increased return processing costs within the next 60 minutes. This is unexpected negative news that could trigger immediate selling pressure as traders react to potential short-term financial consequences and reputational damage associated with selling recalled items.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco reports core comparable sales rose 6.0% in May in a slight deceleration
+Date: 2025-06-04 23:01:02
+Sentiment: negative
+Explanation: A deceleration in comparable sales growth, even if still positive at 6.0%, can trigger a negative reaction in the short term as traders focus on the slowdown. While the number is still positive, the "deceleration" aspect carries negative sentiment for short-term traders expecting consistent or accelerating growth. This surprise factor is likely to lead to immediate selling pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco’s monthly sales growth continues to ease
+Date: 2025-06-04 22:34:00
+Sentiment: negative
+Explanation: The title "Costco's monthly sales growth continues to ease" immediately suggests negative momentum. While the 6.8% sales gain is positive overall, the "easing" indicates a slowdown, likely triggering short-term selling pressure as traders react to the decelerating growth. This falls into the category of quantifiable data missing expectations (or at least trending downward), thus justifying a negative classification for the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a dietitian who helps busy parents lose weight without restrictive diets. Here are 15 Costco buys I swear by.
+Date: 2025-06-01 14:54:01
+Sentiment: neutral
+Explanation: This article highlights healthy food options at Costco. While positive for customer perception of Costco's product offerings, it doesn't directly impact Costco's revenue or operations in a quantifiable or surprising manner within the next 60 minutes. The news is more of a general lifestyle piece and is unlikely to trigger immediate trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: Walmart, Amazon, Costco, And Home Depot Tackle The Tariff Whiplash
+Date: 2025-06-01 14:00:00
+Sentiment: neutral
+Explanation: The news highlights a general trend of retailers managing tariffs. While relevant to COST, it lacks specific details or quantifiable data regarding COST's individual strategy or impact. The generic nature and lack of surprise suggest no immediate, significant price movement within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Defies Tariff Volatility as Other Retailers Stumble
+Date: 2025-05-31 00:28:12
+Sentiment: positive
+Explanation: The news reports better-than-expected earnings for Costco, specifically citing EPS of $4.28 beating analyst expectations. This surprise factor, coupled with the indication of growth amidst economic turbulence, will likely trigger positive sentiment and immediate buying pressure in the short term. This quantifiable data suggests a positive catalyst that will impact trading within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Stock Movers: Ulta, Gap, Costco (Podcast)
+Date: 2025-05-30 23:35:06
+Sentiment: neutral
+Explanation: The news item is a podcast listing Costco along with other companies (Ulta, Gap). Without specific details about the content of the podcast segment about Costco, it's impossible to determine if it contains any information that would have a significant positive or negative impact on the stock price within the next 60 minutes. The "Stock Movers" title is too vague to classify as a likely catalyst for price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco CEO explains how the chain kept prices low as tariffs and egg costs hit retailers hard
+Date: 2025-05-30 19:06:27
+Sentiment: positive
+Explanation: The news highlights Costco's ability to keep prices low despite tariffs and rising costs, which is a positive surprise. This proactive approach, including finding US-made alternatives and absorbing margin hits, is likely to trigger positive sentiment among short-term traders expecting continued customer loyalty and sales, potentially increasing the stock price in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: What analysts are saying about Costco the day after earnings
+Date: 2025-05-30 18:55:50
+Sentiment: neutral
+Explanation: The title indicates a review of analyst opinions *after* earnings. This implies the actual earnings release (which would have a direct impact) has already occurred and its effects are likely priced in. Any remaining impact within the next 60 minutes will likely be negligible as traders have already had time to digest the initial figures and analyst reactions.
+```
+--------------------------------------------------------------------------------
+
+Title: Stock Movers: Gap, Costco, Airbnb (Podcast)
+Date: 2025-05-30 17:22:39
+Sentiment: neutral
+Explanation: The title "Stock Movers: Gap, Costco, Airbnb (Podcast)" paired with the description doesn't provide specific news impacting COST's financials or operations. The Bloomberg mention is merely a source attribution. Without details from the podcast itself, there is no identifiable direct impact or catalyst to trigger a price move within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Stocks to Watch Friday: Costco, Ulta, Dell, Regeneron
+Date: 2025-05-30 15:34:57
+Sentiment: neutral
+Explanation: The headline "Stocks to Watch Friday: Costco, Ulta, Dell, Regeneron" is simply a list of stocks. While it mentions Costco, it doesn't provide any specific positive or negative information about the company or its financials that would trigger a price movement in the next 60 minutes. There is no direct impact identified and the information is not surprising.
+```
+--------------------------------------------------------------------------------
+
+Title: Stock Movers: Dell, Gap, Costco (Podcast)
+Date: 2025-05-30 13:59:13
+Sentiment: neutral
+Explanation: The news title mentions Costco along with other companies (Dell and Gap) in a podcast. Without more specific details on the content of the podcast regarding COST, it's impossible to determine a direct, immediate positive or negative impact on its stock price within the next 60 minutes. There is no quantifiable data or specific catalyst directly affecting COST.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco signals continued price investment and targets 27 new warehouses in 2025 while expanding digital initiatives
+Date: 2025-05-30 02:47:33
+Sentiment: positive
+Explanation: The news of Costco's expansion plans, including 27 new warehouses and digital initiatives, signals growth and investment, which typically attracts buyers in the short term. While not immediate earnings, this news presents a positive outlook and should trigger initial bullish sentiment among short-term traders, causing a price increase within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Here's what impressed us most about Costco's earnings beat in a tariff-filled world
+Date: 2025-05-30 01:40:14
+Sentiment: positive
+Explanation: The news suggests a positive surprise relative to previous expectations ("earnings beat," "surprising earnings miss last time around"). This surprise factor will likely trigger short-term buying pressure as traders react to the better-than-expected earnings in the immediate aftermath, causing a price increase within the 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco is taking a page from Sam's Club's playbook to speed up checkout in the warehouse
+Date: 2025-05-30 01:30:33
+Sentiment: neutral
+Explanation: While the news discusses potential improvements to Costco's checkout process, it's more of a gradual implementation and response to competitor Sam's Club. There are no concrete numbers or unexpected announcements that would likely trigger significant short-term trading activity within the next 60 minutes. The sentiment trigger appears weak, as this isn't a sudden game-changing announcement, and the improvements may already be somewhat priced in.
+```
+--------------------------------------------------------------------------------
+
+Title: Stock Movers: Costco, Dell, Red Robin (Podcast)
+Date: 2025-05-30 00:36:52
+Sentiment: neutral
+Explanation: The title "Stock Movers: Costco, Dell, Red Robin (Podcast)" is generic and doesn't indicate any specific positive or negative information about Costco. The description alone provides no quantifiable data, direct impact, or sentiment trigger to anticipate any significant price movement within 60 minutes. This is simply an announcement that Costco is mentioned in a Bloomberg podcast, which is likely already priced into the market.
+```
+--------------------------------------------------------------------------------
+
+Title: ICYMI:Costco Defies Tariff Volatility as Other Retailers Stumble
+Date: 2025-05-29 23:26:25
+Sentiment: positive
+Explanation: The title "Costco Defies Tariff Volatility as Other Retailers Stumble" suggests Costco is outperforming its peers despite negative external factors. This implies a positive surprise factor and potential market share gains for COST, likely leading to short-term buying pressure as traders react to the relative outperformance within the sector in the immediate aftermath of the news.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco in charts: Total company adjusted comp. sales rise 8%
+Date: 2025-05-29 22:42:42
+Sentiment: positive
+Explanation: An 8% rise in adjusted comparable sales is a strong indicator of Costco's current performance, exceeding expectations and instilling immediate confidence in short-term traders. This positive quantifiable data will likely trigger a quick buying reaction, pushing the stock price up in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco tops earnings and revenue estimates as sales jump 8%
+Date: 2025-05-29 22:28:06
+Sentiment: positive
+Explanation: The news clearly states that Costco has topped both earnings and revenue estimates, and sales have jumped 8%. This represents a significant beat, triggering immediate positive sentiment. Traders will likely interpret this as a positive sign for Costco's financial health and future prospects, leading to increased buying pressure in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco outpaces Walmart and Target again in the U.S.
+Date: 2025-05-29 22:24:21
+Sentiment: positive
+Explanation: The news title "Costco outpaces Walmart and Target again in the U.S." indicates a positive trend in market share and sales performance relative to its competitors. This likely generates positive sentiment and short-term buying pressure from traders reacting to the perceived outperformance within the next 60 minutes, thus boosting the stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco’s Quarterly Earnings Beat, Defying Tariff Volatility
+Date: 2025-05-29 22:17:56
+Sentiment: positive
+Explanation: The headline "Costco’s Quarterly Earnings Beat, Defying Tariff Volatility" immediately suggests a positive surprise for investors. Earnings beats are a known catalyst type that can drive immediate buying pressure. This news directly impacts Costco's financial performance, and the fact that they "defied tariff volatility" suggests strong operational execution, which is likely to trigger positive sentiment within the short-term trading window.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco GAAP EPS of $4.28 beats by $0.05, revenue of $63.2B beats by $100M
+Date: 2025-05-29 22:17:17
+Sentiment: positive
+Explanation: The news indicates Costco's EPS and revenue both beat expectations. This positive surprise, particularly the substantial revenue beat, will likely trigger immediate buying pressure from short-term traders acting on the positive financial data, driving the stock price up in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Who's next to join the trillion-dollar market club: WMT, JPM, V, LLY, or someone else? | $WMT $COST $NFLX $AAPL $GOOG
+Date: 2025-05-29 18:47:45
+Sentiment: neutral
+Explanation: The news title simply mentions COST along with other large companies as potential candidates to reach a trillion-dollar market cap. This is speculative and doesn't provide any concrete, immediate information impacting COST's financials or operations in the next 60 minutes. Thus, it's unlikely to drive a significant price movement based solely on this mention.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco reports earnings today. Here’s why its results might not change investors’ perceptions.
+Date: 2025-05-29 13:00:00
+Sentiment: neutral
+Explanation: The news focuses on earnings being reported after the bell, which means no immediate impact within the 60-minute window following the news release. Mentioning that Wall Street is focused on tariffs, not Costco's results, suggests any report outcome will likely be overshadowed or delayed in impacting the price action. There's no indication of a positive or negative catalyst related to the earnings outcome itself.
+```
+--------------------------------------------------------------------------------
+
+Title: Despite tariff-related anxieties, few companies are pulling their forecasts
+Date: 2025-05-27 20:46:00
+Sentiment: neutral
+Explanation: The title mentioning "tariff-related anxieties" is a macro issue already widely discussed and likely priced into COST's stock. While the description notes Costco reports earnings this week, the news itself isn't the earnings release, so there's no quantifiable data or surprise factor to immediately move the price in the next 60 minutes. The information is already publicly available and doesn't represent a new, significant development affecting COST.
+```
+--------------------------------------------------------------------------------
+
+Title: Cramer's week ahead: Earnings from Nvidia, Dell, Costco and Salesforce
+Date: 2025-05-24 01:21:00
+Sentiment: neutral
+Explanation: This news item is simply a preview of the coming week's earnings reports, including COST. While mentioning Costco, it doesn't provide any specific details, projections, or surprises related to COST's upcoming earnings report. Therefore, it is unlikely to cause a significant price movement in COST within the next 60 minutes, as it lacks any direct impact or surprise factor.
+```
+--------------------------------------------------------------------------------
+
+Title: Catalyst Watch: Eyes on Nvidia, OPEC, and box office blockbusters | $SPY $COST $DIS $GOOG $HPQ
+Date: 2025-05-23 21:00:32
+Sentiment: neutral
+Explanation: The title mentions COST, but the description is missing. Without understanding the content of the news regarding COST, it's impossible to determine if there will be any direct impact on its stock price within the next 60 minutes. Therefore, a neutral classification is appropriate as we cannot assess magnitude, surprise, or sentiment trigger related to COST.
+```
+--------------------------------------------------------------------------------
+
+Title: I live 2 hours from the nearest Costco. Here are 10 items worth the 130-mile drive.
+Date: 2025-05-22 18:39:43
+Sentiment: neutral
+Explanation: This article describes a customer's shopping habits at Costco, highlighting specific products they enjoy. While positive anecdotal evidence of Costco's value proposition exists, the immediate impact on COST's stock price within 60 minutes is unlikely to be significant as it lacks quantifiable data and represents an individual's experience. This news item is not a catalyst and lacks the surprise factor necessary to incite immediate trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: I loved shopping at Costco, but the store has become so crowded that I can't find a parking spot. Aldi has been my lifesaver.
+Date: 2025-05-22 17:50:58
+Sentiment: negative
+Explanation: The news highlights negative customer experience ("store has become so crowded") and a shift in shopping habits to competitors like Aldi. While only one person's experience, the immediate perception will be slightly negative as it suggests potential revenue loss due to crowding issues. This could lead to a small, short-term sell-off within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Target’s retail woes make it prime activist bait
+Date: 2025-05-21 19:16:46
+Sentiment: neutral
+Explanation: This news indirectly relates to COST by mentioning its strong performance in comparison to Target. While it acknowledges COST's strength, the article primarily focuses on Target and potential activist activity, which has no immediate, direct, or quantifiable impact on COST's revenue, costs, or operations within the next 60 minutes. The comparative mention isn't significant enough to trigger a substantial price movement in COST within the specified timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Target falls after earnings show further market share losses to Walmart and Costco
+Date: 2025-05-21 12:53:13
+Sentiment: positive
+Explanation: The news implies that Costco is gaining market share from a major competitor, Target. While the primary focus is on Target's losses, the mention of Costco's gains acts as a positive signal, potentially triggering short-term buying pressure as traders react to perceived competitive advantages for COST within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a barbecue pitmaster who shops at Costco. Here are 13 things I love to buy there and how I use them.
+Date: 2025-05-19 16:45:04
+Sentiment: neutral
+Explanation: This article is essentially a personal blog post about one person's shopping habits at Costco. While it highlights positive aspects of Costco, it lacks any significant quantifiable data or surprising information that would trigger a substantial price movement in the next 60 minutes. Therefore, there is no direct or immediate impact on COST's stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco's Kirkland brand generates more revenue than Lowe's and Procter & Gamble
+Date: 2025-05-19 12:30:56
+Sentiment: positive
+Explanation: The news highlights the success and strength of Costco's private-label brand, Kirkland, surpassing the revenue of major companies. This positive surprise factor related to a key revenue driver is likely to trigger short-term buying pressure as traders perceive it as a bullish signal for COST, driving the price up within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco has been placing new limits on gold purchases in recent months as the metal's popularity surges
+Date: 2025-05-12 19:03:02
+Sentiment: neutral
+Explanation: While the news indicates high demand for Costco's gold offerings, the purchasing limits suggest a potential constraint on revenue. However, this news is already somewhat priced in due to the popularity of Costco's gold sales, and the relatively small profit margin on gold itself means the restrictions likely won't have a large immediate impact on COST's overall profitability or trading sentiment within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Affirm CEO Explains Company’s Guidance
+Date: 2025-05-09 21:21:10
+Sentiment: positive
+Explanation: The news highlights Affirm CEO discussing an *increased guidance* and a new deal with Costco. This suggests a positive impact on Affirm's business, and by extension, potentially increased sales or customer engagement for Costco as a partner within the next 60 minutes. The "new deal" mentioned has surprise value and positive sentiment towards COST due to the expected short-term benefit.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a diehard Costco fan who's been shopping at the store for over 20 years. These 9 items caught my eye this month.
+Date: 2025-05-09 15:02:01
+Sentiment: neutral
+Explanation: This article is simply a list of recommended products by a Costco shopper. While it's positive in tone towards Costco, it lacks specific, surprising, or quantifiable data that would trigger a significant immediate price movement. Therefore, the news is considered neutral due to its lack of direct, impactful information on Costco's revenue or operations in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Affirm, Costco Launch BNPL Partnership for eCommerce
+Date: 2025-05-09 00:05:02
+Sentiment: positive
+Explanation: The news of Costco partnering with Affirm to offer BNPL could drive increased sales on Costco's eCommerce platform in the short term. This collaboration likely enhances the customer experience and encourages more online purchases, especially for larger items. The surprise factor, combined with the potential for immediate sales growth, suggests a positive, albeit potentially modest, short-term price impact.
+```
+--------------------------------------------------------------------------------
+
+Title: Labor judge says Costco's confidentiality agreement for handling employee complaints is unlawful
+Date: 2025-05-08 23:24:39
+Sentiment: negative
+Explanation: The news of a labor judge ruling against Costco regarding worker confidentiality agreements has a negative short-term impact. This event introduces operational risks and potential legal costs. The negative publicity around potentially protecting harassers could also briefly impact sentiment.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco in Deal With Affirm Giving Shoppers Monthly Payment Plans
+Date: 2025-05-08 22:05:00
+Sentiment: positive
+Explanation: The news of Costco partnering with Affirm offers consumers greater purchasing power, which could lead to increased sales volume, particularly on bigger-ticket items, within the short term. This constitutes a positive catalyst, and the surprise factor of the partnership will likely trigger immediate positive sentiment among traders, pushing the stock price up in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Why Eli Lilly is falling — plus, what new Costco sales say about the consumer
+Date: 2025-05-08 17:49:38
+Sentiment: neutral
+Explanation: The title mentions "new Costco sales," suggesting potential information about their consumer activity. However, without specific numbers or a clear beat/miss of expectations, the impact in the next 60 minutes is unlikely to be significant. The reference to Eli Lilly further dilutes the immediate focus on COST, making any directional price movement attributable to this news uncertain.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco managed another month of sales growth in April. But it marks a slowdown from March.
+Date: 2025-05-07 22:31:00
+Sentiment: negative
+Explanation: The headline states "slowdown" which will likely trigger a negative knee-jerk reaction from traders within the 60-minute timeframe. While sales growth is still present, the deceleration coupled with Wall Street's tariff concerns creates a short-term negative sentiment catalyst. There will be immediate selling pressure based on the fear of worsening future performance.
+```
+--------------------------------------------------------------------------------
+
+Title: Why Target is losing out against competitors Walmart and Costco
+Date: 2025-05-07 17:00:01
+Sentiment: positive
+Explanation: This news highlights Target losing market share to competitors, including Costco. The direct impact is that this suggests a potential increase in Costco's revenue in the immediate short term as shoppers switch, creating a positive sentiment trigger for traders to buy within the 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco co-founder still goes into the office weekly at age 89: 'To be successful, you've got to be pretty focused'
+Date: 2025-05-03 14:00:01
+Sentiment: neutral
+Explanation: This news piece, while potentially interesting, provides no direct financial information or operational updates that would significantly impact COST's price in the next 60 minutes. It is primarily anecdotal and lacks the magnitude or surprise factor necessary to trigger immediate trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: 1.8 million SharkNinja pressure cookers sold at Walmart, Costco, Target, and elsewhere have been recalled after serious burn injuries
+Date: 2025-05-02 14:41:00
+Sentiment: negative
+Explanation: The recall of 1.8 million SharkNinja pressure cookers sold at Costco, due to burn injuries, is a negative signal. While Costco is just one retailer, the association with a product recall and potential customer safety concerns could lead to a temporary dip in stock price as traders react negatively to the news, even if the direct financial impact is relatively small.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco’s Kirkland brand is bigger than Nike—and it’s about to get even bigger
+Date: 2025-05-02 12:30:00
+Sentiment: positive
+Explanation: The news highlights the strength and growing importance of Costco's Kirkland brand, which is a significant revenue driver. The comparison to Nike and Netflix in terms of revenue, alongside the assertion that it will become more important in a challenging economy, suggests increased consumer demand and brand loyalty, likely triggering short-term buying interest.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a dietitian and mom of 2. Here are 12 quick snacks I buy at Costco with my executive membership.
+Date: 2025-04-30 20:53:01
+Sentiment: neutral
+Explanation: This article, while potentially beneficial for long-term brand awareness and customer loyalty, offers no immediate quantifiable data or direct financial impact on COST within the next 60 minutes. The content is primarily anecdotal and lacks the surprise factor or catalyst potential necessary to trigger significant short-term price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: I tracked where every item was from during my Costco trip and saw just how much the US relies on global trade
+Date: 2025-04-29 11:10:01
+Sentiment: negative
+Explanation: The news highlights Costco's reliance on imported goods and exposure to tariffs, suggesting potential cost increases for consumers. This creates negative sentiment in the short-term as traders may worry about diminished consumer spending and profitability, triggering a sell-off within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Walmart is once again America's grocery king, but rival Costco is rapidly gaining ground
+Date: 2025-04-28 21:21:37
+Sentiment: positive
+Explanation: The news highlights Costco's increasing market share in the grocery sector, directly impacting Costco's potential revenue. This positive trend, occurring against the backdrop of consumer focus on value, suggests increased sales and potentially stronger financial performance, which will likely trigger positive trader sentiment within the 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Walmart leads Raleigh grocery market, but Publix gains fast
+Date: 2025-04-25 02:41:07
+Sentiment: neutral
+Explanation: The news is focused on market share in Raleigh, specifically highlighting Walmart, Food Lion, Harris Teeter, and Publix. While it mentions Costco is being surpassed by Publix, the impact on COST's overall revenue within the next 60 minutes is insignificant. No immediate, direct financial implications or significant surprise factor identified that would cause a noteworthy price change.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Switched Its Kirkland Diapers and Parents Aren’t Happy
+Date: 2025-04-24 20:50:10
+Sentiment: negative
+Explanation: While seemingly minor, the news highlights customer dissatisfaction with a core Kirkland product (diapers). This could lead to short-term negative sentiment and potential selling pressure as traders react to the headline, impacting sales in the immediate term. Although the long-term effect may be minimal, algorithmic traders might exploit this initial negative reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco gold shoppers are cashing in on the company's rewards as prices surge
+Date: 2025-04-23 19:13:33
+Sentiment: positive
+Explanation: The news highlights Costco's success in the gold market, specifically noting high sales volume and low markups which attract buyers. This positive attention, coupled with the "gateway drug" effect, suggests increased demand and potential revenue boost in the short term. The potential for Executive Members to gain a net reward through credit card usage also drives demand, triggering a likely immediate positive sentiment among investors.
+```
+--------------------------------------------------------------------------------
+
+Title: Tariff tough: Dollar Tree is outperforming Amazon, Walmart and Costco over the last six weeks
+Date: 2025-04-17 18:00:43
+Sentiment: negative
+Explanation: The headline states that Dollar Tree is outperforming Costco. This implies that COST is underperforming relative to a competitor. While the description is missing, even without specifics, the headline creates a negative sentiment trigger for short-term traders, potentially causing a price decrease within the next 60 minutes due to competitive concerns.
+```
+--------------------------------------------------------------------------------
+
+Title: Are These $20 Costco Pants a Lululemon Dupe? We Investigated.
+Date: 2025-04-17 16:29:29
+Sentiment: neutral
+Explanation: This news piece, while interesting to some shoppers, doesn't directly impact Costco's revenue or operations in a quantifiable way. The article focuses on comparing Costco's pants to Lululemon's, and doesn't contain any surprise or data to suggest a significant shift in consumer behavior that would affect COST's stock price in the next 60 minutes. Therefore, any price reaction is unlikely to be directly *caused* by this news.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco raises dividend by 12%
+Date: 2025-04-16 22:17:13
+Sentiment: positive
+Explanation: A 12% dividend increase is likely to be viewed positively by short-term traders, creating immediate buying pressure. The surprise factor of a significant dividend hike (likely exceeding analyst expectations) acts as a catalyst, drawing in income-seeking investors and triggering algorithmic buy orders within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Sam’s Club Opening More Clubs As It Rivals Costco And BJ’s Expansion
+Date: 2025-04-14 13:41:50
+Sentiment: negative
+Explanation: Sam's Club expansion directly increases competition for Costco, posing a threat to market share. While the magnitude isn't precisely quantified, the immediate reaction is likely to be negative as traders price in increased competitive pressure on COST in the near term. No directly positive data points are present to counteract this competitive threat within the specified 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Shoppers' answer to tariffs: Go to Costco
+Date: 2025-04-12 11:27:01
+Sentiment: positive
+Explanation: The news highlights increased foot traffic to Costco due to shoppers attempting to avoid tariffs. This suggests a short-term boost in sales and revenue for COST, triggering a positive reaction from traders in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco is the new Target - Branded is a weekly column devoted to the intersection of marketing, ...
+Date: 2025-04-11 12:30:00
+Sentiment: positive
+Explanation: The news highlights Costco gaining market share due to its DEI commitments while Target faces boycotts and decreased foot traffic. The Numerator and Placer.ai data showing significant increases in Costco's store visits and website traffic, coupled with Target's declines, is a significant surprise factor and a direct positive catalyst likely to trigger short-term buying pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco backs up its status as a retail winner during a cloudy time for economy
+Date: 2025-04-10 21:25:39
+Sentiment: positive
+Explanation: The news indicates better-than-expected sales for Costco in March. This positive surprise will likely trigger short-term buying as traders react to the stronger-than-anticipated performance, resulting in an immediate price increase within the 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco records another strong sales month amid tariff turmoil
+Date: 2025-04-09 23:02:47
+Sentiment: positive
+Explanation: "Strong sales month" directly affects COST's revenue positively. The mention of "tariff turmoil" creates a slight ambiguity, but the initial impression of strong sales will likely outweigh tariff concerns within the immediate 60-minute timeframe, triggering short-term buying and FOMO. This positive news presents a favorable catalyst for an immediate, albeit potentially small, price increase.
+```
+--------------------------------------------------------------------------------
+
+Title: I've been shopping at Costco for over 20 years. These are the 8 best items I saw in the store this month.
+Date: 2025-04-08 17:27:56
+Sentiment: neutral
+Explanation: This news is a review of items available at Costco. While it paints a positive picture of certain products, it lacks the magnitude or quantifiable data to significantly impact COST's stock price within the next 60 minutes. This type of anecdotal content is unlikely to trigger immediate trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: Tempted by Trump’s Tariffs to Panic-Buy? Don’t.
+Date: 2025-04-04 18:00:06
+Sentiment: neutral
+Explanation: The news suggests consumer behavior isn't drastically changing due to tariffs, implying stable demand for Costco. However, this is an opinion piece rather than concrete data. The lack of quantifiable data or a direct impact on Costco's immediate financials means the news likely won't cause a significant price movement in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: I bought an 8-foot-tall teddy bear from Costco. It was $300, and my kids love it.
+Date: 2025-04-04 16:42:59
+Sentiment: neutral
+Explanation: This article, while positive in tone, primarily describes a personal anecdote and has no direct, quantifiable impact on Costco's revenue, operations, or market share within the next 60 minutes. There is no major surprise factor or catalyst type to trigger a significant short-term price movement based on this single article.
+```
+--------------------------------------------------------------------------------
+
+Title: I finally get the Costco hype now that I moved from an apartment to a house. Here are 18 purchases I swear by.
+Date: 2025-04-03 22:00:02
+Sentiment: neutral
+Explanation: This article, while positive about Costco's offerings, doesn't present any quantifiable data or unexpected news that would significantly impact COST's stock price within the next 60 minutes. It's essentially anecdotal evidence of customer satisfaction, which is unlikely to trigger immediate, algorithm-driven trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: Retail reckoning: Walmart, Amazon and Costco slide as tariff blitz ramps up recession anxiety
+Date: 2025-04-03 12:54:16
+Sentiment: negative
+Explanation: The title highlights a potential "recession anxiety" amplified by tariffs and mentions a slide in Costco's stock price alongside Walmart and Amazon. This creates a negative sentiment trigger for short-term traders, likely leading to further selling pressure on COST in the immediate 60-minute window due to increased investor fear and uncertainty.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Wholesale Is a ‘Top Recession Hedge.’ The Case for Buying Now.
+Date: 2025-04-02 16:45:00
+Sentiment: positive
+Explanation: The title suggests Costco is a good investment during a recession, which is likely to trigger short-term buying pressure due to FOMO, especially if the argument is compelling. While the detailed description is missing, the title alone is strong enough to generate immediate positive sentiment and a likely price increase within the 60-minute timeframe. This acts as a catalyst for short-term traders.
+```
+--------------------------------------------------------------------------------
+
+Title: How Costco’s Kirkland Signature Brand Became a Powerhouse
+Date: 2025-03-31 06:01:00
+Sentiment: neutral
+Explanation: The news highlights the success of Costco's Kirkland Signature brand, which is already a well-known aspect of its business model. While positive in the long term, it's unlikely to trigger a significant price movement in the next 60 minutes as it's not a surprise announcement or a catalyst with immediate financial implications (e.g., earnings data). The information is unlikely to cause immediate FOMO buying or panic selling within this short timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco's not-so secret weapon: How Kirkland Signature is driving growth and profits
+Date: 2025-03-29 17:56:20
+Sentiment: positive
+Explanation: The news highlights a core strength (Kirkland Signature) driving growth and profits amidst a challenging consumer spending environment. This suggests resilience and competitive advantage, likely prompting short-term positive sentiment and buying pressure from traders looking for safe-haven stocks, especially given the "weaker environment" phrasing. The news emphasizes Costco's ability to thrive despite economic headwinds, making it a positive catalyst in the immediate term.
+```
+--------------------------------------------------------------------------------
+
+Title: Insider trades: McDonald's, Costco among notable names this week
+Date: 2025-03-29 16:03:00
+Sentiment: neutral
+Explanation: Insider trading reports are generally considered lagging indicators and have minimal direct impact on the immediate stock price. The news mentions multiple companies, and there's no specific negative or positive insider trading activity highlighted that would immediately influence COST's stock price within the next 60 minutes. No quantifiable data or immediate catalyst is present.
+```
+--------------------------------------------------------------------------------
+
+Title: Target Lost by Bowing to Anti-DEI Efforts
+Date: 2025-03-29 13:00:04
+Sentiment: neutral
+Explanation: The news focuses on Target's DEI initiatives, and while Costco is mentioned in the description, the primary subject is a competitor. This indirect association is unlikely to significantly impact COST's price within the next 60 minutes, as there is no direct effect on Costco's revenue, costs, or operations.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a diehard Costco fan with an executive membership. Here are the 9 items I can't leave the store without.
+Date: 2025-03-24 15:01:01
+Sentiment: neutral
+Explanation: The article details a personal anecdote about a shopper's favorite items at Costco. While it presents a positive portrayal of Costco, it lacks the surprise factor or quantifiable data needed to significantly impact the stock price within 60 minutes. The news is likely too anecdotal and lacks a direct financial or operational impact.
+```
+--------------------------------------------------------------------------------
+
+Title: Segway recall: Scooters sold at Best Buy, Costco, Target, Walmart and Sam’s Club pose risk of ‘injury or death’
+Date: 2025-03-24 13:25:00
+Sentiment: negative
+Explanation: The news item directly names Costco as one of the retailers selling the recalled Segway scooters, creating negative association and potential liability concerns. While the recall doesn't involve Costco-branded products, the association with a product posing a risk of "injury or death" could trigger a negative sentiment among short-term traders, leading to immediate selling pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: Insider trades: Exxon Mobil, Costco among notable names this week
+Date: 2025-03-22 16:03:00
+Sentiment: neutral
+Explanation: The title mentions insider trading activity at Costco (COST) alongside other companies. Without knowing the specifics of the insider trades (e.g., buy vs. sell, size of the trades), it's difficult to predict the immediate impact on the stock price. This information alone lacks a significant surprise factor or direct, quantifiable financial implications for COST within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: I visited Costco in Hawaii. It was different from other US locations — and a surprising highlight of my vacation.
+Date: 2025-03-20 17:44:01
+Sentiment: neutral
+Explanation: This article is a travel blog post detailing a positive personal experience at a Costco location in Hawaii. While positive in tone, it lacks significant, quantifiable data or any catalyst to directly impact COST's overall financials or operations within the next 60 minutes; therefore, it is unlikely to influence the stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco (COST) Yield Shares Purpose ETF declares CAD 0.10 dividend
+Date: 2025-03-19 16:11:04
+Sentiment: neutral
+Explanation: This news pertains to the "Costco (COST) Yield Shares Purpose ETF" declaring a dividend, not to Costco's (COST) direct operations or financial performance. The news directly impacts the ETF, which holds COST as a component, but its effect on COST shares themselves within the next 60 minutes is likely negligible and widely dispersed across all ETF holdings. Therefore, the surprise factor and immediate financial impact are low, indicating a NEUTRAL classification.
+```
+--------------------------------------------------------------------------------
+
+Title: I tried chicken salad from Costco, Trader Joe's, Wegmans, and Whole Foods. There was only one I'd buy again.
+Date: 2025-03-19 16:06:13
+Sentiment: neutral
+Explanation: The article is a review of chicken salad from multiple stores, including Costco. While it mentions Costco's chicken salad as "just OK" and "bland," this single food review is unlikely to have a significant immediate impact on COST's overall stock price within 60 minutes due to the limited scope and lack of quantifiable negative data concerning Costco's larger business operations. The surprise factor is low and it's not a known catalyst event.
+```
+--------------------------------------------------------------------------------
+
+Title: I'm a retired personal trainer on a Mediterranean diet. These 11 Costco buys make my executive membership worth it.
+Date: 2025-03-19 13:48:01
+Sentiment: neutral
+Explanation: This article is a lifestyle piece about one person's shopping habits at Costco. While it may generate positive sentiment towards Costco's products, it lacks the magnitude and surprise needed for a significant, immediate impact on COST's stock price within the next 60 minutes. There are no quantifiable data points or direct implications for revenue or operations that would cause a short-term price movement.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco leans on mainland China suppliers as US tariffs bite
+Date: 2025-03-18 12:00:50
+Sentiment: negative
+Explanation: The news suggests COST is relying on mainland China suppliers due to US tariffs, which increases scrutiny from Beijing. This political tension and potential for supply chain disruption creates uncertainty and could negatively impact COST's operations and costs in the short term, triggering a negative sentiment reaction among traders within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Top Wall Street analysts favor these 3 stocks for the long term
+Date: 2025-03-16 12:14:06
+Sentiment: positive
+Explanation: The news highlights that top Wall Street analysts favor Costco, suggesting positive sentiment and potentially triggering increased buying pressure in the short term. While not a direct financial announcement, the analyst endorsement serves as a sentiment catalyst, likely causing a minor price increase as traders react to the positive recommendation within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Insider trades: American Express, Costco among notable names this week
+Date: 2025-03-15 16:03:00
+Sentiment: neutral
+Explanation: The news title mentions insider trades at both American Express and Costco. Without specifics on the direction (buying or selling) and magnitude of Costco insider trades, and given that it's grouped with another company's trades, the news is unlikely to cause a significant directional price movement in COST within the next 60 minutes. There's no direct impact identified and the surprise factor is low.
+```
+--------------------------------------------------------------------------------
+
+Title: If you earn more than $125K and live in a city, you probably shop at Costco — not Sam's Club
+Date: 2025-03-15 12:34:01
+Sentiment: positive
+Explanation: The article highlights Costco's popularity among wealthier, urban shoppers, who also spend more per year and visit more frequently than Sam's Club shoppers. This positive consumer data, indicating higher spending and affluent customer base, will likely create a positive short-term sentiment among traders, pushing the price up within the next 60 minutes due to perceived strength in their consumer base.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco on course to end six consecutive sessions of losses
+Date: 2025-03-14 19:31:45
+Sentiment: positive
+Explanation: The news title indicating Costco is "on course to end six consecutive sessions of losses" suggests a potential short-term positive sentiment trigger. Traders reacting to this headline might perceive a short-term buying opportunity or a bottoming out, potentially leading to increased demand in the immediate future. This could cause a price increase in the next 60 minutes as traders react to the positive momentum.
+```
+--------------------------------------------------------------------------------
+
+Title: Retail sell-off sweeps up Amazon, Walmart, and Costco as economic and tariff concerns mount
+Date: 2025-03-13 18:06:54
+Sentiment: negative
+Explanation: The news title explicitly mentions "retail sell-off" and "economic and tariff concerns" impacting Costco, alongside Amazon and Walmart. This suggests an immediate negative sentiment trigger, likely causing traders to sell COST shares within the 60-minute timeframe due to concerns about immediate sales declines or price increases driven by tariffs. The mention of specific companies indicates a sector-wide concern, amplifying the short-term negative pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: Shoppers are ditching Target after its DEI waffling and more are choosing Costco
+Date: 2025-03-12 19:25:37
+Sentiment: positive
+Explanation: The news indicates a shift in customer foot traffic and market share from Target to Costco, driven by differing DEI policies. This suggests a direct positive impact on Costco's revenue and immediately increased visits. The Numerator survey data provides quantifiable support, fueling short-term trader optimism and likely pushing the price upwards within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Can Costco Stock Sink 30%? - The warehouse giant’s stock has risen 5% year-to-date, surpassing ...
+Date: 2025-03-12 09:00:53
+Sentiment: negative
+Explanation: The title "Can Costco Stock Sink 30%?" immediately creates negative sentiment, regardless of the article's overall tone. Even though the description highlights positive YTD performance, the question in the title serves as a short-term negative catalyst triggering immediate selling pressure from algorithmic traders reacting to the possibility of a significant price drop.
+```
+--------------------------------------------------------------------------------
+
+Title: Jim Cramer says he is unfazed by Costco’s recent sell-off. Here's what he'd do with the stock
+Date: 2025-03-11 20:18:37
+Sentiment: neutral
+Explanation: Jim Cramer expressing being "unfazed" by a recent sell-off has limited immediate impact. While it may offer some reassurance, it's unlikely to trigger significant buying or selling pressure within the 60-minute timeframe, as it's primarily opinion-based and doesn't introduce any new quantifiable data or directly affect COST's financials. The news acknowledges underperformance, which could be interpreted as slightly negative, but Cramer's unfazed stance balances this, resulting in a net neutral sentiment for the immediate short-term.
+```
+--------------------------------------------------------------------------------
+
+Title: I've shopped at Costco for over a decade. Here are my 9 favorite buys to make in the air fryer.
+Date: 2025-03-11 16:27:56
+Sentiment: neutral
+Explanation: This article highlights specific Costco products but primarily focuses on air-fryer recipes. While positive press is generally helpful, the article lacks the magnitude or direct quantifiable impact to influence COST's stock price significantly within the next 60 minutes. The "surprise factor" is low, and it's unlikely to trigger immediate trading decisions.
+```
+--------------------------------------------------------------------------------
+
+Title: COST stock falls on earnings and tariff threats, but Costco’s still opening 12 new U.S. stores this year
+Date: 2025-03-07 20:00:00
+Sentiment: negative
+Explanation: The news contains several negative elements likely to impact COST's price negatively in the next 60 minutes. Specifically, the headline "COST stock falls on earnings and tariff threats" and the immediate report of a 7% drop, along with the earnings miss, will likely trigger immediate selling pressure. While there are some positive elements like revenue beat, these are overshadowed in the short term by the earnings miss and tariff uncertainty.
+```
+--------------------------------------------------------------------------------
+
+Title: COST stock falls on earnings and tariff threats, but Costco is still opening 12 new U.S. stores this year
+Date: 2025-03-07 20:00:00
+Sentiment: negative
+Explanation: The news contains mixed information, but the immediate impact is likely negative. The headline mentions "COST stock falls," and the description highlights "missing profit estimates," which will likely trigger immediate negative sentiment from short-term traders focusing on the earnings miss. While beating on revenue and opening new stores are positive long-term, the earnings miss and the phrase "stock falls" will likely drive negative price action in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Tariff Whiplash Clouds Outlook, Prices at Target and Costco
+Date: 2025-03-07 19:09:10
+Sentiment: negative
+Explanation: The news suggests potential price increases at Costco due to tariffs, impacting consumer spending and potentially reducing sales volume within the short term. This "Tariff Whiplash" scenario creates uncertainty and is likely to trigger negative sentiment among short-term traders, prompting immediate selling pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Stock Is Tumbling. What Wall Street Says After an Earnings Miss.
+Date: 2025-03-07 18:23:00
+Sentiment: negative
+Explanation: The title "Costco Stock Is Tumbling. What Wall Street Says After an Earnings Miss" strongly suggests a negative earnings surprise, a significant catalyst likely to trigger immediate selling pressure. An earnings miss directly impacts the company's financial performance and market sentiment, increasing the probability of a price decrease in the next 60 minutes as traders react.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco's massive 100-inch TVs are a hit
+Date: 2025-03-07 17:33:37
+Sentiment: positive
+Explanation: The news directly states that "Costco's CFO says its 98- and 100-inch TVs sold 'very well' at the holidays." This indicates strong sales in a specific category and directly impacts Costco's revenue. The unexpected sales figures for these high-ticket items during the holidays suggest a positive surprise for traders and are likely to trigger short-term buying pressure within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: These Stocks Are Moving the Most Today: Broadcom, HPE, Gap, Walgreens, Costco, Intuitive Machines, BigBear.ai, and More
+Date: 2025-03-07 15:42:00
+Sentiment: neutral
+Explanation: The news title is a list of stocks "moving the most." While COST is mentioned, the lack of specific news related to COST indicates no direct or immediate causal impact within the next 60 minutes. No quantifiable data or specific catalyst is present, suggesting no significant sentiment trigger to push the price up or down.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco customers showed up despite a cold February. That’s not the only thing impressing analysts.
+Date: 2025-03-07 14:29:00
+Sentiment: positive
+Explanation: The news highlights Costco's resilience despite adverse weather and mentions analyst praise regarding international success. This positive sentiment, particularly the analyst's observation, is likely to trigger short-term buying pressure as traders react to the affirmation of Costco's strong business model. The "surprise" factor of continued customer traffic despite the weather could further amplify the immediate positive reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco checks plenty of key boxes for investors despite missing on earnings
+Date: 2025-03-07 02:13:41
+Sentiment: neutral
+Explanation: While the news suggests Costco remains strong ("best-of-breed"), it also highlights an earnings miss. The conflicting information and lack of a clear negative catalyst (despite the earnings miss mention) make it unlikely to drive a significant price movement in either direction within the next 60 minutes as traders will likely need more time to digest the overall context. The headline itself suggests that investors are still positive on the stock.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Leans Into Memberships Amid Tariff Uncertainty
+Date: 2025-03-07 01:58:02
+Sentiment: positive
+Explanation: The news contains strong positive signals including a 9.1% increase in net sales, a 6.8% increase in comparable sales (8.3% in the U.S.), a 20.9% increase in eCommerce sales, and high membership renewal rates (90.5% worldwide). While tariff uncertainty is mentioned, the company's strong membership model and positive sales metrics will likely reassure investors, driving up the stock price in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco says it's been buying up extra inventory as tariff uncertainty looms
+Date: 2025-03-07 00:43:18
+Sentiment: negative
+Explanation: The news highlights that Costco missed profit expectations, leading to a 1.5% drop in after-hours trading. This negative sentiment is likely to persist in the immediate short-term as traders react to the earnings miss, overriding the positive aspects of revenue growth and new memberships within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco in charts: Total company adjusted comparable sales stands at 9.1% in FQ2
+Date: 2025-03-06 23:05:27
+Sentiment: positive
+Explanation: 9.1% adjusted comparable sales exceeds expectations and constitutes a positive surprise. This quantifiable data indicates strong current performance, likely triggering immediate buying pressure from short-term traders anticipating continued positive momentum within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Earnings Snapshot: Costco FQ2 mixed, records net income of $1.79B
+Date: 2025-03-06 22:49:04
+Sentiment: neutral
+Explanation: The headline indicates mixed FQ2 results, with a recorded net income. Without specific details on expectations or the "mixed" performance, it's difficult to predict a significant immediate price movement. The lack of concrete data exceeding or falling short of expectations suggests the news is unlikely to be a strong catalyst in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco reports mixed second-quarter earnings
+Date: 2025-03-06 22:41:21
+Sentiment: negative
+Explanation: "Mixed" earnings create uncertainty and typically lead to initial negative reactions as traders digest the specifics. The immediate reaction in the next 60 minutes will likely be to sell first and analyze later, thus negatively impacting the stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco shares slip after profit and revenue miss
+Date: 2025-03-06 22:36:00
+Sentiment: negative
+Explanation: The news indicates a direct negative impact on COST's financials, as profit and revenue missed Wall Street expectations. This is a significant surprise factor likely triggering immediate negative sentiment among short-term traders, leading to selling pressure in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco tops comparable sales estimates as it continues to outpace Walmart and Target in the U.S.
+Date: 2025-03-06 22:23:52
+Sentiment: positive
+Explanation: Beating comparable sales estimates, especially outpacing major competitors like Walmart and Target in the U.S., is a direct positive impact on COST's revenue and market share. This positive surprise factor should trigger immediate buying pressure, likely causing a price increase within the 60-minute window as traders react to the strong performance signal.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco Posts Quarterly Profit That Misses Market Expectations
+Date: 2025-03-06 22:23:24
+Sentiment: negative
+Explanation: The news clearly states that Costco's quarterly profit missed market expectations, indicating a direct negative impact on financial performance. This constitutes a significant negative surprise, likely triggering immediate selling pressure as traders react to the disappointing earnings figures in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: I've worked at Costco for 19 years. Here are 9 of the best things I'm seeing on shelves right now.
+Date: 2025-03-05 18:43:15
+Sentiment: neutral
+Explanation: This news article highlights popular items currently available at Costco. While it may generate some positive sentiment towards Costco and potentially increase sales marginally, there is no indication of a significant, immediate financial impact that would drive the stock price up or down within the next 60 minutes. It lacks the magnitude, surprise factor, and quantifiable data required for a non-neutral classification.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco mastering the value proposition - UBS
+Date: 2025-03-04 23:22:49
+Sentiment: positive
+Explanation: A headline stating "Costco mastering the value proposition - UBS" will likely trigger immediate positive sentiment among short-term traders. This suggests a positive analyst rating, creating FOMO and increasing buying pressure within the next 60 minutes, outweighing other market factors. The surprise factor of a positive headline from a major firm contributes to a potential price increase.
+```
+--------------------------------------------------------------------------------
+
+Title: Target Loses And Costco Wins In Web Traffic On Feb. 28 Economic Blackout Day
+Date: 2025-03-03 18:38:42
+Sentiment: positive
+Explanation: The news suggests that Costco is benefiting from a boycott of Target. While indirect, the potential for increased web traffic and, consequently, sales for Costco in the very short term will likely trigger immediate positive sentiment and buying pressure. This is a high surprise factor that favors Costco in the immediate term.
+```
+--------------------------------------------------------------------------------
+
+Title: Costco earnings could include strong comparable sales, a boost from membership fee income, and a stock split surprise
+Date: 2025-03-03 12:30:30
+Sentiment: positive
+Explanation: The news suggests potential for strong comparable sales and increased membership fee income, both directly impacting COST's revenue positively. The added possibility of a stock split introduces a surprise factor likely to generate immediate bullish sentiment among short-term traders, triggering buying pressure in the next 60 minutes.
+```
+--------------------------------------------------------------------------------

@@ -1,0 +1,29 @@
+{
+  "strategy_name": "META",
+  "backtest_summary": {
+    "total_trades": 151,
+    "profitable_trades": 75,
+    "losing_trades": 71,
+    "win_rate": 0.4966887417218543
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0007,
+      "mean_return": -0.22393521886858506,
+      "confidence_interval": [
+        -0.35702435858292236,
+        -0.09154302898530702
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.3687,
+      "mean_return": -0.023912911061445927,
+      "confidence_interval": [
+        -0.15629732300446167,
+        0.10975967153749047
+      ],
+      "significant": false
+    }
+  }
+}

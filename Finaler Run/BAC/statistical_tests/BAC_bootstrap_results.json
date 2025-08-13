@@ -1,0 +1,29 @@
+{
+  "strategy_name": "BAC",
+  "backtest_summary": {
+    "total_trades": 47,
+    "profitable_trades": 27,
+    "losing_trades": 20,
+    "win_rate": 0.574468085106383
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0423,
+      "mean_return": -0.14872724690296305,
+      "confidence_interval": [
+        -0.33297160575784407,
+        0.021057377121963004
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2877,
+      "mean_return": 0.051208121765684594,
+      "confidence_interval": [
+        -0.13235395378603282,
+        0.22266682771546034
+      ],
+      "significant": false
+    }
+  }
+}

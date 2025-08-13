@@ -1,0 +1,29 @@
+{
+  "strategy_name": "COF",
+  "backtest_summary": {
+    "total_trades": 15,
+    "profitable_trades": 9,
+    "losing_trades": 5,
+    "win_rate": 0.6
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.3326,
+      "mean_return": -0.10411304469474006,
+      "confidence_interval": [
+        -0.5490767962242229,
+        0.32434014330076505
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.3334,
+      "mean_return": 0.09586820648694659,
+      "confidence_interval": [
+        -0.34364619517670536,
+        0.5378856693807801
+      ],
+      "significant": false
+    }
+  }
+}

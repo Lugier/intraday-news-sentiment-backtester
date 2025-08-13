@@ -1,0 +1,29 @@
+{
+  "strategy_name": "AMD",
+  "backtest_summary": {
+    "total_trades": 36,
+    "profitable_trades": 20,
+    "losing_trades": 16,
+    "win_rate": 0.5555555555555556
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.251,
+      "mean_return": -0.1056420764377817,
+      "confidence_interval": [
+        -0.4172583389133986,
+        0.19887274839971048
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.2718,
+      "mean_return": 0.0942151026900902,
+      "confidence_interval": [
+        -0.20292006935508924,
+        0.39759188743612395
+      ],
+      "significant": false
+    }
+  }
+}

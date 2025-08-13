@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,COST
+Total Trades,13
+Profitable Trades,5
+Losing Trades,7
+Win Rate,38.46%
+Mean Return,-0.407870
+Return 95% CI Lower,-0.705879
+Return 95% CI Upper,-0.165609
+Return p-value,0.0001
+Return Significant?,Yes
+Mean Trade Return,-0.207845
+Trade Return 95% CI Lower,-0.493989
+Trade Return 95% CI Upper,0.035368
+Trade Return p-value,0.0540
+Trade Return Significant?,No
+Bootstrap Simulations,10000

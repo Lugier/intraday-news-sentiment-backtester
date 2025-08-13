@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,PFE
+Total Trades,25
+Profitable Trades,12
+Losing Trades,11
+Win Rate,48.00%
+Mean Return,-0.171736
+Return 95% CI Lower,-0.447278
+Return 95% CI Upper,0.080409
+Return p-value,0.0953
+Return Significant?,No
+Mean Trade Return,0.028526
+Trade Return 95% CI Lower,-0.252650
+Trade Return 95% CI Upper,0.277979
+Trade Return p-value,0.4077
+Trade Return Significant?,No
+Bootstrap Simulations,10000

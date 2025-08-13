@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,JNJ
+Total Trades,18
+Profitable Trades,10
+Losing Trades,7
+Win Rate,55.56%
+Mean Return,-0.138506
+Return 95% CI Lower,-0.540391
+Return 95% CI Upper,0.247902
+Return p-value,0.2513
+Return Significant?,No
+Mean Trade Return,0.061059
+Trade Return 95% CI Lower,-0.337434
+Trade Return 95% CI Upper,0.437004
+Trade Return p-value,0.3721
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,29 @@
+{
+  "strategy_name": "DHR",
+  "backtest_summary": {
+    "total_trades": 6,
+    "profitable_trades": 3,
+    "losing_trades": 3,
+    "win_rate": 0.5
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,758 @@
+[
+    {
+        "title": "How are generic drugmakers reacting to Trump\u2019s push for domestic production? | $TEVA $AMRX $VTRS $SDZNY $JNJ",
+        "date": "2025-06-17 18:36:30",
+        "sentiment": "neutral",
+        "explanation": "The title mentions JNJ but the context is about generic drugmakers and Trump's push for domestic production. It's unlikely this news will have a direct, immediate, and significant impact on JNJ's stock price within the next 60 minutes. The article might mention JNJ, but the core focus is elsewhere, minimizing surprise factor and quantifiable impact on JNJ specifically.\n```"
+    },
+    {
+        "title": "White House reportedly eyeing restrictions to prescription drug advertising | $JNJ $NVO $LLY $ABBV $WPP",
+        "date": "2025-06-17 17:17:27",
+        "sentiment": "negative",
+        "explanation": "The news of potential restrictions to prescription drug advertising carries a negative sentiment for JNJ in the short term. This directly impacts JNJ's marketing and sales strategies, and the *potential* reduction in advertising could negatively affect drug sales and revenue within the next 60 minutes as traders react to the headline. The market is likely to react negatively due to the perceived immediate threat to revenue and potential increased compliance costs.\n```"
+    },
+    {
+        "title": "Democrats press Pfizer, J&J and others over low tax bills and lobbying as Senate debates Trump's plan",
+        "date": "2025-06-17 16:00:01",
+        "sentiment": "negative",
+        "explanation": "The news implies potential future tax increases and heightened scrutiny for J&J, creating uncertainty and potentially impacting profitability. While the actual financial impact is unclear, the negative sentiment associated with tax pressure and political scrutiny is likely to trigger immediate selling pressure from short-term traders.\n```"
+    },
+    {
+        "title": "Global pharma stocks down as Trump renews tariff threat | $PPH $JNJ $PFE $MRK $GILD",
+        "date": "2025-06-17 13:15:55",
+        "sentiment": "negative",
+        "explanation": "The headline explicitly mentions \"Global pharma stocks down as Trump renews tariff threat\" and includes JNJ's ticker. This suggests a broad negative sentiment towards pharma stocks, including JNJ, due to the tariff threat. While the long-term impact is uncertain, the immediate reaction within the next 60 minutes is likely to be negative as traders react to the renewed threat.\n```"
+    },
+    {
+        "title": "Johnson & Johnson CEO: 'We\u2019re in the Golden Era of Medical Innovation'",
+        "date": "2025-06-14 14:06:07",
+        "sentiment": "neutral",
+        "explanation": "The news is primarily about the CEO's optimistic outlook on medical innovation and JNJ's innovation facility. While positive in tone, it lacks concrete details (quantifiable data) about JNJ's immediate financial performance or any surprise factor to significantly impact the stock price in the next 60 minutes. This is more of a general industry commentary rather than a direct catalyst for JNJ stock movement within the given timeframe.\n```"
+    },
+    {
+        "title": "\u2018Golden Era\u2019 of Medication Meets Geopolitical Uncertainty",
+        "date": "2025-06-14 14:00:30",
+        "sentiment": "neutral",
+        "explanation": "While the interview with the CEO could provide insights, the news is unlikely to have a significant immediate (60-minute) impact on JNJ's stock price. There are no specific quantifiable data points or immediate catalysts, and the discussion of strategic M&A and R&D deployment is likely already priced into the stock. The mention of \"geopolitical uncertainty\" is a general statement, not specific to JNJ, and doesn't suggest an immediate positive or negative impact.\n```"
+    },
+    {
+        "title": "Middle East Escalation, Lower Gas Prices, Johnson & Johnson, Flying Cars | Wall Street Week",
+        "date": "2025-06-14 03:36:11",
+        "sentiment": "positive",
+        "explanation": "The mention of \"an interview with Johnson & Johnson\u2019s CEO on the golden age of medical innovation\" suggests a positive narrative around JNJ, and the CEO's perspective may trigger immediate positive trader sentiment. Although vague, the phrase \"golden age\" generates excitement, which could lead to a brief upward price reaction within the next hour.\n```"
+    },
+    {
+        "title": "J&J CAR-T therapy for B-cell lymphoma shows promise in phase 1",
+        "date": "2025-06-13 20:27:37",
+        "sentiment": "positive",
+        "explanation": "A positive phase 1 trial result for a J&J CAR-T therapy acts as a positive catalyst. Although only phase 1, the market often reacts positively to even early signs of success in novel therapies, creating short-term upward price pressure. This represents a potentially significant advancement within J&J's pipeline, triggering short-term trader optimism and FOMO.\n```"
+    },
+    {
+        "title": "Short bets on S&P 500 Healthcare sector ease in May; MRNA stays most shorted stock | $IBB $XLV $PPH $JNJ $LLY",
+        "date": "2025-06-13 15:35:45",
+        "sentiment": "neutral",
+        "explanation": "While the news mentions JNJ, it's primarily focused on the broader healthcare sector and short interest trends. The fact that short bets ease may be considered slightly positive, but the direct impact and surprise factor on JNJ specifically within the next 60 minutes is low. It is unlikely this will cause a significant price movement.\n```"
+    },
+    {
+        "title": "Kenvue Is Considering Selling Some Brands, Reuters Reports",
+        "date": "2025-06-13 00:32:32",
+        "sentiment": "neutral",
+        "explanation": "The news pertains to Kenvue, a former subsidiary of JNJ. While there *could* be an indirect impact on JNJ, the news of Kenvue considering selling some brands is unlikely to have a significant direct impact on JNJ's revenue or operations within the next 60 minutes. The information is also not quantifiable in a way that will predictably sway short-term trader sentiment.\n```"
+    },
+    {
+        "title": "J&J touts phase 1 data for bleximenib for acute myeloid leukemia",
+        "date": "2025-06-12 17:30:44",
+        "sentiment": "neutral",
+        "explanation": "Phase 1 data, while potentially positive in the long term, rarely causes significant immediate price movement for a company of JNJ's size. The news lacks quantifiable data (e.g., success rate of the trial) and is unlikely to trigger immediate FOMO buying from short-term traders within the next 60 minutes. Therefore, its impact will likely be neutral.\n```"
+    },
+    {
+        "title": "Conmed falls as Needham downgrades to hold | $CNMD $JNJ $MDT $SYK $ISRG",
+        "date": "2025-06-12 16:31:38",
+        "sentiment": "neutral",
+        "explanation": "The news item primarily focuses on a downgrade of Conmed (CNMD) by Needham. While JNJ is mentioned in the title alongside other medical device companies, the downgrade of CNMD doesn't directly impact JNJ's revenue, costs, or operations within the next 60 minutes. There's no indication of direct, immediate consequence for JNJ's stock price.\n```"
+    },
+    {
+        "title": "J&J sends AnaptysBio lower with mid-stage trial data for anti-inflammatory agent | $JNJ $ANAB",
+        "date": "2025-06-04 20:49:22",
+        "sentiment": "negative",
+        "explanation": "The news describes \"mid-stage trial data\" for an anti-inflammatory agent and the headline indicates that AnaptysBio ($ANAB) is experiencing a negative reaction (\"lower\"). This suggests the trial data was not positive, and since J&J is involved, this news is likely perceived negatively by traders, triggering selling pressure within the 60-minute window. While the impact may be limited due to the mid-stage nature of the trial, the immediate sentiment is negative.\n```"
+    },
+    {
+        "title": "From No Hope to a Potential Cure for a Deadly Blood Cancer",
+        "date": "2025-06-03 16:45:05",
+        "sentiment": "positive",
+        "explanation": "The news describes a potential breakthrough \"cure\" for a deadly cancer through a Johnson & Johnson clinical trial, exceeding expectations. The magnitude of this positive development and the \"first time we are really talking seriously about cure\" statement creates a high surprise factor, likely triggering immediate positive sentiment and buying pressure in the short term.\n```"
+    },
+    {
+        "title": "J&J posts late-stage trial win for PARP inhibitor combo in prostate cancer | $JNJ $GSK",
+        "date": "2025-06-03 14:59:59",
+        "sentiment": "positive",
+        "explanation": "A late-stage trial win for a PARP inhibitor combo in prostate cancer represents a positive clinical development for JNJ ($JNJ). This news signals potential revenue gains from a successful drug and is a positive catalyst related to drug development, likely triggering immediate buying interest and driving the price up in the short term.\n```"
+    },
+    {
+        "title": "FDA launches Elsa, an AI tool designed to accelerate agencywide operations | $MSFT $JNJ $PFE $MRK $AMGN",
+        "date": "2025-06-03 13:19:08",
+        "sentiment": "neutral",
+        "explanation": "The news indicates the FDA is launching an AI tool to improve its own operations. While JNJ is mentioned alongside other pharmaceutical companies ($MSFT $PFE $MRK $AMGN), the news has no direct, immediate impact on JNJ's revenue, costs, or market share within the next 60 minutes. The implication is agency-wide, and JNJ's explicit involvement is uncertain; hence, the impact on the price of JNJ within the specified time frame is expected to be negligible.\n```"
+    },
+    {
+        "title": "Talc should be avoided in lieu of alternatives, scientific experts tell FDA | $JNJ $TALC",
+        "date": "2025-05-23 14:43:50",
+        "sentiment": "negative",
+        "explanation": "The title \"Talc should be avoided in lieu of alternatives, scientific experts tell FDA | $JNJ $TALC\" directly relates to JNJ's talc litigation and raises concerns about the safety of its products. This is a negative sentiment trigger, suggesting potential increased liability and reduced demand, causing a likely immediate sell-off within 60 minutes due to increased uncertainty.\n```"
+    },
+    {
+        "title": "Trump threatens to limit imports if countries don't pay more for drugs | $AMGN $GILD $VRTX $JNJ $GSK",
+        "date": "2025-05-23 00:07:41",
+        "sentiment": "negative",
+        "explanation": "The news of Trump threatening to limit imports if countries don't pay more for drugs presents a direct threat to JNJ's international sales and revenue, introducing uncertainty and the potential for decreased profits. The announcement could trigger immediate selling pressure based on perceived regulatory risk and potential impact to earnings in the near term.\n```"
+    },
+    {
+        "title": "MAHA report: 'Overmedicalization, poor diet' factors for childhood chronic diseases | $AMGN $JNJ $GSK $PFE $MRK",
+        "date": "2025-05-22 23:37:10",
+        "sentiment": "neutral",
+        "explanation": "The report highlights broad factors relating to childhood chronic diseases, with JNJ mentioned alongside several other pharmaceutical and consumer goods companies ($AMGN, $GSK, $PFE, $MRK). There is no immediate, direct impact on JNJ's revenue or operations discernible within the next 60 minutes. While the topic could raise longer-term concerns about healthcare costs, the immediate surprise factor and financial implications for JNJ are low, resulting in a likely neutral sentiment from short-term traders.\n```"
+    },
+    {
+        "title": "FDA offering states help for Canada drug importation proposals | $AMGN $JNJ $BMY $PFE $LLY",
+        "date": "2025-05-21 18:03:22",
+        "sentiment": "neutral",
+        "explanation": "The news mentions JNJ alongside other pharmaceutical companies ($AMGN, $BMY, $PFE, $LLY). While the FDA offering states help for Canada drug importation proposals could have long-term implications, its immediate impact on JNJ's stock price within 60 minutes is likely negligible. There's no quantifiable data or specific surprise element suggesting significant immediate price movement.\n```"
+    },
+    {
+        "title": "J&J, Genmab win FDA AdCom backing for multiple myeloma therapy",
+        "date": "2025-05-21 12:47:00",
+        "sentiment": "positive",
+        "explanation": "FDA AdCom backing is a strong catalyst and generally viewed favorably by the market. This positive recommendation significantly increases the likelihood of final FDA approval, leading to potential revenue generation from the multiple myeloma therapy. This surprise positive catalyst should drive short-term buying pressure.\n```"
+    },
+    {
+        "title": "Trump\u2019s MFN policy seeks parity with branded drug pricing in OECD nations | $JNJ $BMY $PFE $MRK $AMGN",
+        "date": "2025-05-20 20:14:02",
+        "sentiment": "negative",
+        "explanation": "The news regarding Trump's MFN policy introduces uncertainty and potential downward pressure on JNJ's drug pricing, specifically targeting OECD nations. While details are absent, the mention of parity with branded drug pricing creates immediate negative sentiment as traders anticipate reduced revenue within the short-term horizon due to potential price controls or increased negotiation leverage for payers. This constitutes a significant surprise, acting as a negative catalyst by specifically mentioning $JNJ in the title.\n```"
+    },
+    {
+        "title": "RFK Jr. aide: GLP-1 weight loss meds will cost the same as in least expensive countries | $AMGN $JNJ $BMY $RHHBY $PFE",
+        "date": "2025-05-15 23:28:48",
+        "sentiment": "neutral",
+        "explanation": "The news concerns GLP-1 medication pricing and mentions several pharmaceutical companies including JNJ. However, the information lacks specific details about JNJ's involvement or potential financial impact within the next 60 minutes. While JNJ is mentioned, the news primarily addresses the pricing of weight loss drugs, and it's uncertain how this specific statement will directly and immediately affect JNJ's stock price. Therefore, the immediate causal impact is likely neutral.\n```"
+    },
+    {
+        "title": "Short bets against S&P 500 healthcare stocks climb in April; MRNA retains top shorted ranking | $IBB $XLV $PPH $JNJ $LLY",
+        "date": "2025-05-15 15:35:30",
+        "sentiment": "neutral",
+        "explanation": "The news indicates an increase in short bets against S&P 500 healthcare stocks, and mentions JNJ within a list of stocks. However, it doesn't highlight JNJ specifically as a primary target of short sellers. Therefore, the news lacks a direct or significantly surprising impact on JNJ's immediate price action in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Sanofi will invest at least $20B in the U.S., focus on R&D spends | $SNY $GILD $JNJ $LLY",
+        "date": "2025-05-14 19:00:35",
+        "sentiment": "neutral",
+        "explanation": "Sanofi's investment is not specific to Johnson & Johnson, and the announcement is about Sanofi's activities, not JNJ's. While the mention of JNJ suggests relatedness within the industry, the news provides no direct impact on JNJ's revenue, costs, or operations within the next 60 minutes. Thus, it's unlikely to trigger immediate significant price movement.\n```"
+    },
+    {
+        "title": "J&J, Halozyme cut at Leerink on price control risk for combo products",
+        "date": "2025-05-13 16:10:06",
+        "sentiment": "negative",
+        "explanation": "A downgrade from Leerink, specifically citing \"price control risk,\" is likely to trigger negative sentiment among short-term traders. While the magnitude isn't specified, the mention of \"price control risk\" directly impacts JNJ's revenue potential, and analyst downgrades typically cause immediate selling pressure. This creates a likely catalyst for a price decrease within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Medicare to publish drugs selected for third round of price negotiations by Feb. 1 | $JNJ $GSK $PFE $MRK $AMGN",
+        "date": "2025-05-13 14:11:32",
+        "sentiment": "negative",
+        "explanation": "The news of Medicare publishing drugs selected for price negotiations is a direct negative catalyst for JNJ as it signals a potential reduction in future revenue. Traders will likely react negatively to this news in the short term, anticipating reduced profitability and pricing power for affected drugs, leading to a price decrease within the 60-minute window.\n```"
+    },
+    {
+        "title": "Galapagos to reevaluate spinoff plans; names new CEO | $GLPG $JNJ",
+        "date": "2025-05-13 13:21:37",
+        "sentiment": "neutral",
+        "explanation": "While the news mentions JNJ ($JNJ), it primarily concerns Galapagos ($GLPG) and its internal restructuring (spinoff reevaluation, CEO change). There's no immediately obvious, direct impact on JNJ's revenue, costs, or operations within the next 60 minutes as a result of Galapagos' decisions, suggesting a neutral short-term price impact.\n```"
+    },
+    {
+        "title": "Roche plans $700M North Carolina facility | $RHHBY $GILD $JNJ $LLY",
+        "date": "2025-05-12 16:53:11",
+        "sentiment": "neutral",
+        "explanation": "Roche building a North Carolina facility has no direct impact on JNJ's financials or operations within the next 60 minutes. While it mentions JNJ along with other pharmaceutical companies, it doesn't contain any information specific enough to trigger immediate trading activity related to JNJ. The news appears to be more generally industry related and not a direct catalyst for JNJ.\n```"
+    },
+    {
+        "title": "J&J posts promising late-stage data for plaque psoriasis therapy developed with Protagonist",
+        "date": "2025-05-09 14:52:28",
+        "sentiment": "positive",
+        "explanation": "Promising late-stage data suggests potential for a successful new therapy, which directly impacts JNJ's revenue prospects and innovation pipeline. The \"promising\" data is a catalyst check that's likely to trigger short-term positive sentiment and FOMO buying among traders, pushing the price up within the 60-minute window.\n```"
+    },
+    {
+        "title": "Merck boosts U.S. investments with $895M expansion in Kansas site | $MRK $GILD $JNJ $LLY",
+        "date": "2025-05-08 15:42:52",
+        "sentiment": "neutral",
+        "explanation": "While JNJ is mentioned in the title, the news primarily focuses on Merck's investment. There is no direct impact on JNJ's financials, operations, or competitive positioning implied in the headline that would drive a significant price movement within the next 60 minutes. Therefore, the news is unlikely to be a catalyst for JNJ's stock price in the immediate short-term.\n```"
+    },
+    {
+        "title": "Trump planning on Executive Order to further cut Medicare drug prices - report | $JNJ $BMY $PFE $MRK $AMGN",
+        "date": "2025-05-07 22:51:34",
+        "sentiment": "negative",
+        "explanation": "An Executive Order to further cut Medicare drug prices is a direct negative for JNJ's revenue potential. The news represents a negative catalyst as it directly impacts their pricing power and profit margins from pharmaceutical sales, likely causing immediate selling pressure within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Gilead to invest about $32B in U.S. manufacturing through 2030 | $GILD $JNJ $LLY",
+        "date": "2025-05-07 21:14:10",
+        "sentiment": "neutral",
+        "explanation": "While the news mentions JNJ, Gilead's investment is the primary focus. The direct impact on JNJ in the next 60 minutes is likely negligible as the description doesn't detail any specific collaborative projects, revenue implications, or competitive threats arising from Gilead's investment. The news is more about Gilead and its manufacturing expansion, not a catalyst impacting JNJ's short-term stock performance.\n```"
+    },
+    {
+        "title": "Pfizer, J&J, Genentech drugs subject of FDA advisory panel meeting this month | $JNJ $RHHBY $PFE $URGN",
+        "date": "2025-05-07 16:32:11",
+        "sentiment": "neutral",
+        "explanation": "The headline indicates an FDA advisory panel meeting concerning drugs from multiple companies, including J&J. Without knowing which specific J&J drugs are involved or the nature of the meeting, it's difficult to determine the immediate impact. This lack of specific information makes it unlikely to trigger a significant price movement within the next 60 minutes, and it is more likely a broad sector event.\n```"
+    },
+    {
+        "title": "Teva, Alvotech get FDA nod for Johnson & Johnson biosimilar | $TEVA $ALVO $JNJ",
+        "date": "2025-05-05 15:27:36",
+        "sentiment": "negative",
+        "explanation": "The FDA approval of a biosimilar for a JNJ product will likely negatively impact JNJ's short-term revenue expectations. This event allows competitors to enter the market, which erodes JNJ's market share and pricing power, a catalyst likely to trigger immediate selling pressure. Even though the long term impact may be manageable, the immediate reaction is likely to be negative, especially in the first 60 minutes.\n```"
+    },
+    {
+        "title": "J&J-backed HistoSonics explores sale at $2.5 billion valuation, FT reports",
+        "date": "2025-05-02 09:08:11",
+        "sentiment": "positive",
+        "explanation": "The potential sale of HistoSonics at a $2.5 billion valuation, backed by J&J, suggests a successful investment outcome for J&J, boosting investor confidence in their investment strategies. This news introduces a positive catalyst with a quantifiable value, triggering potential short-term buying pressure as traders react to the positive valuation signal within the 60-minute window.\n```"
+    },
+    {
+        "title": "Developer of tumour-targeting \u2018sonic beam\u2019 fields takeover offers",
+        "date": "2025-05-02 06:00:26",
+        "sentiment": "positive",
+        "explanation": "JNJ backing HistoSonics and the potential valuation exceeding $2.5bn suggests a successful and potentially profitable investment for JNJ. This positive association, coupled with the \"takeover offers\" aspect, may trigger short-term buying interest and FOMO, causing a price increase within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Option Care Health upgraded at UBS on valuation after Q1 beat | $OPCH $JNJ $CVS",
+        "date": "2025-04-30 17:29:04",
+        "sentiment": "neutral",
+        "explanation": "While the title mentions JNJ, it's regarding an upgrade of Option Care Health ($OPCH) by UBS, based on valuation after their Q1 beat. There's no direct impact identified on JNJ's immediate revenue, costs, or operations, therefore the news is unlikely to cause a significant price deviation for JNJ in the next 60 minutes.\n```"
+    },
+    {
+        "title": "J&J wins FDA approval for myasthenia gravis therapy | $JNJ $ARGX",
+        "date": "2025-04-30 14:57:42",
+        "sentiment": "positive",
+        "explanation": "FDA approval for a new therapy represents a direct positive impact on JNJ's revenue potential and market share. FDA approval is a known catalyst that often generates positive sentiment and short-term buying pressure from traders anticipating future sales. The surprise factor, while unknown without pre-approval expectations, is likely to be perceived positively, leading to an immediate price increase in the short term.\n```"
+    },
+    {
+        "title": "CEOs from Nividia, J&J and Eli Lilly to join Trump's \"Invest in America\" event at White House",
+        "date": "2025-04-29 05:58:49",
+        "sentiment": "positive",
+        "explanation": "JNJ's CEO participating in Trump's \"Invest in America\" event, coupled with their $55 billion investment pledge, presents a short-term positive catalyst. This highlights JNJ's commitment to US investment, potentially fostering positive investor sentiment and attracting buying pressure in the next 60 minutes due to perceived political favor and economic support.\n```"
+    },
+    {
+        "title": "Nvidia, Eli Lilly Among CEOs to Tout US Investments With Trump",
+        "date": "2025-04-28 23:00:00",
+        "sentiment": "neutral",
+        "explanation": "The news describes JNJ's CEO meeting with Trump, highlighting US investments. While participation can be perceived positively, this is likely a planned event with minimal surprise factor and no immediate, quantifiable impact on JNJ's revenue or operations within the next 60 minutes. Therefore, the news itself will likely not cause a significant price movement.\n```"
+    },
+    {
+        "title": "J&J posts mid-stage trial data for chemotherapy releasing system in bladder cancer",
+        "date": "2025-04-26 20:50:08",
+        "sentiment": "positive",
+        "explanation": "Mid-stage trial data, while not definitive, suggests potential advancement in bladder cancer treatment. This signals potential future revenue streams if successful, leading to speculative buying within the next 60 minutes. The positive sentiment associated with medical advancements acts as a catalyst for immediate price appreciation.\n```"
+    },
+    {
+        "title": "Johnson & Johnson\u2019s Rare AAA Rating No Longer at Risk, S&P Says",
+        "date": "2025-04-25 23:15:59",
+        "sentiment": "positive",
+        "explanation": "The news that JNJ's AAA rating is no longer at risk is a positive signal for investors. While not directly impacting immediate revenue, it removes a potential negative catalyst (downgrade) and reinforces confidence in the company's financial stability. This unexpected reassurance should likely trigger short-term buying pressure.\n```"
+    },
+    {
+        "title": "Dan Loeb\u2019s Third Point builds stake in maker of Tylenol and Neutrogena",
+        "date": "2025-04-25 20:54:29",
+        "sentiment": "neutral",
+        "explanation": "The news focuses on Kenvue, a spin-off of JNJ, and potential activist interest. While positive for Kenvue, its impact on JNJ within 60 minutes is likely minimal as JNJ's core business remains unaffected. There's no direct financial impact or identifiable catalyst to cause immediate price movement in JNJ.\n```"
+    },
+    {
+        "title": "Pharma tariffs could raise prescription drug costs by $51B - report | $JNJ $PFE $LLY $MRK",
+        "date": "2025-04-25 16:22:50",
+        "sentiment": "negative",
+        "explanation": "Tariffs raising prescription drug costs directly negatively impact JNJ's revenue and profitability. The news, though not solely focused on JNJ, mentions the company and suggests a potential negative impact on the sector, likely triggering immediate selling pressure in the short term. This warrants a negative classification due to its potential to trigger an immediate negative reaction.\n```"
+    },
+    {
+        "title": "Merck trims 2025 earnings outlook amid tariff impact | $MRK $JNJ $BMY $LLY",
+        "date": "2025-04-24 13:14:41",
+        "sentiment": "neutral",
+        "explanation": "The news discusses Merck's (MRK) earnings outlook being trimmed, not JNJ's. While JNJ is mentioned, the news lacks a direct impact on JNJ's immediate financial performance or operations within the next 60 minutes; the influence, if any, would be indirect and difficult to quantify in such a short timeframe. Therefore, it's unlikely to cause a significant price deviation.\n```"
+    },
+    {
+        "title": "JNJ says new data buoys TAR-200 monotherapy for bladder cancer | $JNJ",
+        "date": "2025-04-21 18:30:06",
+        "sentiment": "positive",
+        "explanation": "The title indicates positive data for JNJ's TAR-200 monotherapy for bladder cancer. Positive clinical data readouts are generally viewed favorably by the market, potentially leading to increased investor confidence and immediate buying pressure in the short term. This constitutes a catalyst event with potential for a positive surprise factor.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines for the week: UnitedHealth, Eli Lilly, J&J in focus",
+        "date": "2025-04-20 15:05:49",
+        "sentiment": "neutral",
+        "explanation": "The headline indicates J&J is \"in focus\" alongside other companies, suggesting a broader industry overview rather than specific, impactful news about J&J. There's no quantifiable data, catalyst, or surprise factor indicating a likely immediate price movement. The lack of specifics about J&J implies no direct impact on its operations or revenue within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Johnson & Johnson: 15% of AI Use Cases Deliver 80% of Value",
+        "date": "2025-04-18 16:15:54",
+        "sentiment": "positive",
+        "explanation": "The news highlights JNJ's successful AI initiatives, particularly the reported 80% value delivered by 15% of AI use cases. This demonstrates efficient resource allocation and positive ROI from AI investments, which is likely to trigger positive sentiment and potentially attract investors in the short term. The focus on prioritization and scaling valuable AI projects signals strong management execution and positive future prospects, therefore a positive short term move is expected.\n```"
+    },
+    {
+        "title": "J&J hands epilepsy candidate to Addex ending decades-long partnership | $JNJ $ADXN",
+        "date": "2025-04-17 19:30:22",
+        "sentiment": "neutral",
+        "explanation": "The news describes J&J handing off an epilepsy candidate, which while relevant to their pipeline, doesn't directly impact JNJ's large revenue streams in the immediate term. This ending of a partnership, while noteworthy, is unlikely to create significant short-term trader reaction or price deviation within the next 60 minutes, especially without further context about the financial implications.\n```"
+    },
+    {
+        "title": "Short bets against S&P 500 healthcare stock rises in March; MRNA stays top shorted | $IBB $XLV $PPH $JNJ $DHR",
+        "date": "2025-04-17 15:35:00",
+        "sentiment": "neutral",
+        "explanation": "The news title focuses on short bets against the S&P 500 healthcare sector and mentions other stocks like MRNA. While JNJ is listed, the primary focus is not specifically on JNJ, indicating no direct causal impact within the next 60 minutes. This implies the news is a sector-wide observation rather than JNJ-specific news, thus likely resulting in negligible price movement for JNJ in the immediate short-term.\n```"
+    },
+    {
+        "title": "These diapers use plastic-eating fungi to biodegrade",
+        "date": "2025-04-17 11:15:00",
+        "sentiment": "neutral",
+        "explanation": "While JNJ launched the first disposable diaper, this article focuses on a competitor's new technology. There is no immediate direct impact on JNJ's financials within 60 minutes, making the sentiment neutral as it does not represent a significant threat or opportunity for JNJ in the short term.\n```"
+    },
+    {
+        "title": "Healthy Returns: What drugmakers are saying about Trump\u2019s looming pharmaceutical tariffs",
+        "date": "2025-04-16 18:51:03",
+        "sentiment": "negative",
+        "explanation": "The news mentions \"Trump's looming pharmaceutical tariffs\" and specifically references Johnson & Johnson's response. Tariffs are generally viewed negatively by the market due to potential cost increases and reduced sales, so the mention of tariffs and JNJ will likely lead to a short-term negative reaction. While the FDA approval for Dexcom is positive, its impact will be negligible relative to the negative tariff sentiment impacting JNJ within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Abbott slips after Q1 revenue miss; guidance reaffirmed | $ABT $JNJ",
+        "date": "2025-04-16 14:15:41",
+        "sentiment": "neutral",
+        "explanation": "The news references Abbott's (ABT) Q1 revenue miss, which only mentions JNJ as a related ticker. While ABT and JNJ operate in similar sectors, there is no direct impact identified on JNJ's revenue, operations, or market share within the next 60 minutes. Therefore, it's unlikely this news will significantly affect JNJ's price in the short term.\n```"
+    },
+    {
+        "title": "Trump targets Medicare price negotiations in new executive order | $JNJ $BMY $PFE $LLY $AMGN",
+        "date": "2025-04-16 02:23:15",
+        "sentiment": "negative",
+        "explanation": "Trump targeting Medicare price negotiations is a negative catalyst for JNJ in the short term. The mention of JNJ in the title, along with other pharmaceutical companies, implies a direct impact on JNJ's future revenue potential if the executive order gains traction, likely triggering immediate selling pressure. This news creates uncertainty, and traders will likely react negatively within the 60-minute window.\n```"
+    },
+    {
+        "title": "Johnson & Johnson projects $400M tariff impact in 2025",
+        "date": "2025-04-15 19:46:08",
+        "sentiment": "negative",
+        "explanation": "A $400M tariff impact in 2025, although a future event, represents a significant quantifiable cost increase. Traders will likely react negatively within 60 minutes to the increased costs for JNJ. This represents a direct impact to JNJ's financials.\n```"
+    },
+    {
+        "title": "Johnson and Johnson warns pharma tariffs could cause drug shortages",
+        "date": "2025-04-15 18:52:23",
+        "sentiment": "negative",
+        "explanation": "The news about potential drug shortages due to tariffs is a direct negative for JNJ. The description explicitly mentions J&J's surgical robots being affected, suggesting immediate impact on their operations and potential revenue reduction. Short-term traders are likely to react negatively to concerns about supply chain disruptions and tariff costs, leading to a price decrease within the 60-minute window.\n```"
+    },
+    {
+        "title": "Johnson & johnson outlines $92B 2025 sales guidance amid innovative medicine and medtech growth",
+        "date": "2025-04-15 18:43:51",
+        "sentiment": "positive",
+        "explanation": "The announcement of a $92B 2025 sales guidance signals strong anticipated growth for JNJ's innovative medicine and medtech segments. This represents a positive outlook and is likely to trigger short-term buying pressure as traders react to the guidance, leading to a price increase in the immediate term.\n```"
+    },
+    {
+        "title": "JNJ CFO Accounting for $400M Tariff Expense",
+        "date": "2025-04-15 16:47:33",
+        "sentiment": "negative",
+        "explanation": "The news highlights a potential $400M tariff expense for JNJ, which directly impacts their bottom line. Although the company is holding its earnings outlook steady, the CFO's discussion about how tariffs *could* hit the company and the industry creates immediate uncertainty and negative sentiment. This is likely to trigger a short-term sell-off as traders react to the potential financial burden, even if the exact impact is still being assessed.\n```"
+    },
+    {
+        "title": "Stocks to Watch Tuesday: Boeing, J&J, Bank of America, USA Rare Earth",
+        "date": "2025-04-15 15:41:33",
+        "sentiment": "neutral",
+        "explanation": "The title merely mentions J&J as one of several \"Stocks to Watch.\" Without further context from the article description, there's no indication of positive or negative news specifically impacting JNJ's financial performance or operations within the next 60 minutes. Therefore, it's unlikely to trigger immediate significant price movement based on this headline alone.\n```"
+    },
+    {
+        "title": "J&J Forecasts $400 Million in Tariff-Related Costs This Year",
+        "date": "2025-04-15 15:33:56",
+        "sentiment": "negative",
+        "explanation": "$400 million in tariff-related costs is a quantifiable negative impact on JNJ's financials, directly reducing profits. This unexpected cost will likely trigger immediate selling pressure as short-term traders react to the decreased profitability outlook in the short term. The cost is significant enough to warrant a negative reaction within 60 minutes.\n```"
+    },
+    {
+        "title": "4 stocks to watch on Tuesday: JNJ, BAC, C and UAL | $BAC $C $JNJ $UAL",
+        "date": "2025-04-15 15:24:41",
+        "sentiment": "neutral",
+        "explanation": "The news item is a list of stocks to watch, including JNJ, BAC, C, and UAL. This is a general observation and doesn't contain specific, surprising information directly impacting JNJ's financials or operations within the next 60 minutes. While it might generate some awareness, its overall impact is unlikely to cause a significant price deviation.\n```"
+    },
+    {
+        "title": "Johnson & Johnson raises sales outlook, even with tariff costs accounted for",
+        "date": "2025-04-15 14:11:00",
+        "sentiment": "neutral",
+        "explanation": "While J&J raised its sales outlook, the description mentions the stock \"pulled back,\" suggesting an initial negative reaction potentially due to unchanged profit outlook despite increased sales. This mixed information creates ambiguity, making it difficult to confidently predict a directional price movement in the next 60 minutes; traders may have conflicting interpretations. Therefore, the immediate net impact is likely neutral.\n```"
+    },
+    {
+        "title": "J&J kicks off pharma earnings season with guidance raise amid looming tariffs | $JNJ $LGND $LEGN",
+        "date": "2025-04-15 13:12:05",
+        "sentiment": "positive",
+        "explanation": "A guidance raise is typically viewed positively by the market. The mention of \"looming tariffs\" is a potential concern, but the guidance raise suggests J&J is confident in their ability to overcome these challenges, resulting in a likely positive reaction in the immediate short term.\n```"
+    },
+    {
+        "title": "Johnson & Johnson in Charts: DARZALEX sustains 20%+ growth pace in Q1, while STELARA drops 34% Y/Y",
+        "date": "2025-04-15 12:51:15",
+        "sentiment": "neutral",
+        "explanation": "While Darzalex growth is positive, the significant drop in Stelara sales (34% Y/Y) counteracts it. The net short-term impact is uncertain as traders digest these offsetting revenue streams, thus making significant directional movement within 60 minutes unlikely.\n```"
+    },
+    {
+        "title": "These Stocks Are Moving the Most Today: Boeing, Tesla, Bank of America, J&J, Netflix, Allegro MicroSystems, and More",
+        "date": "2025-04-15 12:51:00",
+        "sentiment": "neutral",
+        "explanation": "The news simply mentions J&J in a list of stocks moving the most. There is no specific information regarding J&J's performance, catalyst, or other news to trigger immediate significant price movement within the next 60 minutes. The lack of a direct impact or surprise factor on JNJ justifies a neutral sentiment.\n```"
+    },
+    {
+        "title": "Johnson & Johnson shares rise on Q1 profit and revenue beat and raised guidance",
+        "date": "2025-04-15 12:48:00",
+        "sentiment": "positive",
+        "explanation": "A \"profit and revenue beat\" coupled with \"raised guidance\" is a strong signal of financial health and future prospects. This news directly impacts JNJ's revenue and is a positive surprise, likely triggering immediate buying pressure from algorithmic and human traders alike within the 60-minute window.\n```"
+    },
+    {
+        "title": "J&J raises dividend by 4.8% to $1.30",
+        "date": "2025-04-15 12:38:42",
+        "sentiment": "positive",
+        "explanation": "A 4.8% dividend increase is a positive signal reflecting J&J's financial health and commitment to shareholders. The increase, while not overwhelmingly large, is above the rate of inflation and may trigger immediate buying pressure from dividend-focused investors within the short-term, pushing the price higher in the next 60 minutes.\n```"
+    },
+    {
+        "title": "Earnings Snapshot: Johnson & Johnson tops Q1 estimates; raises FY sales guidance",
+        "date": "2025-04-15 12:34:34",
+        "sentiment": "positive",
+        "explanation": "JNJ topping Q1 estimates and raising FY sales guidance is a direct positive catalyst. This is a significant earnings beat combined with an increased outlook, suggesting strong current performance and future expectations. The market is likely to react positively to this surprise in the short term, triggering immediate buying pressure.\n```"
+    },
+    {
+        "title": "J&J Non-GAAP EPS of $2.77 beats by $0.19, revenue of $21.9B beats by $330M",
+        "date": "2025-04-15 12:21:52",
+        "sentiment": "positive",
+        "explanation": "JNJ's EPS and revenue both beat expectations, indicating strong financial performance. This positive surprise, particularly the $0.19 EPS beat and $330M revenue beat, is likely to trigger immediate buying pressure from algorithmic and retail traders, pushing the stock price higher in the next 60 minutes.\n```"
+    },
+    {
+        "title": "J&J\u2019s Earnings Beat as Industry Girds for Looming Pharma Tariffs",
+        "date": "2025-04-15 12:20:00",
+        "sentiment": "positive",
+        "explanation": "J&J's earnings beat is a positive signal, and the holding of its outlook despite looming tariffs suggests resilience. This surprise factor, combined with the quantifiable \"earnings beat\" data, will likely trigger positive sentiment and immediate buying pressure within the 60-minute window, overriding concerns about future tariffs in the short term.\n```"
+    },
+    {
+        "title": "J&J Q1 2025 Earnings Preview | $JNJ",
+        "date": "2025-04-14 16:39:47",
+        "sentiment": "neutral",
+        "explanation": "This is an earnings preview, not the actual earnings release. While it might generate some initial interest, the market impact within the next 60 minutes will likely be minimal as it only sets expectations. There's no quantifiable data or surprise factor immediately driving price movement.\n```"
+    },
+    {
+        "title": "Jim Cramer's week ahead: Earnings from Goldman Sachs, Johnson & Johnson and Netflix",
+        "date": "2025-04-12 00:56:59",
+        "sentiment": "neutral",
+        "explanation": "This is a calendar item signaling JNJ earnings are upcoming. This event is expected. This pre-announcement of an earnings release is unlikely to cause a significant price movement in the next 60 minutes as it's anticipatory and doesn't contain any new information that traders aren't already aware of.\n```"
+    },
+    {
+        "title": "Johnson & Johnson reports promising results from skin disease trial | $JNJ",
+        "date": "2025-04-10 16:32:49",
+        "sentiment": "positive",
+        "explanation": "\"Promising results from a trial\" directly impacts JNJ's revenue potential in its pharmaceuticals segment. This acts as a catalyst, indicating potential growth and innovation, likely triggering immediate positive sentiment and buying pressure from short-term traders. The news is likely a surprise, and its positive connotation regarding a skin disease trial suggests a positive price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "J&J, Halozyme get EU nod for Darzalex SC to treat multiple myeloma | $JNJ $HALO",
+        "date": "2025-04-09 16:20:30",
+        "sentiment": "positive",
+        "explanation": "EU approval for Darzalex SC for multiple myeloma is a direct positive catalyst. Regulatory approval generally signals an increase in potential revenue, creating positive sentiment in the short term. Considering the partnership with Halozyme ($HALO) might add some complexity, but the core of the news will likely drive a rapid buy reaction within the 60 minute window.\n```"
+    },
+    {
+        "title": "J&J upgraded, Pfizer, AbbVie downgraded as Goldman reviews U.S. biopharma coverage",
+        "date": "2025-04-08 16:40:23",
+        "sentiment": "positive",
+        "explanation": "Goldman Sachs upgrading J&J implies a positive re-evaluation of the stock, which can trigger immediate buying pressure from algorithmic traders and short-term investors. While the description is limited, the headline alone serves as a strong positive sentiment trigger, suggesting confidence in J&J compared to its peers (Pfizer, AbbVie). This surprise upgrade can lead to increased demand and push the stock price up in the short term.\n```"
+    },
+    {
+        "title": "J&J, Halozyme win EU nod for injectable Rybrevant in lung cancer",
+        "date": "2025-04-07 20:52:37",
+        "sentiment": "positive",
+        "explanation": "EU approval for Rybrevant in lung cancer is a positive catalyst, indicating revenue potential in a new market. This news likely triggers immediate positive sentiment and short-term buying pressure, leading to a price increase within 60 minutes as algorithms react to the regulatory approval.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines of the week: Becton, Dickinson, Grifols, Eli Lilly and J&J in focus",
+        "date": "2025-04-06 15:05:29",
+        "sentiment": "neutral",
+        "explanation": "The title mentions J&J being \"in focus\" amongst other healthcare companies, but without the description providing specifics, the immediate impact is unclear. This is likely a summary of news related to the company over the week rather than a specific, impactful event. Therefore, it's unlikely to trigger a significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "J&J highlights Tremfya\u2019s efficacy against psoriatic arthritis in Phase 3 trial win | $JNJ",
+        "date": "2025-04-04 14:33:42",
+        "sentiment": "positive",
+        "explanation": "Positive Phase 3 trial results for Tremfya against psoriatic arthritis directly impacts JNJ's pharmaceutical revenue potential. This is a catalyst type (clinical trial results) and the \"win\" suggests efficacy, likely triggering positive sentiment and short-term buying pressure. This supports a positive price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Stryker, Boston Scientific down as new tariffs impact medtech industry | $JNJ $ABT $BSX $MDT $SYK",
+        "date": "2025-04-03 18:42:10",
+        "sentiment": "negative",
+        "explanation": "While the news mentions JNJ, it primarily discusses the impact of tariffs on competitors like Stryker and Boston Scientific. Traders may perceive this as a negative signal for the broader medical technology sector, causing a slight, immediate sell-off pressure on JNJ within the next 60 minutes due to sector-wide concerns, even if JNJ's direct exposure is minimal.\n```"
+    },
+    {
+        "title": "Big Pharma higher after tariff exemption despite ongoing uncertainties | $PPH $JNJ $GSK $AZN $AMGN",
+        "date": "2025-04-03 17:10:47",
+        "sentiment": "positive",
+        "explanation": "The title mentions \"tariff exemption\" which is generally viewed positively as it reduces costs. Although it mentions \"ongoing uncertainties,\" the explicit mention of \"tariff exemption\" likely overshadows this negativity in the immediate short-term reaction (60 minutes) as traders will react positively to the cost saving implications. The mention of Big Pharma being higher also is positive.\n```"
+    },
+    {
+        "title": "What\u2019s Next For JNJ Stock? - Johnson & Johnson (NYSE:JNJ) stock dropped 7% on Tuesday, April ...",
+        "date": "2025-04-02 13:25:48",
+        "sentiment": "negative",
+        "explanation": "The news explicitly states that JNJ stock dropped 7% following a legal setback. This constitutes a direct, negative impact on JNJ's immediate perceived value and likely triggers a negative sentiment among short-term traders, causing further selling pressure in the next 60 minutes.\n```"
+    },
+    {
+        "title": "How Trump rattled Big Law - Plus, J&J\u2019s latest attempt to settle class-action claims gets ...",
+        "date": "2025-04-02 06:00:30",
+        "sentiment": "negative",
+        "explanation": "The news mentions J&J's attempt to settle class-action claims being rejected. This represents a setback in resolving legal liabilities, and traders are likely to react negatively in the short term due to the uncertainty and potential for higher settlement costs. The rejection is a direct impact on JNJ's financial obligations.\n```"
+    },
+    {
+        "title": "Big Pharma drops sharply ahead of Trump\u2019s tariff announcement | $PPH $BMY $PFE $MRK $JNJ",
+        "date": "2025-04-01 21:43:52",
+        "sentiment": "negative",
+        "explanation": "The news title \"Big Pharma drops sharply ahead of Trump\u2019s tariff announcement\" implies negative sentiment towards the pharmaceutical industry, including JNJ, leading to short-term selling pressure. Although the specifics of the tariffs are unknown, the *anticipation* of negative effects is likely to trigger an immediate negative reaction from traders within the 60-minute timeframe.\n```"
+    },
+    {
+        "title": "Stock Movers: Johnson & Johnson, PVH, Roblox (Podcast)",
+        "date": "2025-04-01 21:26:13",
+        "sentiment": "neutral",
+        "explanation": "The title suggests a podcast mention alongside other companies. Without more context, this news is unlikely to cause a significant price movement for JNJ within 60 minutes. No direct impact on revenue, costs, operations, or market share is immediately apparent.\n```"
+    },
+    {
+        "title": "J&J maintains 2025 guidance following talc bankruptcy setback",
+        "date": "2025-04-01 18:59:22",
+        "sentiment": "negative",
+        "explanation": "\"Talc bankruptcy setback\" immediately suggests potential increased legal liabilities and uncertainty, negatively impacting investor sentiment in the short term. While guidance is maintained, the bankruptcy issue is a known catalyst of negative news, and this development is unlikely to be viewed positively in the next 60 minutes, triggering potential selling pressure.\n```"
+    },
+    {
+        "title": "Stock Movers: Shake Shack, Johnson & Johnson, Newsmax (Podcast)",
+        "date": "2025-04-01 17:54:23",
+        "sentiment": "neutral",
+        "explanation": "The title suggests JNJ is simply being mentioned alongside other companies (Shake Shack, Newsmax) in a Bloomberg podcast. There's no indication of any specific positive or negative news directly impacting JNJ in the short term. The context lacks any identifiable catalyst or significant surprise that would drive immediate price action.\n```"
+    },
+    {
+        "title": "J&J vows to keep fighting talc cases after settlement deal denied",
+        "date": "2025-04-01 17:47:55",
+        "sentiment": "negative",
+        "explanation": "The rejection of the settlement deal, involving a $9 billion fund, introduces renewed uncertainty and prolongs the talc litigation overhang. This negative surprise is likely to trigger immediate selling pressure as traders reassess the potential financial risk to JNJ within the 60-minute timeframe, since the settlement was priced in to an extent.\n```"
+    },
+    {
+        "title": "Senior leaders at HHS put on administrative leave amid staff cuts - report | $AMGN $GILD $JNJ $BMY $PFE",
+        "date": "2025-04-01 17:45:37",
+        "sentiment": "neutral",
+        "explanation": "The news describes administrative changes at HHS, which while potentially impactful to the healthcare landscape, does not directly impact JNJ's immediate revenue, costs, or operations within the next 60 minutes. There is no quantifiable data or direct catalyst relating to JNJ to suggest any immediate price movement.\n```"
+    },
+    {
+        "title": "Genmab drops as Bernstein cuts on Darzalex patent cliff | $GMAB $JNJ",
+        "date": "2025-04-01 17:00:19",
+        "sentiment": "negative",
+        "explanation": "The title indicates that Bernstein, a presumably influential source, is cutting Genmab (GMAB) due to patent cliff concerns regarding Darzalex, which is partnered with JNJ. This implies a potential future revenue reduction for JNJ due to declining Darzalex sales, even though the direct impact is on GMAB. The short-term trader reaction will likely be negative as they may see this as a signal to reduce their JNJ holdings in anticipation of future declines.\n```"
+    },
+    {
+        "title": "Stock Movers: Shake Shack, Johnson & Joohnson, Newsmax (Podcast)",
+        "date": "2025-04-01 16:53:27",
+        "sentiment": "neutral",
+        "explanation": "The title mentions JNJ in a list of companies discussed in a Bloomberg podcast (\"Stock Movers\"). Without specific information about the content of the podcast segment regarding JNJ, there is no way to assess if it is positive, negative, or neutral for the stock price in the short term. No direct impact identified.\n```"
+    },
+    {
+        "title": "Stock Movers: Newsmax, J&J, Live Nation (Podcast)",
+        "date": "2025-04-01 15:44:30",
+        "sentiment": "neutral",
+        "explanation": "The news item is a podcast listing featuring J&J. There's no indication if the podcast content is positive, negative, or neutral towards J&J, thus having a negligible impact within the next 60 minutes. No direct impact or quantifiable data points are apparent to suggest an immediate price movement.\n```"
+    },
+    {
+        "title": "4 stocks to watch on Tuesday: TSLA, INTC, JNJ and ULTA | $INTC $JNJ $ULTA $TSLA",
+        "date": "2025-04-01 15:18:59",
+        "sentiment": "neutral",
+        "explanation": "The news title is simply a list of \"stocks to watch\". While JNJ is mentioned, there's no specific positive or negative information conveyed about the company. Therefore, there's no identifiable reason to expect a significant price movement in the next 60 minutes directly attributable to this headline.\n```"
+    },
+    {
+        "title": "Stock Movers: Newsmax, J&J, Tesla (Podcast)",
+        "date": "2025-04-01 13:14:05",
+        "sentiment": "neutral",
+        "explanation": "The news title is vague (\"Stock Movers: Newsmax, J&J, Tesla\"). Without specific details regarding the content of the \"Stock Movers\" podcast from Bloomberg, it's impossible to determine the direction or magnitude of any impact on JNJ's stock price within the next 60 minutes. The presence of J&J in the title isn't sufficient for a positive or negative determination as it could be related to any number of neutral events or commentary.\n```"
+    },
+    {
+        "title": "Trump unlikely to specify any pharma tariffs in \u2018Liberation Day\u2019 announcement: Reuters | $JNJ $ABT $PFE $MRK $AMGN",
+        "date": "2025-04-01 13:13:37",
+        "sentiment": "positive",
+        "explanation": "The news suggests that potential pharma tariffs, a significant concern for companies like JNJ, are less likely to be announced in the immediate future. This removes a potential negative catalyst and perceived risk, likely leading to a short-term positive price reaction as some traders reduce short positions or initiate new long positions in anticipation of avoided tariffs. The lack of tariffs is likely a positive surprise.\n```"
+    },
+    {
+        "title": "Johnson & Johnson Loses in Court Again in Bid to Settle Talc Cases",
+        "date": "2025-04-01 05:37:19",
+        "sentiment": "negative",
+        "explanation": "The news of JNJ losing a court bid to settle talc cases and the reminder of over 90,000 pending claims create negative sentiment. While this saga has been ongoing, a court loss amplifies concerns about potential future liabilities and legal costs, leading to immediate selling pressure in the next 60 minutes as traders react negatively to increased uncertainty.\n```"
+    },
+    {
+        "title": "J&J Effort to Use Bankruptcy to End Talc Cancer Claims Rejected",
+        "date": "2025-04-01 00:49:47",
+        "sentiment": "negative",
+        "explanation": "The rejection of J&J's bankruptcy strategy introduces immediate uncertainty regarding the resolution of talc-related liabilities. This surprising setback creates a negative sentiment trigger, increasing the likelihood of short-term selling pressure due to fears of prolonged litigation and potentially higher settlement costs within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines for the week: J&J, GSK, Merck, and Cassava Sciences in focus",
+        "date": "2025-03-30 15:05:59",
+        "sentiment": "neutral",
+        "explanation": "The headline mentions J&J among other healthcare companies, suggesting it's a general industry overview rather than news specific to J&J. Without knowing the context within the description, there's no quantifiable data or immediate catalyst that would likely cause a significant price reaction in the next 60 minutes. Therefore, the impact is likely neutral.\n```"
+    },
+    {
+        "title": "J&J to pay more than $1.6B in HIV drugs promotion case | $JNJ",
+        "date": "2025-03-28 21:11:34",
+        "sentiment": "negative",
+        "explanation": "A $1.6B settlement represents a direct negative financial impact on JNJ's bottom line. Even if the settlement was anticipated, the magnitude is significant enough to trigger negative sentiment and likely some immediate selling pressure from short-term traders. The news acts as a negative catalyst impacting cost.\n```"
+    },
+    {
+        "title": "J&J boasts Rybrevant, Lazcluze combo bests AstraZeneca's Tagrisso | $JNJ $AZN",
+        "date": "2025-03-26 18:54:44",
+        "sentiment": "positive",
+        "explanation": "The title highlights that J&J's Rybrevant, Lazcluze combo *bests* AstraZeneca's Tagrisso. This indicates a competitive advantage and potential market share gain for J&J in a specific treatment area. This positive competitive claim, if credible, should trigger short-term buying based on the perceived immediate benefit to JNJ's revenue potential.\n```"
+    },
+    {
+        "title": "U.S. reportedly eyeing funding cuts to Gavi, the global vaccine alliance | $JNJ $PFE $AZN $MRNA $NVAX",
+        "date": "2025-03-26 17:18:53",
+        "sentiment": "negative",
+        "explanation": "The news suggests potential funding cuts to a global vaccine alliance, impacting vaccine distribution and potentially JNJ's vaccine revenue. While the exact financial impact isn't quantified, the perceived negative sentiment around reduced vaccine efforts, combined with potential uncertainty for JNJ's vaccine sales, is likely to trigger a short-term negative reaction in the stock price within 60 minutes.\n```"
+    },
+    {
+        "title": "J&J Passes AstraZeneca in Blockbuster Cancer Race \u2014 For Now",
+        "date": "2025-03-26 16:45:00",
+        "sentiment": "positive",
+        "explanation": "The news indicates that J&J is currently leading in a significant market (lung cancer treatment), a known catalyst type. Although the lead is potentially temporary, the title and immediate impression suggest a positive development that is likely to trigger short-term trader FOMO and push the price up in the next 60 minutes.\n```"
+    },
+    {
+        "title": "J&J Pledges $55 Billion in US Investment Over Four Years",
+        "date": "2025-03-21 16:26:54",
+        "sentiment": "neutral",
+        "explanation": "While a large investment commitment, the news lacks specific details about the immediate positive effect on JNJ's revenue or profitability within the next 60 minutes. The announcement is also likely anticipated given the political climate, reducing the surprise factor. It doesn't appear to be a catalyst type expected to move the price significantly in the short term.\n```"
+    },
+    {
+        "title": "J&J wins FDA label expansion for fourth U.S. indication",
+        "date": "2025-03-21 11:47:54",
+        "sentiment": "positive",
+        "explanation": "FDA label expansion is generally a positive catalyst, indicating regulatory approval to market the drug to a wider patient base. In the immediate short term, this news will likely trigger speculative buying (sentiment trigger) as traders anticipate future revenue increases, pushing the price up within the next 60 minutes.\n```"
+    },
+    {
+        "title": "Johnson & Johnson to boost U.S. investments to over $55B",
+        "date": "2025-03-21 11:28:24",
+        "sentiment": "neutral",
+        "explanation": "While a $55B investment sounds large, the news item lacks specifics on timeline, areas of investment (R&D, manufacturing, etc.), and expected returns. Without these details, it's difficult to assess the immediate impact, and traders are unlikely to react strongly within 60 minutes. The news is also likely viewed as a long-term strategy and not a catalyst for short-term price movement.\n```"
+    },
+    {
+        "title": "Trump tally: J&J commits $55 billion to U.S. manufacturing, research expansion",
+        "date": "2025-03-21 11:00:00",
+        "sentiment": "positive",
+        "explanation": "A $55 billion commitment to US manufacturing, research, and technology is a significant investment that will likely be viewed favorably by short-term traders. The increased investment represents a 25% increase over the last four years, suggesting growth and commitment, and is aligned with a broader trend favored by the Trump administration, creating a positive sentiment trigger likely to drive immediate buying pressure.\n```"
+    },
+    {
+        "title": "Astra, J&J and Others Say UK \u2018Uninvestable\u2019 Amid Drug Rebate Row",
+        "date": "2025-03-20 01:01:00",
+        "sentiment": "negative",
+        "explanation": "The news implies potential instability in the UK market, a developed market where JNJ likely has significant operations. While the title also mentions Astra and others, the \"UK 'Uninvestable'\" sentiment regarding drug rebates is a direct, negative catalyst that could drive short-term selling pressure on JNJ due to perceived risk and potential future revenue impact within the pharmaceutical sector, specifically in the UK.\n```"
+    },
+    {
+        "title": "Gilead, GSK could be impacted by potential HHS HIV prevention cuts | $GILD $JNJ $GSK",
+        "date": "2025-03-18 22:34:54",
+        "sentiment": "negative",
+        "explanation": "The news suggests potential cuts to HIV prevention efforts which could impact JNJ, though indirectly. While the extent of the impact is unclear, short-term traders are likely to react negatively to the uncertainty surrounding potential revenue loss in a related healthcare market, triggering selling pressure within the 60-minute window.\n```"
+    },
+    {
+        "title": "Trump administration follows Biden in defending 340B drug-discount program | $JNJ $NVS $BMY $LLY",
+        "date": "2025-03-18 20:22:38",
+        "sentiment": "neutral",
+        "explanation": "The news that the Trump administration followed Biden in defending the 340B drug-discount program is likely already priced into JNJ's stock, as the program has been in place for some time. The news doesn't provide any surprise or significantly alter JNJ's financial outlook within the next 60 minutes, making the immediate impact negligible.\n```"
+    },
+    {
+        "title": "J&J gets FDA Fast Track status for nipocalimab in Sjogren's | $JNJ",
+        "date": "2025-03-18 14:28:08",
+        "sentiment": "positive",
+        "explanation": "FDA Fast Track designation is generally perceived positively. It signals accelerated review and potential earlier market access for nipocalimab, addressing Sjogren's. This positive catalyst will likely trigger short-term buying pressure within the next 60 minutes as traders react to the perceived positive development, increasing the demand for the stock.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines for the week: Merck, Novo Nordisk, J&J and Roche in focus",
+        "date": "2025-03-16 14:05:34",
+        "sentiment": "neutral",
+        "explanation": "The title mentions J&J alongside other major healthcare companies (Merck, Novo Nordisk, Roche). Without specific details about the content of the news regarding J&J, it's impossible to determine a direct impact or significant surprise. This inclusion is likely a general overview and not a specific catalyst, rendering it unlikely to cause a significant price movement within the next 60 minutes.\n```"
+    },
+    {
+        "title": "An AI imaging firm says Johnson & Johnson stole its tech. Execs on both sides are expected to testify next week.",
+        "date": "2025-03-15 10:07:01",
+        "sentiment": "negative",
+        "explanation": "The lawsuit alleging theft of AI technology and breach of contract, especially with executives expected to testify, introduces uncertainty and potential reputational risk. The potential for $180 million in penalties and restoration of ChemImage's patents presents a tangible, negative financial impact, even if the outcome is uncertain, likely causing immediate selling pressure.\n```"
+    },
+    {
+        "title": "Cybin wins new Buy from Guggenheim: potential to challenge J&J\u2019s Spravato cited | $CYBN $JNJ",
+        "date": "2025-03-13 16:32:27",
+        "sentiment": "negative",
+        "explanation": "The news suggests a competitor, Cybin, is gaining recognition and potentially challenging J&J's Spravato. While the impact is indirect, the mention of a direct challenge creates a negative sentiment, as it signals potential market share erosion for JNJ in the short term. Traders may react negatively to the perceived threat, leading to a slight dip in JNJ's stock price within the 60-minute window.\n```"
+    },
+    {
+        "title": "FDA commissioner nominee Makary advances to full Senate vote | $AMGN $GILD $JNJ $GSK $BMY",
+        "date": "2025-03-13 15:58:39",
+        "sentiment": "neutral",
+        "explanation": "The news of the FDA commissioner nominee moving to a full Senate vote is unlikely to have a direct or immediate impact on JNJ's stock price within the next 60 minutes. While FDA leadership is relevant to the pharmaceutical industry, this specific news item is more procedural than a catalyst event impacting JNJ's operations or financials in the short term.\n```"
+    },
+    {
+        "title": "White House is said to withdraw CDC director nomination | $JNJ $GSK $MRK $AZN $SNY",
+        "date": "2025-03-13 14:11:51",
+        "sentiment": "neutral",
+        "explanation": "The news of the White House withdrawing the CDC director nomination does not directly impact JNJ's core business, revenue, costs, operations, or market share within the next 60 minutes. While leadership at the CDC is important for public health, this specific news item is unlikely to create any immediate or quantifiable change in JNJ's stock price. Therefore, it's classified as NEUTRAL for short-term algorithmic trading.\n```"
+    },
+    {
+        "title": "How Companies Like J&J, Live Nation and Uber Retreating From DEI Programs",
+        "date": "2025-03-13 10:04:12",
+        "sentiment": "neutral",
+        "explanation": "The news regarding DEI programs is unlikely to significantly impact JNJ's stock price within the next 60 minutes. While DEI is a relevant topic, the article doesn't present quantifiable data directly affecting JNJ's revenue, operations, or immediate financial outlook. The impact is more of a long-term societal trend than an immediate catalyst for price movement.\n```"
+    },
+    {
+        "title": "Genmab upgraded to Outperform at William Blair | $GMAB $JNJ",
+        "date": "2025-03-11 14:48:30",
+        "sentiment": "neutral",
+        "explanation": "An upgrade for Genmab (GMAB), a company JNJ has collaborations with, doesn't have a direct or immediate impact on JNJ's revenue or operations within the 60-minute timeframe. The news might generate some minor speculative interest, but it lacks the magnitude or surprise factor needed to cause a significant price movement for JNJ itself in the short term. Therefore, it is classified as neutral.\n```"
+    },
+    {
+        "title": "How pharmaceutical companies are training their workers on AI",
+        "date": "2025-03-10 20:30:45",
+        "sentiment": "positive",
+        "explanation": "The news highlights JNJ's proactive approach to AI upskilling, with a significant portion of its workforce already trained. This suggests increased efficiency and potential cost savings in drug development, a direct impact on JNJ's operations. The emphasis on AI implementation is perceived as a positive step towards innovation and improved productivity, likely triggering short-term buying.\n```"
+    },
+    {
+        "title": "Johnson and Johnson will not exercise worldwide license option for HexaBody-CD38, says Genmab",
+        "date": "2025-03-10 16:31:34",
+        "sentiment": "negative",
+        "explanation": "Johnson & Johnson not exercising an option for a licensed product suggests a lack of confidence in that product's potential. This inaction, even if for a single drug, can be perceived negatively in the short term as it implies a potential lost revenue stream or a problem with the drug itself, leading to immediate selling pressure. The surprise factor of JNJ passing on an opportunity suggests a negative assessment of the drug and the potential of Genmab\u2019s product.\n```"
+    },
+    {
+        "title": "Johnson & Johnson met main goal in its oral treatment trial for ulcerative colitis | $JNJ",
+        "date": "2025-03-10 14:46:59",
+        "sentiment": "positive",
+        "explanation": "The news indicates positive clinical trial results for an oral treatment for ulcerative colitis, a potentially significant market. The \"met main goal\" phrasing suggests a successful outcome, likely triggering short-term positive sentiment and buying pressure from traders. This constitutes a direct positive impact on JNJ's pharmaceutical pipeline and potential future revenue within a high surprise factor.\n```"
+    },
+    {
+        "title": "Notable healthcare headlines for the week: Walgreens Boots Alliance, AbbVie and Novo Nordisk in focus | $XLV $AMGN $BIIB $JNJ $NVO",
+        "date": "2025-03-09 14:05:09",
+        "sentiment": "neutral",
+        "explanation": "The news is a general overview of healthcare headlines mentioning several companies including JNJ. While JNJ is mentioned, the title and description don't suggest any specific positive or negative news directly impacting JNJ within the next 60 minutes. The absence of a clear catalyst related to JNJ and the broad nature of the news point to a neutral sentiment.\n```"
+    },
+    {
+        "title": "Pfizer boosts anti-obesity efforts: names former J&J exec. as chief internal medicine officer",
+        "date": "2025-03-07 17:27:05",
+        "sentiment": "neutral",
+        "explanation": "The news is about a former J&J executive joining Pfizer, a competitor. While executive movement is notable, it has no direct or immediate impact on JNJ's revenue, costs, or operations within the next 60 minutes. Therefore, it is unlikely to cause a significant price movement in JNJ stock in the immediate short term.\n```"
+    },
+    {
+        "title": "Neumora cut to Hold at Stifel after J&J\u2019s VENTURA exit",
+        "date": "2025-03-07 14:56:01",
+        "sentiment": "negative",
+        "explanation": "Neumora being cut to Hold by Stifel following J&J\u2019s VENTURA exit signals negative sentiment towards J&J's strategy or prospects in that area. Even though it's an indirect impact, traders might interpret this as a loss of confidence in JNJ's investments, triggering a slight sell-off in the next 60 minutes due to the high visibility of Stifel's rating changes.\n```"
+    },
+    {
+        "title": "Johnson & Johnson axes late-stage program for depression therapy",
+        "date": "2025-03-07 12:54:13",
+        "sentiment": "negative",
+        "explanation": "The cancellation of a late-stage program, especially one focused on a major indication like depression, signals a potential pipeline setback. This creates negative sentiment among short-term traders focused on immediate growth prospects (Sentiment Trigger) and suggests potential future revenue reduction (Direct Impact). While the long-term impact is uncertain, the immediate reaction within 60 minutes will likely be negative as traders react to the news of the failed program.\n```"
+    },
+    {
+        "title": "Kenvue Appoints Starboard CEO to Board in Proxy Settlement",
+        "date": "2025-03-05 15:17:05",
+        "sentiment": "negative",
+        "explanation": "This news involves Kenvue, a spin-off from JNJ. While Starboard's involvement could be positive long-term, the immediate reaction is likely to be negative. The description highlights Kenvue's significant market share decline, which reflects poorly on the value JNJ received from the spin-off, and increases short-term uncertainty about Kenvue's performance, potentially leading to a quick sell-off of JNJ shares by traders linking the two companies.\n```"
+    },
+    {
+        "title": "The flu season was so heavy that it may have pushed up earnings for some stocks | $PG $JNJ $WBA $QDEL $CVS",
+        "date": "2025-03-04 20:34:11",
+        "sentiment": "positive",
+        "explanation": "The news suggests a positive earnings impact for JNJ due to a heavy flu season. This exceeds typical seasonal expectations, indicating a potential positive surprise in the short term. Traders may react quickly to this positive catalyst within the next 60 minutes.\n```"
+    }
+]

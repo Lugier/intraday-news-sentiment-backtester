@@ -1,0 +1,29 @@
+{
+  "strategy_name": "MSFT",
+  "backtest_summary": {
+    "total_trades": 139,
+    "profitable_trades": 76,
+    "losing_trades": 61,
+    "win_rate": 0.5467625899280576
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0008,
+      "mean_return": -0.15207144895178026,
+      "confidence_interval": [
+        -0.2352795831433818,
+        -0.06118677965319252
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.1384,
+      "mean_return": 0.04791084480691542,
+      "confidence_interval": [
+        -0.036374089840225006,
+        0.1349550068868535
+      ],
+      "significant": false
+    }
+  }
+}

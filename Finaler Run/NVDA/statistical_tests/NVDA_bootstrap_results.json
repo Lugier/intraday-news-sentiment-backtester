@@ -1,0 +1,29 @@
+{
+  "strategy_name": "NVDA",
+  "backtest_summary": {
+    "total_trades": 230,
+    "profitable_trades": 107,
+    "losing_trades": 118,
+    "win_rate": 0.4652173913043478
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0,
+      "mean_return": -0.21950413256946677,
+      "confidence_interval": [
+        -0.3214265737028164,
+        -0.1188971578359416
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.3585,
+      "mean_return": -0.01943840033203023,
+      "confidence_interval": [
+        -0.11974235370637891,
+        0.08113934658577814
+      ],
+      "significant": false
+    }
+  }
+}

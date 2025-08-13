@@ -1,0 +1,289 @@
+{
+    "ticker": "MRNA",
+    "total_trades": 10,
+    "winning_trades": 3,
+    "losing_trades": 7,
+    "win_rate": 0.3,
+    "total_return_pct": -0.9252879480449074,
+    "average_return_pct": -0.09252879480449075,
+    "median_return_pct": -0.2931576376878617,
+    "return_std_dev": 0.6639384954964334,
+    "sharpe_ratio": -2.2123270317275012,
+    "max_drawdown_pct": -2.75015975535609,
+    "drawdown_duration": 7,
+    "profit_factor": 0.7106904216333756,
+    "expected_return_pct": -0.09252879480449078,
+    "trades": [
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-03-31 14:04:00",
+            "entry_price": 27.7,
+            "exit_time": "2025-03-31 15:04:00",
+            "exit_price": 27.41,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 1.0469314079422354,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Monday",
+            "pnl": 0.28999999999999915,
+            "transaction_fees": 0.05511,
+            "pnl_after_fees": 0.23488999999999916,
+            "return_pct_after_fees": 0.8479783393501776
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-04-10 12:16:00",
+            "entry_price": 26.08,
+            "exit_time": "2025-04-10 13:24:00",
+            "exit_price": 26.11,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.11503067484663013,
+            "trade_duration_min": 68.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": -0.030000000000001137,
+            "transaction_fees": 0.05219,
+            "pnl_after_fees": -0.08219000000000114,
+            "return_pct_after_fees": -0.31514570552147675
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-04-17 14:43:00",
+            "entry_price": 25.34,
+            "exit_time": "2025-04-17 15:43:00",
+            "exit_price": 24.955,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 1.5193370165745919,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 0.38500000000000156,
+            "transaction_fees": 0.050295,
+            "pnl_after_fees": 0.3347050000000016,
+            "return_pct_after_fees": 1.3208563535911664
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-05-01 12:30:00",
+            "entry_price": 28.13,
+            "exit_time": "2025-05-01 13:34:00",
+            "exit_price": 28.15,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.07109847138286376,
+            "trade_duration_min": 64.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": -0.019999999999999574,
+            "transaction_fees": 0.05628,
+            "pnl_after_fees": -0.07627999999999957,
+            "return_pct_after_fees": -0.2711695698542466
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-05-08 12:12:00",
+            "entry_price": 24.1,
+            "exit_time": "2025-05-08 13:12:00",
+            "exit_price": 24.09,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.04149377593361644,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 0.010000000000001563,
+            "transaction_fees": 0.048190000000000004,
+            "pnl_after_fees": -0.03818999999999844,
+            "return_pct_after_fees": -0.15846473029044994
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-05-21 13:52:00",
+            "entry_price": 28.25,
+            "exit_time": "2025-05-21 14:52:00",
+            "exit_price": 28.5,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.8849557522123894,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -0.25,
+            "transaction_fees": 0.05675,
+            "pnl_after_fees": -0.30675,
+            "return_pct_after_fees": -1.0858407079646017
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-05-29 12:43:00",
+            "entry_price": 26.33,
+            "exit_time": "2025-05-29 13:43:00",
+            "exit_price": 26.25,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.3038359285985503,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 0.0799999999999983,
+            "transaction_fees": 0.05258,
+            "pnl_after_fees": 0.027419999999998293,
+            "return_pct_after_fees": 0.10413976452714885
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-06-09 13:03:00",
+            "entry_price": 27.6,
+            "exit_time": "2025-06-09 14:04:00",
+            "exit_price": 27.64,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.14492753623188095,
+            "trade_duration_min": 61.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": -0.03999999999999915,
+            "transaction_fees": 0.055240000000000004,
+            "pnl_after_fees": -0.09523999999999916,
+            "return_pct_after_fees": -0.34507246376811285
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-06-10 13:35:00",
+            "entry_price": 27.89,
+            "exit_time": "2025-06-10 14:35:00",
+            "exit_price": 27.98,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.32269630692004253,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": -0.08999999999999986,
+            "transaction_fees": 0.05587,
+            "pnl_after_fees": -0.14586999999999986,
+            "return_pct_after_fees": -0.5230190032269626
+        },
+        {
+            "ticker": "MRNA",
+            "entry_time": "2025-06-13 12:11:00",
+            "entry_price": 26.68,
+            "exit_time": "2025-06-13 13:11:00",
+            "exit_price": 26.6,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.29985007496251237,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Midday",
+            "day_of_week": "Friday",
+            "pnl": -0.0799999999999983,
+            "transaction_fees": 0.05328,
+            "pnl_after_fees": -0.1332799999999983,
+            "return_pct_after_fees": -0.49955022488754985
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 1,
+            "total_return": -0.49955022488754985,
+            "avg_return": -0.49955022488754985,
+            "median_return": -0.49955022488754985,
+            "win_rate": 0.0,
+            "std_dev": 0.0,
+            "sharpe_ratio": 0,
+            "profit_factor": 0.0
+        },
+        "negative": {
+            "count": 9,
+            "total_return": -0.4257377231573576,
+            "avg_return": -0.04730419146192862,
+            "median_return": -0.2711695698542466,
+            "win_rate": 0.3333333333333333,
+            "std_dev": 0.685084701230957,
+            "sharpe_ratio": -1.0961137478712042,
+            "profit_factor": 0.8422441169481709
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 9,
+            "total_return": -0.4257377231573576,
+            "avg_return": -0.04730419146192862,
+            "win_rate": 0.3333333333333333
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.49955022488754985,
+            "avg_return": -0.49955022488754985,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 2,
+            "total_return": 2.168834692941344,
+            "avg_return": 1.084417346470672,
+            "win_rate": 1.0
+        },
+        "Midday": {
+            "count": 8,
+            "total_return": -3.0941226409862512,
+            "avg_return": -0.3867653301232814,
+            "win_rate": 0.125
+        }
+    },
+    "day_of_week_stats": {
+        "Monday": {
+            "count": 2,
+            "total_return": 0.5029058755820648,
+            "avg_return": 0.2514529377910324,
+            "win_rate": 0.5
+        },
+        "Thursday": {
+            "count": 5,
+            "total_return": 0.6802161124521418,
+            "avg_return": 0.13604322249042836,
+            "win_rate": 0.4
+        },
+        "Wednesday": {
+            "count": 1,
+            "total_return": -1.0858407079646017,
+            "avg_return": -1.0858407079646017,
+            "win_rate": 0.0
+        },
+        "Tuesday": {
+            "count": 1,
+            "total_return": -0.5230190032269626,
+            "avg_return": -0.5230190032269626,
+            "win_rate": 0.0
+        },
+        "Friday": {
+            "count": 1,
+            "total_return": -0.49955022488754985,
+            "avg_return": -0.49955022488754985,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-31 14:04:00",
+        "end_date": "2025-06-13 13:11:00",
+        "start_price": 27.7,
+        "end_price": 26.6,
+        "buyhold_return_pct": -3.971119133573997,
+        "strategy_return_pct": -0.9252879480449074,
+        "outperformance_pct": 3.0458311855290896
+    }
+}

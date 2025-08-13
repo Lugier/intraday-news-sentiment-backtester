@@ -1,0 +1,17 @@
+Parameter,Value
+ticker,ADBE
+date,2025-06-17 21:53:01
+total_news,112
+positive_news,41
+negative_news,35
+neutral_news,36
+actionable_news,76
+strategy_type,flip_strategy
+entry_delay_minutes,2
+holding_period_minutes,60
+use_stop_loss,True
+stop_loss_pct,2.0
+take_profit_pct,inf
+include_after_hours,False
+max_workers,16
+transaction_fee_pct,0.001

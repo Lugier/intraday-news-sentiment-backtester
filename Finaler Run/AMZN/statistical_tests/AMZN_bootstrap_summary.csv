@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,AMZN
+Total Trades,143
+Profitable Trades,76
+Losing Trades,65
+Win Rate,53.15%
+Mean Return,-0.208693
+Return 95% CI Lower,-0.330730
+Return 95% CI Upper,-0.091777
+Return p-value,0.0002
+Return Significant?,Yes
+Mean Trade Return,-0.008694
+Trade Return 95% CI Lower,-0.130994
+Trade Return 95% CI Upper,0.108694
+Trade Return p-value,0.4462
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,31 @@
+NEWS FILTERING STATISTICS SUMMARY
+==================================================
+
+📊 OVERALL STATISTICS:
+Total news fetched from API: 223
+Total news removed by filters: 106
+Final valid news events: 196
+Final trades executed: 34
+
+🔄 CONVERSION RATES:
+News to Trades: 17.35%
+Overall API to Trades: 15.25%
+
+🚫 FILTERING BREAKDOWN:
+Filtered by source restrictions: 27
+Filtered by missing data: 0
+Filtered by neutral sentiment: 0
+Filtered by after-hours timing: 79
+Filtered by weekend timing: 0
+Filtered by missing market data: 0
+
+📝 DETAILED LOGS:
+- Page 1: Fetched 100 news from API
+- Source filter: Removed 15 news (kept 85)
+- Page 2: Fetched 100 news from API
+- Source filter: Removed 12 news (kept 88)
+- Page 3: Fetched 23 news from API
+- Source filter: Removed 0 news (kept 23)
+- After hours filter: Removed 79 news
+- Final valid news: 196
+- Trades executed: 34

@@ -1,0 +1,181 @@
+{
+    "ticker": "TMO",
+    "total_trades": 4,
+    "winning_trades": 0,
+    "losing_trades": 4,
+    "win_rate": 0.0,
+    "total_return_pct": -6.719130658219215,
+    "average_return_pct": -1.6797826645548037,
+    "median_return_pct": -1.7617669134781626,
+    "return_std_dev": 1.094528731765842,
+    "sharpe_ratio": -24.36274384435382,
+    "max_drawdown_pct": -5.405624226594088,
+    "drawdown_duration": 3,
+    "profit_factor": 0.0,
+    "expected_return_pct": -1.6797826645548037,
+    "trades": [
+        {
+            "ticker": "TMO",
+            "entry_time": "2025-04-16 15:32:00",
+            "entry_price": 445.0,
+            "exit_time": "2025-04-16 16:32:00",
+            "exit_price": 440.385,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -1.0370786516853954,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Wednesday",
+            "pnl": -4.615000000000009,
+            "transaction_fees": 0.8853850000000001,
+            "pnl_after_fees": -5.500385000000009,
+            "return_pct_after_fees": -1.23604157303371
+        },
+        {
+            "ticker": "TMO",
+            "entry_time": "2025-04-23 12:05:00",
+            "entry_price": 447.77,
+            "exit_time": "2025-04-23 12:27:00",
+            "exit_price": 435.0,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -2.851910579091941,
+            "trade_duration_min": 22.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -12.769999999999982,
+            "transaction_fees": 0.88277,
+            "pnl_after_fees": -13.652769999999983,
+            "return_pct_after_fees": -3.0490586685128487
+        },
+        {
+            "ticker": "TMO",
+            "entry_time": "2025-05-15 15:30:00",
+            "entry_price": 403.43,
+            "exit_time": "2025-05-15 15:40:00",
+            "exit_price": 395.0,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -2.0895818357583735,
+            "trade_duration_min": 10.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -8.430000000000007,
+            "transaction_fees": 0.79843,
+            "pnl_after_fees": -9.228430000000007,
+            "return_pct_after_fees": -2.2874922539226152
+        },
+        {
+            "ticker": "TMO",
+            "entry_time": "2025-06-13 11:26:00",
+            "entry_price": 411.92,
+            "exit_time": "2025-06-13 12:26:00",
+            "exit_price": 411.7,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.05340842882113694,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Morning",
+            "day_of_week": "Friday",
+            "pnl": 0.22000000000002728,
+            "transaction_fees": 0.82362,
+            "pnl_after_fees": -0.6036199999999727,
+            "return_pct_after_fees": -0.14653816275004192
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 3,
+            "total_return": -6.5725924954691735,
+            "avg_return": -2.190864165156391,
+            "median_return": -2.2874922539226152,
+            "win_rate": 0.0,
+            "std_dev": 0.7433081405800527,
+            "sharpe_ratio": -46.78933073008112,
+            "profit_factor": 0.0
+        },
+        "negative": {
+            "count": 1,
+            "total_return": -0.14653816275004192,
+            "avg_return": -0.14653816275004192,
+            "median_return": -0.14653816275004192,
+            "win_rate": 0.0,
+            "std_dev": 0.0,
+            "sharpe_ratio": 0,
+            "profit_factor": 0.0
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 1,
+            "total_return": -1.23604157303371,
+            "avg_return": -1.23604157303371,
+            "win_rate": 0.0
+        },
+        "stop_loss": {
+            "count": 2,
+            "total_return": -5.336550922435464,
+            "avg_return": -2.668275461217732,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.14653816275004192,
+            "avg_return": -0.14653816275004192,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 2,
+            "total_return": -3.523533826956325,
+            "avg_return": -1.7617669134781626,
+            "win_rate": 0.0
+        },
+        "Midday": {
+            "count": 1,
+            "total_return": -3.0490586685128487,
+            "avg_return": -3.0490586685128487,
+            "win_rate": 0.0
+        },
+        "Morning": {
+            "count": 1,
+            "total_return": -0.14653816275004192,
+            "avg_return": -0.14653816275004192,
+            "win_rate": 0.0
+        }
+    },
+    "day_of_week_stats": {
+        "Wednesday": {
+            "count": 2,
+            "total_return": -4.285100241546559,
+            "avg_return": -2.1425501207732793,
+            "win_rate": 0.0
+        },
+        "Thursday": {
+            "count": 1,
+            "total_return": -2.2874922539226152,
+            "avg_return": -2.2874922539226152,
+            "win_rate": 0.0
+        },
+        "Friday": {
+            "count": 1,
+            "total_return": -0.14653816275004192,
+            "avg_return": -0.14653816275004192,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-04-16 15:32:00",
+        "end_date": "2025-06-13 12:26:00",
+        "start_price": 445.0,
+        "end_price": 411.93,
+        "buyhold_return_pct": -7.4314606741572975,
+        "strategy_return_pct": -6.719130658219215,
+        "outperformance_pct": 0.7123300159380825
+    }
+}

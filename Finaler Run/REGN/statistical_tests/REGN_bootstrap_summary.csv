@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,REGN
+Total Trades,14
+Profitable Trades,8
+Losing Trades,6
+Win Rate,57.14%
+Mean Return,0.213917
+Return 95% CI Lower,-0.442053
+Return 95% CI Upper,0.881891
+Return p-value,0.2615
+Return Significant?,No
+Mean Trade Return,0.413910
+Trade Return 95% CI Lower,-0.254349
+Trade Return 95% CI Upper,1.068682
+Trade Return p-value,0.1147
+Trade Return Significant?,No
+Bootstrap Simulations,10000

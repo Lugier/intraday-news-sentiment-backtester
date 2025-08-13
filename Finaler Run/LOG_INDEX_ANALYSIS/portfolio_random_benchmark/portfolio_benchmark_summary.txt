@@ -1,0 +1,35 @@
+PORTFOLIO RANDOM TRADING BENCHMARK ANALYSIS
+============================================================
+
+Analysis Date: 2025-06-17T22:49:03.051443
+Random Simulations: 1,000
+
+PORTFOLIO PERFORMANCE:
+  Total Return: -21.7423%
+  Average Return per Trade: -0.0091%
+  Win Rate: 50.17%
+  Sharpe Ratio: -0.0095
+  Max Drawdown: -68.5376%
+  Total Trades: 2386
+
+RANDOM TRADING BENCHMARK:
+  Mean Return: 0.4124%
+  Median Return: 0.3963%
+  Standard Deviation: 47.4315%
+  Min Return: -159.6109%
+  Max Return: 169.2463%
+
+PORTFOLIO VS RANDOM COMPARISON:
+  Portfolio Percentile Rank: 32.4th
+  Outperformed Simulations: 324/1,000
+  Outperforming Percentage: 0.3%
+
+STATISTICAL SIGNIFICANCE:
+  P-value: 0.640437
+  Z-score: -0.4671
+  Significant at 5%: ✗ NO
+  Significant at 1%: ✗ NO
+
+INTERPRETATION:
+  POOR - Portfolio underperforms compared to random trading
+  Portfolio performs better than 0.3% of random strategies

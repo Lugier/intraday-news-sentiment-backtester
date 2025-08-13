@@ -1,0 +1,29 @@
+{
+  "strategy_name": "BIIB",
+  "backtest_summary": {
+    "total_trades": 6,
+    "profitable_trades": 2,
+    "losing_trades": 2,
+    "win_rate": 0.3333333333333333
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 1.0,
+      "mean_return": NaN,
+      "confidence_interval": [
+        NaN,
+        NaN
+      ],
+      "significant": false
+    }
+  }
+}

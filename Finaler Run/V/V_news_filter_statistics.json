@@ -1,0 +1,25 @@
+{
+  "filtering_statistics": {
+    "total_fetched_from_api": 112,
+    "filtered_by_source": 8,
+    "filtered_by_missing_data": 0,
+    "filtered_by_neutral_sentiment": 0,
+    "filtered_by_after_hours": 58,
+    "filtered_by_weekend": 0,
+    "filtered_by_missing_market_data": 0,
+    "final_valid_news": 104,
+    "final_trades_executed": 17
+  },
+  "total_news_removed": 66,
+  "conversion_rate_news_to_trades": 16.346153846153847,
+  "overall_conversion_rate": 15.178571428571427,
+  "detailed_logs": [
+    "Page 1: Fetched 100 news from API",
+    "Source filter: Removed 7 news (kept 93)",
+    "Page 2: Fetched 12 news from API",
+    "Source filter: Removed 1 news (kept 11)",
+    "After hours filter: Removed 58 news",
+    "Final valid news: 104",
+    "Trades executed: 17"
+  ]
+}

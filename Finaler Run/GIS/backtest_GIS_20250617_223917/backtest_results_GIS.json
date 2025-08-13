@@ -1,0 +1,135 @@
+{
+    "ticker": "GIS",
+    "total_trades": 3,
+    "winning_trades": 1,
+    "losing_trades": 2,
+    "win_rate": 0.3333333333333333,
+    "total_return_pct": -1.1419918729478362,
+    "average_return_pct": -0.38066395764927874,
+    "median_return_pct": -0.7324045407636753,
+    "return_std_dev": 0.8147222152488491,
+    "sharpe_ratio": -7.417071582254522,
+    "max_drawdown_pct": -1.154986990459684,
+    "drawdown_duration": 1,
+    "profit_factor": 0.3949364220111607,
+    "expected_return_pct": -0.3806639576492789,
+    "trades": [
+        {
+            "ticker": "GIS",
+            "entry_time": "2025-03-11 15:11:00",
+            "entry_price": 62.985,
+            "exit_time": "2025-03-11 16:11:00",
+            "exit_price": 63.32,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.5318726680955798,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": -0.33500000000000085,
+            "transaction_fees": 0.126305,
+            "pnl_after_fees": -0.46130500000000085,
+            "return_pct_after_fees": -0.7324045407636753
+        },
+        {
+            "ticker": "GIS",
+            "entry_time": "2025-03-19 12:04:00",
+            "entry_price": 57.65,
+            "exit_time": "2025-03-19 13:04:00",
+            "exit_price": 58.2,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.9540329575021756,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -0.5500000000000043,
+            "transaction_fees": 0.11585000000000001,
+            "pnl_after_fees": -0.6658500000000043,
+            "return_pct_after_fees": -1.154986990459678
+        },
+        {
+            "ticker": "GIS",
+            "entry_time": "2025-03-19 13:10:00",
+            "entry_price": 58.3511,
+            "exit_time": "2025-03-19 14:10:00",
+            "exit_price": 57.8,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.9444552030724446,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.5511000000000053,
+            "transaction_fees": 0.11615110000000001,
+            "pnl_after_fees": 0.43494890000000525,
+            "return_pct_after_fees": 0.745399658275517
+        }
+    ],
+    "sentiment_stats": {
+        "negative": {
+            "count": 3,
+            "total_return": -1.1419918729478362,
+            "avg_return": -0.38066395764927874,
+            "median_return": -0.7324045407636753,
+            "win_rate": 0.3333333333333333,
+            "std_dev": 0.8147222152488491,
+            "sharpe_ratio": -7.417071582254522,
+            "profit_factor": 0.3949364220111607
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 2,
+            "total_return": -1.8873915312233533,
+            "avg_return": -0.9436957656116767,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": 0.745399658275517,
+            "avg_return": 0.745399658275517,
+            "win_rate": 1.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 1,
+            "total_return": -0.7324045407636753,
+            "avg_return": -0.7324045407636753,
+            "win_rate": 0.0
+        },
+        "Midday": {
+            "count": 2,
+            "total_return": -0.4095873321841609,
+            "avg_return": -0.20479366609208044,
+            "win_rate": 0.5
+        }
+    },
+    "day_of_week_stats": {
+        "Tuesday": {
+            "count": 1,
+            "total_return": -0.7324045407636753,
+            "avg_return": -0.7324045407636753,
+            "win_rate": 0.0
+        },
+        "Wednesday": {
+            "count": 2,
+            "total_return": -0.4095873321841609,
+            "avg_return": -0.20479366609208044,
+            "win_rate": 0.5
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-11 15:11:00",
+        "end_date": "2025-03-19 14:10:00",
+        "start_price": 62.985,
+        "end_price": 57.8,
+        "buyhold_return_pct": -8.232118758434549,
+        "strategy_return_pct": -1.1419918729478362,
+        "outperformance_pct": 7.090126885486713
+    }
+}

@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,BMY
+Total Trades,11
+Profitable Trades,6
+Losing Trades,5
+Win Rate,54.55%
+Mean Return,-0.500476
+Return 95% CI Lower,-1.075549
+Return 95% CI Upper,0.020035
+Return p-value,0.0314
+Return Significant?,Yes
+Mean Trade Return,-0.300811
+Trade Return 95% CI Lower,-0.868498
+Trade Return 95% CI Upper,0.218305
+Trade Return p-value,0.1378
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,2 @@
+sentiment,count,total_return,avg_return,median_return,win_rate,std_dev,sharpe_ratio,profit_factor
+positive,1,-0.6354615384615429,-0.6354615384615429,-0.6354615384615429,0.0,0.0,0,0.0

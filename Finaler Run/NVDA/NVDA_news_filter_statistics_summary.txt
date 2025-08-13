@@ -1,0 +1,65 @@
+NEWS FILTERING STATISTICS SUMMARY
+==================================================
+
+📊 OVERALL STATISTICS:
+Total news fetched from API: 1,975
+Total news removed by filters: 1,262
+Final valid news events: 1,477
+Final trades executed: 230
+
+🔄 CONVERSION RATES:
+News to Trades: 15.57%
+Overall API to Trades: 11.65%
+
+🚫 FILTERING BREAKDOWN:
+Filtered by source restrictions: 498
+Filtered by missing data: 0
+Filtered by neutral sentiment: 0
+Filtered by after-hours timing: 764
+Filtered by weekend timing: 0
+Filtered by missing market data: 0
+
+📝 DETAILED LOGS:
+- Page 1: Fetched 100 news from API
+- Source filter: Removed 23 news (kept 77)
+- Page 2: Fetched 100 news from API
+- Source filter: Removed 26 news (kept 74)
+- Page 3: Fetched 100 news from API
+- Source filter: Removed 24 news (kept 76)
+- Page 4: Fetched 100 news from API
+- Source filter: Removed 12 news (kept 88)
+- Page 5: Fetched 100 news from API
+- Source filter: Removed 24 news (kept 76)
+- Page 6: Fetched 100 news from API
+- Source filter: Removed 24 news (kept 76)
+- Page 7: Fetched 100 news from API
+- Source filter: Removed 15 news (kept 85)
+- Page 8: Fetched 100 news from API
+- Source filter: Removed 30 news (kept 70)
+- Page 9: Fetched 100 news from API
+- Source filter: Removed 23 news (kept 77)
+- Page 10: Fetched 100 news from API
+- Source filter: Removed 33 news (kept 67)
+- Page 11: Fetched 100 news from API
+- Source filter: Removed 17 news (kept 83)
+- Page 12: Fetched 100 news from API
+- Source filter: Removed 20 news (kept 80)
+- Page 13: Fetched 100 news from API
+- Source filter: Removed 32 news (kept 68)
+- Page 14: Fetched 100 news from API
+- Source filter: Removed 33 news (kept 67)
+- Page 15: Fetched 100 news from API
+- Source filter: Removed 29 news (kept 71)
+- Page 16: Fetched 100 news from API
+- Source filter: Removed 20 news (kept 80)
+- Page 17: Fetched 100 news from API
+- Source filter: Removed 35 news (kept 65)
+- Page 18: Fetched 100 news from API
+- Source filter: Removed 27 news (kept 73)
+- Page 19: Fetched 100 news from API
+- Source filter: Removed 32 news (kept 68)
+- Page 20: Fetched 75 news from API
+- Source filter: Removed 19 news (kept 56)
+- After hours filter: Removed 764 news
+- Final valid news: 1477
+- Trades executed: 230

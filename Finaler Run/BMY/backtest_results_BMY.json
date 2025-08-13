@@ -1,0 +1,313 @@
+{
+    "ticker": "BMY",
+    "total_trades": 11,
+    "winning_trades": 4,
+    "losing_trades": 7,
+    "win_rate": 0.36363636363636365,
+    "total_return_pct": -5.505241464204881,
+    "average_return_pct": -0.5004764967458982,
+    "median_return_pct": -0.08213382774313117,
+    "return_std_dev": 0.9237988996338459,
+    "sharpe_ratio": -8.600159718401729,
+    "max_drawdown_pct": -5.47052874337875,
+    "drawdown_duration": 10,
+    "profit_factor": 0.19255382438885282,
+    "expected_return_pct": -0.5004764967458981,
+    "trades": [
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-03-07 14:27:00",
+            "entry_price": 60.0941,
+            "exit_time": "2025-03-07 15:28:00",
+            "exit_price": 60.25,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.2594264661589118,
+            "trade_duration_min": 61.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": 0.1559000000000026,
+            "transaction_fees": 0.1203441,
+            "pnl_after_fees": 0.0355559000000026,
+            "return_pct_after_fees": 0.05916703969275289
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-03-14 15:00:00",
+            "entry_price": 59.76,
+            "exit_time": "2025-03-14 16:00:00",
+            "exit_price": 59.26,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.8366800535475234,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": -0.5,
+            "transaction_fees": 0.11902,
+            "pnl_after_fees": -0.61902,
+            "return_pct_after_fees": -1.0358433734939758
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-03-26 13:04:00",
+            "entry_price": 59.33,
+            "exit_time": "2025-03-26 14:11:00",
+            "exit_price": 59.4,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.11798415641328212,
+            "trade_duration_min": 67.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.07000000000000028,
+            "transaction_fees": 0.11873,
+            "pnl_after_fees": -0.04872999999999972,
+            "return_pct_after_fees": -0.08213382774313117
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-03-28 15:02:00",
+            "entry_price": 58.95,
+            "exit_time": "2025-03-28 16:02:00",
+            "exit_price": 58.79,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.27141645462256775,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": -0.1600000000000037,
+            "transaction_fees": 0.11774000000000001,
+            "pnl_after_fees": -0.2777400000000037,
+            "return_pct_after_fees": -0.4711450381679452
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-04-15 15:20:00",
+            "entry_price": 51.1,
+            "exit_time": "2025-04-15 16:20:00",
+            "exit_price": 50.4,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -1.3698630136986356,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": -0.7000000000000028,
+            "transaction_fees": 0.1015,
+            "pnl_after_fees": -0.8015000000000029,
+            "return_pct_after_fees": -1.5684931506849369
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-04-24 13:02:00",
+            "entry_price": 48.9,
+            "exit_time": "2025-04-24 14:02:00",
+            "exit_price": 49.065,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.33742331288343386,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 0.16499999999999915,
+            "transaction_fees": 0.097965,
+            "pnl_after_fees": 0.06703499999999915,
+            "return_pct_after_fees": 0.1370858895705504
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-05-16 15:06:00",
+            "entry_price": 45.85,
+            "exit_time": "2025-05-16 16:06:00",
+            "exit_price": 46.3,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.981461286804789,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": 0.44999999999999574,
+            "transaction_fees": 0.09215000000000001,
+            "pnl_after_fees": 0.3578499999999957,
+            "return_pct_after_fees": 0.7804798255179841
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-06-02 12:47:00",
+            "entry_price": 48.6,
+            "exit_time": "2025-06-02 12:46:00",
+            "exit_price": 48.51,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.1851851851851922,
+            "trade_duration_min": -1.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": 0.09000000000000341,
+            "transaction_fees": 0.09711,
+            "pnl_after_fees": -0.007109999999996591,
+            "return_pct_after_fees": -0.014629629629622637
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-06-02 12:55:00",
+            "entry_price": 48.9,
+            "exit_time": "2025-06-02 14:00:00",
+            "exit_price": 48.45,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.9202453987729975,
+            "trade_duration_min": 65.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": -0.44999999999999574,
+            "transaction_fees": 0.09735,
+            "pnl_after_fees": -0.5473499999999958,
+            "return_pct_after_fees": -1.1193251533742246
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-06-11 14:54:00",
+            "entry_price": 50.2,
+            "exit_time": "2025-06-11 15:54:00",
+            "exit_price": 50.4694,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.536653386454178,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Wednesday",
+            "pnl": 0.2693999999999974,
+            "transaction_fees": 0.1006694,
+            "pnl_after_fees": 0.1687305999999974,
+            "return_pct_after_fees": 0.3361167330677238
+        },
+        {
+            "ticker": "BMY",
+            "entry_time": "2025-06-16 15:13:00",
+            "entry_price": 49.81,
+            "exit_time": "2025-06-16 15:32:00",
+            "exit_price": 48.65,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -2.328849628588644,
+            "trade_duration_min": 19.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Afternoon",
+            "day_of_week": "Monday",
+            "pnl": -1.1600000000000037,
+            "transaction_fees": 0.09845999999999999,
+            "pnl_after_fees": -1.2584600000000037,
+            "return_pct_after_fees": -2.5265207789600557
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 10,
+            "total_return": -5.490611834575258,
+            "avg_return": -0.5490611834575259,
+            "median_return": -0.27663943295553817,
+            "win_rate": 0.4,
+            "std_dev": 0.9553950272267685,
+            "sharpe_ratio": -9.123007580670334,
+            "profit_factor": 0.19296787703074725
+        },
+        "negative": {
+            "count": 1,
+            "total_return": -0.014629629629622637,
+            "avg_return": -0.014629629629622637,
+            "median_return": -0.014629629629622637,
+            "win_rate": 0.0,
+            "std_dev": 0.0,
+            "sharpe_ratio": 0,
+            "profit_factor": 0.0
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 9,
+            "total_return": -2.9640910556152025,
+            "avg_return": -0.3293434506239114,
+            "win_rate": 0.4444444444444444
+        },
+        "conflict_flip": {
+            "count": 1,
+            "total_return": -0.014629629629622637,
+            "avg_return": -0.014629629629622637,
+            "win_rate": 0.0
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -2.5265207789600557,
+            "avg_return": -2.5265207789600557,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 7,
+            "total_return": -4.426238743028453,
+            "avg_return": -0.6323198204326361,
+            "win_rate": 0.42857142857142855
+        },
+        "Midday": {
+            "count": 4,
+            "total_return": -1.079002721176428,
+            "avg_return": -0.269750680294107,
+            "win_rate": 0.25
+        }
+    },
+    "day_of_week_stats": {
+        "Friday": {
+            "count": 4,
+            "total_return": -0.667341546451184,
+            "avg_return": -0.166835386612796,
+            "win_rate": 0.5
+        },
+        "Wednesday": {
+            "count": 2,
+            "total_return": 0.25398290532459267,
+            "avg_return": 0.12699145266229633,
+            "win_rate": 0.5
+        },
+        "Tuesday": {
+            "count": 1,
+            "total_return": -1.5684931506849369,
+            "avg_return": -1.5684931506849369,
+            "win_rate": 0.0
+        },
+        "Thursday": {
+            "count": 1,
+            "total_return": 0.1370858895705504,
+            "avg_return": 0.1370858895705504,
+            "win_rate": 1.0
+        },
+        "Monday": {
+            "count": 3,
+            "total_return": -3.660475561963903,
+            "avg_return": -1.2201585206546344,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-07 14:27:00",
+        "end_date": "2025-06-16 15:32:00",
+        "start_price": 60.0941,
+        "end_price": 48.65,
+        "buyhold_return_pct": -19.043633235209445,
+        "strategy_return_pct": -5.505241464204881,
+        "outperformance_pct": 13.538391771004564
+    }
+}

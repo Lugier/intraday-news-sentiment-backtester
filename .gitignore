@@ -1,0 +1,27 @@
+# Ignore everything by default
+/*
+
+# Keep these files and directories
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/src/
+!/Finaler Run/
+!/Test_scripts/
+
+# Ensure contents of kept directories are included
+!/src/**
+!/Finaler Run/**
+!/Test_scripts/**
+
+# Always ignore secrets and local env
+.env
+**/*.env
+**/*.env.*
+**/venv/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+
+

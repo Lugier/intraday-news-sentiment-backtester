@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,INTC
+Total Trades,54
+Profitable Trades,29
+Losing Trades,24
+Win Rate,53.70%
+Mean Return,0.029811
+Return 95% CI Lower,-0.329733
+Return 95% CI Upper,0.434454
+Return p-value,0.4548
+Return Significant?,No
+Mean Trade Return,0.229987
+Trade Return 95% CI Lower,-0.132586
+Trade Return 95% CI Upper,0.631988
+Trade Return p-value,0.1110
+Trade Return Significant?,No
+Bootstrap Simulations,10000

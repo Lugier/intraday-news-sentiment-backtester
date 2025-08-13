@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,TSLA
+Total Trades,329
+Profitable Trades,168
+Losing Trades,157
+Win Rate,51.06%
+Mean Return,-0.227180
+Return 95% CI Lower,-0.348880
+Return 95% CI Upper,-0.104124
+Return p-value,0.0004
+Return Significant?,Yes
+Mean Trade Return,-0.027264
+Trade Return 95% CI Lower,-0.148691
+Trade Return 95% CI Upper,0.093903
+Trade Return p-value,0.3326
+Trade Return Significant?,No
+Bootstrap Simulations,10000

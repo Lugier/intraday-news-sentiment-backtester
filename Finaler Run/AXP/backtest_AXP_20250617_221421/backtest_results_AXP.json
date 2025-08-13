@@ -1,0 +1,283 @@
+{
+    "ticker": "AXP",
+    "total_trades": 9,
+    "winning_trades": 4,
+    "losing_trades": 5,
+    "win_rate": 0.4444444444444444,
+    "total_return_pct": -4.846021927202262,
+    "average_return_pct": -0.5384468808002514,
+    "median_return_pct": -0.020184222595944656,
+    "return_std_dev": 1.2450609147499416,
+    "sharpe_ratio": -6.865189601275151,
+    "max_drawdown_pct": -4.669380442046321,
+    "drawdown_duration": 6,
+    "profit_factor": 0.23131430261363883,
+    "expected_return_pct": -0.5384468808002515,
+    "trades": [
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-03-05 10:07:00",
+            "entry_price": 286.19,
+            "exit_time": "2025-03-05 14:00:00",
+            "exit_price": 284.5,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.5905167895454061,
+            "trade_duration_min": 233.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Morning",
+            "day_of_week": "Wednesday",
+            "pnl": -1.6899999999999977,
+            "transaction_fees": 0.57069,
+            "pnl_after_fees": -2.2606899999999976,
+            "return_pct_after_fees": -0.7899262727558607
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-03-11 15:52:00",
+            "entry_price": 255.04,
+            "exit_time": "2025-03-11 16:52:00",
+            "exit_price": 257.37,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.9135821831869559,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": -2.3300000000000125,
+            "transaction_fees": 0.51241,
+            "pnl_after_fees": -2.8424100000000125,
+            "return_pct_after_fees": -1.1144957653701428
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-03-31 13:08:00",
+            "entry_price": 261.64,
+            "exit_time": "2025-03-31 14:14:00",
+            "exit_price": 261.17,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.17963614126279256,
+            "trade_duration_min": 66.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": 0.46999999999997044,
+            "transaction_fees": 0.52281,
+            "pnl_after_fees": -0.052810000000029556,
+            "return_pct_after_fees": -0.020184222595944656
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-04-08 15:46:00",
+            "entry_price": 244.84,
+            "exit_time": "2025-04-08 16:46:00",
+            "exit_price": 243.3396,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.6128083646463051,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": 1.5004000000000133,
+            "transaction_fees": 0.4881796,
+            "pnl_after_fees": 1.0122204000000132,
+            "return_pct_after_fees": 0.4134211730109514
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-04-17 13:05:00",
+            "entry_price": 257.0,
+            "exit_time": "2025-04-17 13:15:00",
+            "exit_price": 248.0,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -3.501945525291829,
+            "trade_duration_min": 10.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": -9.0,
+            "transaction_fees": 0.505,
+            "pnl_after_fees": -9.505,
+            "return_pct_after_fees": -3.698443579766537
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-04-17 13:51:00",
+            "entry_price": 250.0,
+            "exit_time": "2025-04-17 14:53:00",
+            "exit_price": 251.5,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.6,
+            "trade_duration_min": 62.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 1.5,
+            "transaction_fees": 0.5015000000000001,
+            "pnl_after_fees": 0.9984999999999999,
+            "return_pct_after_fees": 0.3994
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-05-16 14:00:00",
+            "entry_price": 301.0,
+            "exit_time": "2025-05-16 15:28:00",
+            "exit_price": 299.55,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.48172757475082684,
+            "trade_duration_min": 88.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Friday",
+            "pnl": -1.4499999999999886,
+            "transaction_fees": 0.60055,
+            "pnl_after_fees": -2.0505499999999888,
+            "return_pct_after_fees": -0.6812458471760761
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-06-16 13:35:00",
+            "entry_price": 289.44,
+            "exit_time": "2025-06-16 15:03:00",
+            "exit_price": 290.72,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.4422332780541838,
+            "trade_duration_min": 88.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": 1.2800000000000296,
+            "transaction_fees": 0.58016,
+            "pnl_after_fees": 0.6998400000000295,
+            "return_pct_after_fees": 0.2417910447761296
+        },
+        {
+            "ticker": "AXP",
+            "entry_time": "2025-06-17 15:30:00",
+            "entry_price": 292.09,
+            "exit_time": "2025-06-17 16:30:00",
+            "exit_price": 293.855,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.6042658084837014,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": 1.7650000000000432,
+            "transaction_fees": 0.5859449999999999,
+            "pnl_after_fees": 1.1790550000000433,
+            "return_pct_after_fees": 0.4036615426752177
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 6,
+            "total_return": -4.124763112247127,
+            "avg_return": -0.6874605187078545,
+            "median_return": -0.21972740119997325,
+            "win_rate": 0.5,
+            "std_dev": 1.4324732955671091,
+            "sharpe_ratio": -7.618360108931913,
+            "profit_factor": 0.20211417021042588
+        },
+        "negative": {
+            "count": 3,
+            "total_return": -0.721258814955136,
+            "avg_return": -0.24041960498504533,
+            "median_return": -0.020184222595944656,
+            "win_rate": 0.3333333333333333,
+            "std_dev": 0.6429153704752641,
+            "sharpe_ratio": -5.936306838873015,
+            "profit_factor": 0.36435045774624825
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 7,
+            "total_return": -1.5512398901109434,
+            "avg_return": -0.22160569858727763,
+            "win_rate": 0.42857142857142855
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -3.698443579766537,
+            "avg_return": -3.698443579766537,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": 0.4036615426752177,
+            "avg_return": 0.4036615426752177,
+            "win_rate": 1.0
+        }
+    },
+    "market_session_stats": {
+        "Morning": {
+            "count": 1,
+            "total_return": -0.7899262727558607,
+            "avg_return": -0.7899262727558607,
+            "win_rate": 0.0
+        },
+        "Afternoon": {
+            "count": 4,
+            "total_return": -0.9786588968600498,
+            "avg_return": -0.24466472421501245,
+            "win_rate": 0.5
+        },
+        "Midday": {
+            "count": 4,
+            "total_return": -3.0774367575863524,
+            "avg_return": -0.7693591893965881,
+            "win_rate": 0.5
+        }
+    },
+    "day_of_week_stats": {
+        "Wednesday": {
+            "count": 1,
+            "total_return": -0.7899262727558607,
+            "avg_return": -0.7899262727558607,
+            "win_rate": 0.0
+        },
+        "Tuesday": {
+            "count": 3,
+            "total_return": -0.29741304968397375,
+            "avg_return": -0.09913768322799126,
+            "win_rate": 0.6666666666666666
+        },
+        "Monday": {
+            "count": 2,
+            "total_return": 0.22160682218018493,
+            "avg_return": 0.11080341109009247,
+            "win_rate": 0.5
+        },
+        "Thursday": {
+            "count": 2,
+            "total_return": -3.299043579766537,
+            "avg_return": -1.6495217898832686,
+            "win_rate": 0.5
+        },
+        "Friday": {
+            "count": 1,
+            "total_return": -0.6812458471760761,
+            "avg_return": -0.6812458471760761,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-05 10:07:00",
+        "end_date": "2025-06-17 16:30:00",
+        "start_price": 286.19,
+        "end_price": 293.93,
+        "buyhold_return_pct": 2.7044970124742385,
+        "strategy_return_pct": -4.846021927202262,
+        "outperformance_pct": -7.5505189396765005
+    }
+}

@@ -1,0 +1,443 @@
+Sentiment Analysis Summary for KO
+Generated on: 2025-06-17 22:37:04
+
+Sentiment Distribution:
+neutral: 29
+negative: 21
+positive: 12
+
+Detailed Results:
+
+Title: 50% Downside For Coca-Cola Stock?
+Date: 2025-06-17 12:30:41
+Sentiment: negative
+Explanation: The title and description explicitly mention a potential 50% downside for Coca-Cola stock and a significant correction. This negative sentiment is likely to trigger immediate selling pressure as short-term traders react to the possibility of a price drop, directly impacting the stock price within the next 60 minutes. The magnitude of the potential downside (up to 50%) amplifies the negative sentiment.
+```
+--------------------------------------------------------------------------------
+
+Title: As Companies Abandon Climate Pledges, Is There a Silver Lining?
+Date: 2025-06-12 14:00:14
+Sentiment: negative
+Explanation: The news identifies Coca-Cola (KO) as one of the companies abandoning climate pledges. While long-term sustainability concerns might be relevant, in the next 60 minutes, the immediate likely reaction is a negative sentiment trigger for traders as this creates headline risk. This negative perception is expected to cause a short-term sell-off due to concerns about public image and potential consumer backlash.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola is named a top beverage stock pick at Morgan Stanley
+Date: 2025-06-10 12:46:18
+Sentiment: positive
+Explanation: Being named a top pick by Morgan Stanley is generally perceived positively by the market, especially in the short term. The sentiment trigger is likely FOMO buying by retail traders acting on the positive recommendation, leading to an immediate, albeit potentially small, price increase within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Consumer staples favorites Kroger and Coca-Cola fall as investors go on the offensive
+Date: 2025-06-03 19:39:25
+Sentiment: negative
+Explanation: The title indicates that Coca-Cola ("KO") is falling as investors become more "offensive," which implies a risk-off sentiment shift potentially away from stable stocks. This likely translates to immediate, albeit potentially minor, selling pressure within the 60-minute window due to sentiment alone, fulfilling a negative short-term reaction.
+```
+--------------------------------------------------------------------------------
+
+Title: Does the ‘McMigraine meal’ really help with headaches? TikTok thinks so
+Date: 2025-06-03 17:27:24
+Sentiment: neutral
+Explanation: The news, while potentially increasing Coca-Cola consumption in the short term through the "McMigraine Meal" trend, is unlikely to have a significant direct impact on KO's stock price within 60 minutes. The anecdotal nature of the trend and potential health risks associated with the meal (tyramine content) create ambiguity and reduce the likelihood of substantial, immediate buying pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: The Curious Case Of Booze-Free Beverages
+Date: 2025-06-03 15:00:00
+Sentiment: neutral
+Explanation: The news discusses the growth of the non-alcoholic beverage industry led by a competitor. While potentially a long-term concern, it lacks a direct, quantifiable impact on KO's revenue or market share within the next 60 minutes, and is unlikely to trigger significant short-term trader reaction. No immediate catalysts or surprises are identified.
+```
+--------------------------------------------------------------------------------
+
+Title: How Olipop CEO Ben Goodwin built a brand new kind of soda brand
+Date: 2025-05-29 12:00:00
+Sentiment: negative
+Explanation: The article discusses the rise of Olipop and other "healthy soda" brands, which are directly competing with KO's core soda business. While KO is entering the fray, the article highlighting Olipop's success and PepsiCo's acquisition of Poppi suggests increasing competitive pressure, potentially leading to a decrease in KO's market share and short-term negative sentiment.
+```
+--------------------------------------------------------------------------------
+
+Title: Interns designed Coca-Cola’s new Sprite + Tea flavor
+Date: 2025-05-26 12:00:00
+Sentiment: neutral
+Explanation: The news of a new Sprite + Tea flavor, while potentially interesting, is unlikely to cause a significant price movement in KO within the next 60 minutes. It is a product launch, which is somewhat expected, and the article notes mixed initial reactions. The limited-time nature further diminishes its impact, making it a minor update with little immediate financial significance.
+```
+--------------------------------------------------------------------------------
+
+Title: Racer Kyle Larson Crashes at Coca-Cola 600 and Indy 500
+Date: 2025-05-25 21:28:19
+Sentiment: neutral
+Explanation: While the event is named "Coca-Cola 600", a crash involving a racer, even a well-known one, has no direct impact on KO's revenue, costs, or operations in the next 60 minutes. The impact is negligible as sponsorship deals are long-term and a single crash would not affect them.
+```
+--------------------------------------------------------------------------------
+
+Title: Ryan Blaney On Aiming To Win NASCAR’S Coca-Cola 600 This Weekend: ‘I’m Inching For Another One’
+Date: 2025-05-21 19:47:22
+Sentiment: neutral
+Explanation: The news article discusses Ryan Blaney aiming to win the Coca-Cola 600. While Coca-Cola sponsors the race, this news is unlikely to significantly impact KO's stock price in the next 60 minutes. There's no direct impact on revenue, costs, operations, or market share within that timeframe, and it's not a major surprise event.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola grants vote of confidence to WPP with Open X renewal
+Date: 2025-05-21 18:01:00
+Sentiment: neutral
+Explanation: While the renewal with WPP is positive for WPP, it has no immediately quantifiable impact on Coca-Cola's revenue or operations. The market likely already expected KO to continue marketing initiatives, and this renewal is unlikely to trigger significant trading activity within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola and Philip Morris headline the top consumer staples picks list at Morgan Stanley
+Date: 2025-05-20 17:55:36
+Sentiment: positive
+Explanation: Being highlighted as a top pick by Morgan Stanley, a reputable financial institution, serves as a positive sentiment trigger for short-term traders. The surprise factor of this endorsement, coupled with the potential for increased buying pressure due to the recommendation, suggests a likely increase in KO's price within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Femsa Exits Heineken After 15 Years With €359 Million Sale
+Date: 2025-05-20 09:27:41
+Sentiment: neutral
+Explanation: This news relates to FEMSA, a Coca-Cola bottler, exiting its stake in Heineken. While FEMSA is a bottler for Coca-Cola, its decision to exit Heineken has no direct impact on KO's revenue, costs, operations, or market share within the immediate 60-minute timeframe. Therefore, the news is unlikely to cause a significant price movement for KO.
+```
+--------------------------------------------------------------------------------
+
+Title: 8x8 outlines path to high single-digit revenue growth by fiscal 2028 as Fuze transition nears completion
+Date: 2025-05-20 03:58:53
+Sentiment: neutral
+Explanation: This news about 8x8 and Fuze has no direct impact on KO's revenue, costs, operations, or market share. There is no reason to believe this news will cause any significant short-term trading activity related to KO within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: American brands have a new image problem
+Date: 2025-05-19 19:20:11
+Sentiment: negative
+Explanation: This news item directly links Coca-Cola (KO) to a potentially negative association with a controversial figure (Donald Trump), potentially hurting its brand image. While the magnitude is unknown, the surprise factor (association with political controversy) could trigger immediate negative sentiment from traders concerned about potential backlash or boycott threats, leading to short-term selling pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: American companies have a new image problem
+Date: 2025-05-19 19:20:11
+Sentiment: negative
+Explanation: This news directly mentions Coca-Cola being negatively affected by Donald Trump. This suggests a potential immediate decrease in brand perception and possibly sales, triggering a negative sentiment among short-term traders, leading to selling pressure within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Meet Project Fizzion, Coca-Cola’s big bet on an AI-powered design copilot
+Date: 2025-05-15 12:00:00
+Sentiment: neutral
+Explanation: While Project Fizzion is an interesting long-term initiative, it doesn't present any immediate, quantifiable impact on KO's revenue or costs within the next 60 minutes. The news lacks a surprise element, as companies are constantly exploring AI applications; therefore, it's unlikely to trigger significant short-term trader reactions.
+```
+--------------------------------------------------------------------------------
+
+Title: Is CELH Stock Still A Buy After Its 30% Rally?
+Date: 2025-05-09 12:00:22
+Sentiment: negative
+Explanation: The news compares Coca-Cola's operating cash flow margins unfavorably to Celsius, highlighting Celsius's superior profitability. This direct comparison creates a negative sentiment trigger for short-term traders, potentially leading to selling pressure on KO as investors briefly re-evaluate relative performance, negatively impacting KO's price within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Quotes from the quarter: What CEOs and CFOs are saying about the state of ad spend
+Date: 2025-05-08 06:00:00
+Sentiment: negative
+Explanation: The article highlights a potential slowdown in ad spending, specifically referencing Coca-Cola executives' concerns. This implies potential future pressure on KO's marketing efforts and sales, which short-term traders are likely to react negatively to. There is also the element of the article citing "fog of uncertainty" and "the ad slowdown might be steeper than anyone first thought" which will spook short-term traders.
+```
+--------------------------------------------------------------------------------
+
+Title: Hispanic shoppers are spending less on groceries, putting pressure on consumer companies
+Date: 2025-05-06 13:00:01
+Sentiment: negative
+Explanation: The news directly impacts KO by reporting reduced spending by Hispanic consumers, weighing on North American sales. This is a negative catalyst because decreased sales directly affect revenue. Short-term traders will likely react negatively to the headline indicating sales pressure.
+```
+--------------------------------------------------------------------------------
+
+Title: How Ambani's Campa Cola is Hurting Coke, Pepsi in India
+Date: 2025-05-06 07:33:26
+Sentiment: negative
+Explanation: The news indicates increased competition for KO in a key growth market (India) from a well-funded competitor. While the long-term impact is uncertain, the immediate trader reaction is likely to be negative as it presents a direct challenge to KO's market share and potential revenue growth in that region. This creates a negative sentiment trigger that could lead to selling pressure in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Ambani’s 12-Cent Cola Is Eroding Coke, Pepsi Dominance in India
+Date: 2025-05-06 02:00:00
+Sentiment: negative
+Explanation: The news describes a significant competitive threat to KO's market share in a major market (India) from a well-funded competitor. This represents a direct impact on potential revenue and profits, and short-term traders are likely to interpret this negatively, causing selling pressure within the next 60 minutes, even if the long-term effects are uncertain.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola features prominently at the Berkshire Hathaway meeting once again
+Date: 2025-05-05 13:17:55
+Sentiment: neutral
+Explanation: The news that Coca-Cola features prominently at the Berkshire Hathaway meeting, while potentially indicating a positive association, likely has minimal immediate impact on KO's stock price. This is already known and is not a surprise catalyst. There's no new, quantifiable data or direct impact on KO's financials within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Dividend Roundup: Apple, Coca-Cola, Exxon Mobil, Citigroup, and more
+Date: 2025-05-02 14:49:33
+Sentiment: neutral
+Explanation: The title mentions Coca-Cola as part of a broader "Dividend Roundup" alongside other major companies. This suggests the news is likely about dividend-related announcements, which are generally already priced into the stock, and thus have little surprise factor or immediate direct impact on KO's price in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola declares $0.51 dividend
+Date: 2025-05-01 20:06:28
+Sentiment: positive
+Explanation: A dividend declaration of $0.51 is a direct, positive catalyst (known catalyst type). While the market likely anticipated a dividend, the specific amount can lead to a small increase in buying pressure from income-focused investors within the next 60 minutes, resulting in a short-term price pop.
+```
+--------------------------------------------------------------------------------
+
+Title: 2 big companies aren't rushing to return to Russia
+Date: 2025-04-30 07:55:06
+Sentiment: neutral
+Explanation: The news regarding Coca-Cola's continued absence from the Russian market is unlikely to have a significant impact on KO's stock price in the next 60 minutes. This situation has been ongoing since 2022 and is likely already priced into the stock. While politically relevant, it is not a new catalyst and the short-term financial implications are minimal.
+```
+--------------------------------------------------------------------------------
+
+Title: McDonald’s, Coca-Cola Still See Risks to Operating in Russia
+Date: 2025-04-29 23:17:59
+Sentiment: negative
+Explanation: The news suggests continued risks for Coca-Cola's operations in Russia. While perhaps not entirely unexpected, the reiteration of these risks introduces negative sentiment in the short term (Sentiment Trigger), potentially causing a slight dip in price within the next 60 minutes as traders react to perceived uncertainty. No quantifiable data is provided, but the implication of continued risk is a negative catalyst.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Ties Political Tension to Hispanic Consumer Pullback
+Date: 2025-04-29 19:11:23
+Sentiment: negative
+Explanation: The news directly links political tension to a decline in Hispanic consumer spending on KO products. This suggests a current and quantifiable impact on revenue (direct impact, magnitude), and traders will likely react negatively to this concrete indication of sales being affected by external factors within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-cola anticipates 5%-6% organic revenue growth for 2025 with expanded global strategies
+Date: 2025-04-29 17:45:31
+Sentiment: positive
+Explanation: A 5-6% organic revenue growth forecast indicates positive financial performance for KO and suggests management confidence. This quantifiable data surpasses typical expectations and is likely to trigger immediate buying pressure from algorithmic and short-term traders, pushing the price upwards within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola hold its gain after analysts say the stock is a consumer staples standout
+Date: 2025-04-29 16:17:13
+Sentiment: positive
+Explanation: The news highlights a positive analyst view suggesting KO is a consumer staple standout. This recognition can trigger short-term buying pressure from momentum traders and algorithms reacting to analyst sentiment, leading to a price increase within the next 60 minutes due to FOMO. The news creates a positive sentiment trigger, likely pushing the price higher.
+```
+--------------------------------------------------------------------------------
+
+Title: Danes boycotting Coca-Cola, says Carlsberg
+Date: 2025-04-29 15:38:49
+Sentiment: negative
+Explanation: The news of a boycott in Denmark, resulting in a 13-fold increase in a local brand, directly impacts KO's market share and revenue in that region. While Denmark is a relatively small market, the surprise factor and the negative sentiment towards KO could trigger immediate selling pressure from algorithmic traders reacting to the market share loss signal within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: 4 stocks to watch on Tuesday: KO, PFE, GM and UPS | $GM $KO $UPS $PFE $AMZN
+Date: 2025-04-29 15:21:09
+Sentiment: neutral
+Explanation: The title simply mentions KO as one of several stocks to watch. There is no direct impact on KO's financials or operations implied, and the lack of information suggests it is unlikely to cause significant price movement within the next 60 minutes. Therefore, a neutral classification is most appropriate.
+```
+--------------------------------------------------------------------------------
+
+Title: Warren Buffett first bought Coca-Cola stock in 1988—how much a $1,000 investment made then would be worth today
+Date: 2025-04-29 15:19:30
+Sentiment: neutral
+Explanation: This news is backward-looking and highlights historical performance. While positive sentiment exists regarding Buffett's investment, it's unlikely to cause a significant price movement in KO within the next 60 minutes, as it doesn't present any new, actionable information or directly impact current financials or operations. There is no real surprise or quantifiable data related to the current situation.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola in Charts: Q1 unit case volume rose 2% while revenue slipped 2% Y/Y amid mixed regional performance
+Date: 2025-04-29 14:06:08
+Sentiment: negative
+Explanation: The news indicates mixed performance with a revenue slip, which, though slight, is likely to trigger a negative knee-jerk reaction in the short term. The -2% revenue is a quantifiable data point that will likely be perceived negatively, outweighing the modest volume increase within the next hour.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola leaves profit outlook intact, says tariffs are ‘manageable’
+Date: 2025-04-29 13:50:00
+Sentiment: positive
+Explanation: The news contains multiple positive short-term catalysts. Specifically, the statement that Coca-Cola "leaves profit outlook intact" and that "quarterly profit beats expectations" will likely trigger immediate positive sentiment among short-term traders, leading to buying pressure within the next 60 minutes. The negative currency moves and revenue slip are unlikely to outweigh the profit beat in this timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola gains after reporting higher organic sales marks than PepsiCo and Keurig Dr Pepper
+Date: 2025-04-29 13:24:51
+Sentiment: positive
+Explanation: The news highlights Coca-Cola's superior organic sales growth compared to key competitors (PepsiCo and Keurig Dr Pepper). This suggests a positive shift in market share or consumer preference, likely triggering immediate short-term buying pressure as traders react to the outperformance and potential for continued growth in the near future. The comparison to competitors amplifies the impact, creating a perceived "win" for KO.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Profit Beats Estimates on Smaller Price Hikes
+Date: 2025-04-29 13:09:24
+Sentiment: positive
+Explanation: The news indicates that Coca-Cola's profit beat estimates, demonstrating resilience despite challenging economic conditions and price increases. This positive earnings surprise will likely trigger immediate buying pressure from short-term traders looking to capitalize on the positive momentum, pushing the stock price up in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Non-GAAP EPS of $0.73 beats by $0.01
+Date: 2025-04-29 12:56:58
+Sentiment: positive
+Explanation: The Non-GAAP EPS beat of $0.01 represents a positive surprise, albeit a small one. While not a massive beat, earnings beats are typically seen as positive catalysts by short-term traders, leading to buying pressure in the immediate aftermath. This likely prompts a short-term increase in KO's price within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Europacific Partners declares €0.79 dividend
+Date: 2025-04-29 11:30:59
+Sentiment: neutral
+Explanation: A dividend declaration from Coca-Cola Europacific Partners, while potentially positive long-term, has no direct, immediate impact on KO's financials within the next 60 minutes. The dividend is likely already anticipated and its magnitude isn't surprising enough to trigger significant short-term trading activity directly related to KO's stock.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Company Q1 Preview: What to expect
+Date: 2025-04-28 20:24:56
+Sentiment: neutral
+Explanation: The news is a preview, not the actual Q1 results. Without specific figures or expectations provided, it's impossible to determine if the results are positive or negative. Therefore, there's no reason to expect a significant price movement in the next 60 minutes based solely on this title and description.
+```
+--------------------------------------------------------------------------------
+
+Title: Healthy Sodas Like Poppi, Olipop Are Drawing PepsiCo’s and Coca-Cola’s Attention
+Date: 2025-04-25 12:00:41
+Sentiment: negative
+Explanation: While seemingly about innovation in the soda market, the news highlights the growing popularity of *competing* healthy soda brands. This suggests a potential threat to KO's market share and dominance in the long run, prompting immediate, albeit possibly minor, selling pressure from traders fearing decreased future revenue. This news acts as a catalyst indicating increased competition.
+```
+--------------------------------------------------------------------------------
+
+Title: UBS says these 5 consumer-staple stocks are built to weather the uncertain economic storm right now
+Date: 2025-04-18 17:01:52
+Sentiment: positive
+Explanation: UBS naming KO as a top pick within consumer staples with a "Buy" rating provides a short-term positive sentiment trigger. While the general economic uncertainty is a backdrop, the explicit affirmation of KO's appeal to investors, combined with a Buy rating, is likely to create immediate buying pressure, pushing the price up in the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola’s clever new ad uses its logo in a refreshingly old-school way
+Date: 2025-04-15 11:30:00
+Sentiment: neutral
+Explanation: This news describes a marketing campaign, which generally has a delayed impact on sales. There's no quantifiable data or immediate catalyst identified, and while clever, it's unlikely to cause a significant price movement for KO within the next 60 minutes. The surprise factor is low, as marketing campaigns are common.
+```
+--------------------------------------------------------------------------------
+
+Title: Publicis Keeps Outlook as Client Wins Offset Economic Turmoil
+Date: 2025-04-15 07:30:00
+Sentiment: positive
+Explanation: The news indicates Coca-Cola Co. as a key client win for Publicis. This suggests increased advertising expenditure by KO, implying potentially positive short-term initiatives and confidence in their product demand, which traders could interpret as bullish within the 60-minute window. This is a positive signal as it directly involves KO and is a catalyst-type event (major client win highlighting KO).
+```
+--------------------------------------------------------------------------------
+
+Title: Is Coca-Cola Stock About To Pop?
+Date: 2025-04-14 13:15:37
+Sentiment: positive
+Explanation: The news suggests a reversal of a downtrend, implying potential upward momentum for KO. This creates a positive sentiment trigger for short-term traders, potentially leading to buying pressure within the next 60 minutes as they react to the "upside ahead" narrative. This represents a minor but notable potential catalyst for a short-term price increase.
+```
+--------------------------------------------------------------------------------
+
+Title: Why kosher-for-Passover Coca-Cola is going viral among non-Jewish shoppers
+Date: 2025-04-12 00:04:00
+Sentiment: neutral
+Explanation: The news item discusses a niche Coca-Cola product (kosher-for-Passover) gaining popularity. While it could potentially lead to a slight increase in sales, it's unlikely to have a significant, direct impact on KO's overall revenue or market share within the next 60 minutes. The magnitude of the effect is low and lacks specific quantifiable data to suggest any immediate surprise effect.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Consolidated declares $2.50 dividend
+Date: 2025-04-11 22:13:30
+Sentiment: neutral
+Explanation: The news pertains to Coca-Cola Consolidated (a bottler, not KO directly), declaring a dividend. While indirectly related, the dividend announcement from a bottler is unlikely to have a significant direct impact on KO's stock price within the next 60 minutes. The magnitude of the dividend and its surprise factor are unknown, and a bottler dividend is not a known catalyst type for KO stock price.
+```
+--------------------------------------------------------------------------------
+
+Title: Hyatt Plans To Treble India Capacity on Wedding, Concerts Boom
+Date: 2025-04-11 14:08:27
+Sentiment: neutral
+Explanation: While the news mentions Coca-Cola's branding at an event in India, the main focus is on Hyatt's expansion plans. There's no direct, quantifiable impact on KO's immediate revenue or market share stemming from Hyatt's growth. Therefore, the news is unlikely to cause a significant price movement in KO within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: P&G Targeted by EU Antitrust Watchdog Alongside Coca-Cola Raids
+Date: 2025-04-10 12:00:44
+Sentiment: negative
+Explanation: The news, while also involving P&G, specifically mentions "Coca-Cola Raids" in the title, immediately associating KO with an EU antitrust investigation. This will likely trigger negative sentiment and knee-jerk selling in the short term (60 minutes) as traders react to the immediate headline risk, even if the long-term impact is uncertain. There is a surprise factor because this is news of an investigation.
+```
+--------------------------------------------------------------------------------
+
+Title: Arizona Lawmakers Approve Bill to Bar Soda From SNAP Purchases
+Date: 2025-04-08 23:26:14
+Sentiment: negative
+Explanation: This news is likely to cause a slight dip in KO's stock price in the next 60 minutes. While only Arizona is discussed, this raises concerns that other states may follow suit, potentially reducing sales volume. The news is a direct negative impact on potential revenue within a state, creating a slight negative sentiment trigger for short-term traders.
+```
+--------------------------------------------------------------------------------
+
+Title: Fuse raises $6.6M to fix a payment problem for companies expanding to MENA
+Date: 2025-04-03 14:00:00
+Sentiment: neutral
+Explanation: This news about Fuse raising funding for MENA payments has no direct impact on KO's revenue, costs, operations, or market share within the next 60 minutes. While KO likely operates in MENA, a funding round for a fintech startup addressing payment issues is not a catalyst that will significantly move KO's stock price in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: FDA warns of possible plastic in recalled Coca-Cola cans
+Date: 2025-03-26 18:30:00
+Sentiment: negative
+Explanation: The news of a Coca-Cola can recall due to possible plastic contamination is a negative event. While the recall is limited to two states and classified as Class II (temporary adverse health consequences), the negative press and potential consumer distrust triggered by the recall are likely to lead to a short-term sell-off. The FDA warning and the comparison to other recent recalls contribute to a heightened sensitivity among short-term traders, suggesting immediate negative price pressure within the 60-minute timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola brings back ‘Share a Coke’ for Gen Z
+Date: 2025-03-26 18:00:00
+Sentiment: neutral
+Explanation: The relaunch of "Share a Coke" is a known marketing strategy, diminishing the surprise factor. While it aims to boost sales and attract Gen Z, its effectiveness within the next 60 minutes is uncertain, making any immediate, significant price impact unlikely.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola Sites Were Among Secret Targets of EU Antitrust Raids
+Date: 2025-03-26 16:18:12
+Sentiment: negative
+Explanation: The news of EU antitrust raids on Coca-Cola sites creates immediate uncertainty and negative sentiment, even if the details are unknown. Traders are likely to react negatively to the potential legal and financial implications of an antitrust investigation, leading to selling pressure in the short term. The surprise factor of the raids contributes to the potential for a significant price decrease within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola’s Annual Plastic Footprint Forecasted to Grow to 9.1 Billion Pounds by 2030
+Date: 2025-03-26 09:00:00
+Sentiment: negative
+Explanation: This news, concerning a projected increase in Coca-Cola's plastic footprint, presents a short-term negative sentiment trigger. While focused on a longer timeframe, the increased scrutiny regarding environmental impact could lead to immediate, albeit likely temporary, selling pressure as traders react to the headline, even if the financial implications are longer-term. There is no direct financial impact provided, but increased environmental scrutiny impacts brand reputation and could spur a negative reaction within the 60-minute window.
+```
+--------------------------------------------------------------------------------
+
+Title: Mexican Coke Bottler Sets Record With $895 Million Investment
+Date: 2025-03-25 19:59:10
+Sentiment: neutral
+Explanation: While the investment is significant, it primarily benefits Arca Continental, a bottling partner, and the US expansion is only a portion of the total investment. The connection to KO is indirect and the impact within the next 60 minutes is unlikely to be significant enough to trigger substantial trading activity.
+```
+--------------------------------------------------------------------------------
+
+Title: Junior Bridgeman, N.B.A. Player Turned Mogul, Dies at 71
+Date: 2025-03-15 19:42:51
+Sentiment: neutral
+Explanation: The death of Junior Bridgeman, while notable, has no direct impact on Coca-Cola's core operations, revenue, or market share. While Bridgeman owned a Coca-Cola bottling business, this news is unlikely to trigger immediate and significant trading activity in KO stock within the next 60 minutes.
+```
+--------------------------------------------------------------------------------
+
+Title: WPP loses Coca-Cola media work in North America
+Date: 2025-03-14 18:43:30
+Sentiment: neutral
+Explanation: The loss of a media contract, while potentially impactful long-term, is unlikely to significantly affect KO's stock price in the next 60 minutes. While there may be a slight knee-jerk reaction, the immediate impact on KO's revenues or operations is not quantifiable and is therefore considered NEUTRAL within our defined short-term timeframe.
+```
+--------------------------------------------------------------------------------
+
+Title: PepsiCo is rated a notch below Coca-Cola, Keurig Dr Pepper, and Monster Beverage by Jefferies
+Date: 2025-03-12 20:14:50
+Sentiment: neutral
+Explanation: The news item focuses on a rating comparison by Jefferies, which places PepsiCo below Coca-Cola. While this might seem positive for KO, rating changes from analysts often have minimal immediate impact unless coupled with concrete financial implications. The short-term trading algorithm is unlikely to detect a significant, quantifiable price movement of KO in the next 60 minutes based solely on this comparative rating.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola is said to be eyeing a new N. American ad partner instead of WPP
+Date: 2025-03-07 20:37:15
+Sentiment: neutral
+Explanation: While the news indicates a potential shift in advertising strategy, it lacks quantifiable data or direct financial impact within the 60-minute timeframe. The change in ad partner itself isn't a major catalyst that would typically trigger immediate, significant price movement. Market reaction will be muted due to uncertainty about the effects of a new ad partner on Coca-Cola's financial performance in the short term.
+```
+--------------------------------------------------------------------------------
+
+Title: Coca-Cola quietly considers moving its North American media out of WPP
+Date: 2025-03-07 18:34:43
+Sentiment: neutral
+Explanation: The news is largely about potential changes to Coca-Cola's marketing agency partnerships. While the account size is large ($1 billion), the article notes that WPP remains a global marketing partner and the North American creative business is expected to stay put. This lack of immediate, directly quantifiable impact on KO's financials or operations within the next 60 minutes makes it neutral.
+```
+--------------------------------------------------------------------------------
+
+Title: Elusive Coke-Bottling Billionaire Thrust Into FTSE Limelight
+Date: 2025-03-06 06:00:02
+Sentiment: neutral
+Explanation: While Coca-Cola Europacific Partners (CCEP) is a significant bottler for KO, the news of its inclusion in the FTSE and a billionaire's role is unlikely to have a direct and immediate (60-minute) impact on KO's stock price. There's no quantifiable data related to KO's financials or operations in the news, and the FTSE inclusion is more of a long-term visibility event rather than a catalyst for immediate price action.
+```
+--------------------------------------------------------------------------------

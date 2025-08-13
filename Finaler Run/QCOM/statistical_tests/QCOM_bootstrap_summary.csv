@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,QCOM
+Total Trades,19
+Profitable Trades,12
+Losing Trades,7
+Win Rate,63.16%
+Mean Return,0.041245
+Return 95% CI Lower,-0.202724
+Return 95% CI Upper,0.308088
+Return p-value,0.3861
+Return Significant?,No
+Mean Trade Return,0.241299
+Trade Return 95% CI Lower,-0.002814
+Trade Return 95% CI Upper,0.515343
+Trade Return p-value,0.0270
+Trade Return Significant?,Yes
+Bootstrap Simulations,10000

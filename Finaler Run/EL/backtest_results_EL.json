@@ -1,0 +1,163 @@
+{
+    "ticker": "EL",
+    "total_trades": 4,
+    "winning_trades": 2,
+    "losing_trades": 2,
+    "win_rate": 0.5,
+    "total_return_pct": 1.8006359098513598,
+    "average_return_pct": 0.45015897746283995,
+    "median_return_pct": 0.2325621093071394,
+    "return_std_dev": 2.3492631853262123,
+    "sharpe_ratio": 3.0418270177194064,
+    "max_drawdown_pct": -3.529776402795514,
+    "drawdown_duration": 2,
+    "profit_factor": 1.505932213444049,
+    "expected_return_pct": 0.45015897746283984,
+    "trades": [
+        {
+            "ticker": "EL",
+            "entry_time": "2025-05-01 12:08:00",
+            "entry_price": 61.32,
+            "exit_time": "2025-05-01 12:18:00",
+            "exit_price": 62.52,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 1.9569471624266193,
+            "trade_duration_min": 10.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 1.2000000000000028,
+            "transaction_fees": 0.12384,
+            "pnl_after_fees": 1.076160000000003,
+            "return_pct_after_fees": 1.7549902152641925
+        },
+        {
+            "ticker": "EL",
+            "entry_time": "2025-05-01 12:21:00",
+            "entry_price": 62.88,
+            "exit_time": "2025-05-01 13:22:00",
+            "exit_price": 60.49,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 3.8008905852417314,
+            "trade_duration_min": 61.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Thursday",
+            "pnl": 2.3900000000000006,
+            "transaction_fees": 0.12337000000000001,
+            "pnl_after_fees": 2.2666300000000006,
+            "return_pct_after_fees": 3.6046914758269732
+        },
+        {
+            "ticker": "EL",
+            "entry_time": "2025-05-01 14:47:00",
+            "entry_price": 59.7,
+            "exit_time": "2025-05-01 15:27:00",
+            "exit_price": 60.35,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -1.0887772194304832,
+            "trade_duration_min": 40.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -0.6499999999999986,
+            "transaction_fees": 0.12005,
+            "pnl_after_fees": -0.7700499999999986,
+            "return_pct_after_fees": -1.2898659966499137
+        },
+        {
+            "ticker": "EL",
+            "entry_time": "2025-05-01 15:27:00",
+            "entry_price": 60.35,
+            "exit_time": "2025-05-01 15:29:00",
+            "exit_price": 59.1,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -2.071251035625518,
+            "trade_duration_min": 2.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -1.25,
+            "transaction_fees": 0.11945,
+            "pnl_after_fees": -1.36945,
+            "return_pct_after_fees": -2.2691797845898924
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 2,
+            "total_return": -0.5141895693256999,
+            "avg_return": -0.25709478466284996,
+            "median_return": -0.25709478466284996,
+            "win_rate": 0.5,
+            "std_dev": 2.0120849999270423,
+            "sharpe_ratio": -2.028370164126073,
+            "profit_factor": 0.7734028952586368
+        },
+        "negative": {
+            "count": 2,
+            "total_return": 2.3148254791770597,
+            "avg_return": 1.1574127395885299,
+            "median_return": 1.1574127395885299,
+            "win_rate": 0.5,
+            "std_dev": 2.4472787362384434,
+            "sharpe_ratio": 7.507668565574102,
+            "profit_factor": 2.7946247789996845
+        }
+    },
+    "exit_reason_stats": {
+        "conflict_flip": {
+            "count": 2,
+            "total_return": 0.4651242186142788,
+            "avg_return": 0.2325621093071394,
+            "win_rate": 0.5
+        },
+        "max_holding_period": {
+            "count": 1,
+            "total_return": 3.6046914758269732,
+            "avg_return": 3.6046914758269732,
+            "win_rate": 1.0
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -2.2691797845898924,
+            "avg_return": -2.2691797845898924,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 2,
+            "total_return": 5.359681691091166,
+            "avg_return": 2.679840845545583,
+            "win_rate": 1.0
+        },
+        "Afternoon": {
+            "count": 2,
+            "total_return": -3.5590457812398064,
+            "avg_return": -1.7795228906199032,
+            "win_rate": 0.0
+        }
+    },
+    "day_of_week_stats": {
+        "Thursday": {
+            "count": 4,
+            "total_return": 1.8006359098513598,
+            "avg_return": 0.45015897746283995,
+            "win_rate": 0.5
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-05-01 12:08:00",
+        "end_date": "2025-05-01 15:29:00",
+        "start_price": 61.32,
+        "end_price": 59.1,
+        "buyhold_return_pct": -3.620352250489234,
+        "strategy_return_pct": 1.8006359098513598,
+        "outperformance_pct": 5.420988160340594
+    }
+}

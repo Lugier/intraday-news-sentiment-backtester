@@ -1,0 +1,29 @@
+{
+  "strategy_name": "IBM",
+  "backtest_summary": {
+    "total_trades": 25,
+    "profitable_trades": 14,
+    "losing_trades": 11,
+    "win_rate": 0.56
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0371,
+      "mean_return": -0.17671486834471456,
+      "confidence_interval": [
+        -0.3815772091473459,
+        0.017653040622165942
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.4048,
+      "mean_return": 0.023270342404162446,
+      "confidence_interval": [
+        -0.18610938623983583,
+        0.21696952611209663
+      ],
+      "significant": false
+    }
+  }
+}

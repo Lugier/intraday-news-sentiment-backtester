@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,KO
+Total Trades,12
+Profitable Trades,5
+Losing Trades,6
+Win Rate,41.67%
+Mean Return,-0.266255
+Return 95% CI Lower,-0.430649
+Return 95% CI Upper,-0.106843
+Return p-value,0.0004
+Return Significant?,Yes
+Mean Trade Return,-0.066206
+Trade Return 95% CI Lower,-0.228310
+Trade Return 95% CI Upper,0.090186
+Trade Return p-value,0.2105
+Trade Return Significant?,No
+Bootstrap Simulations,10000

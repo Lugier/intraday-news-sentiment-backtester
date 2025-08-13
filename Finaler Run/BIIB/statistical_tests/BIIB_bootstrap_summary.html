@@ -1,0 +1,59 @@
+
+    <html>
+    <head>
+        <title>BIIB - Bootstrap Analysis Summary</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            h1 { color: #2c3e50; }
+            .summary-table { border-collapse: collapse; width: 80%; margin: 20px 0; }
+            .summary-table th, .summary-table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            .summary-table tr:nth-child(even) { background-color: #f2f2f2; }
+            .summary-table th { padding-top: 12px; padding-bottom: 12px; background-color: #3498db; color: white; }
+            .significant { color: green; font-weight: bold; }
+            .not-significant { color: red; }
+            .stats-highlight { background-color: #d6eaf8; }
+        </style>
+    </head>
+    <body>
+        <h1>BIIB - Bootstrap Analysis Summary</h1>
+        <p>Analysis date: 2025-06-17 22:35:09</p>
+        
+        <h2>Strategy Performance Summary</h2>
+        <table class="summary-table">
+            <tr>
+                <th>Metric</th>
+                <th>Value</th>
+            </tr>
+    <tr><td>Strategy Name</td><td>BIIB</td></tr>
+<tr><td>Total Trades</td><td>6</td></tr>
+<tr><td>Profitable Trades</td><td>2</td></tr>
+<tr><td>Losing Trades</td><td>2</td></tr>
+<tr><td>Win Rate</td><td>33.33%</td></tr>
+<tr class="stats-highlight"><td>Mean Return</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Return 95% CI Lower</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Return 95% CI Upper</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Return p-value</td><td>1.0000</td></tr>
+<tr><td>Return Significant?</td><td class="not-significant">No</td></tr>
+<tr><td>Mean Trade Return</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Trade Return 95% CI Lower</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Trade Return 95% CI Upper</td><td>nan</td></tr>
+<tr class="stats-highlight"><td>Trade Return p-value</td><td>1.0000</td></tr>
+<tr><td>Trade Return Significant?</td><td class="not-significant">No</td></tr>
+<tr><td>Bootstrap Simulations</td><td>10000</td></tr>
+
+        </table>
+        
+        <h2>Interpretation</h2>
+        <p>
+            The bootstrap analysis assesses whether the trading strategy's performance is statistically 
+            different from what would be expected by chance. A p-value less than 0.05 generally indicates 
+            statistical significance, suggesting the strategy's returns are unlikely to be due to random chance.
+        </p>
+        <p>
+            The 95% confidence interval represents the range within which the true mean return is likely to 
+            fall with 95% probability based on the bootstrap simulations. If this interval does not include 
+            zero, it suggests statistical significance.
+        </p>
+    </body>
+    </html>
+    

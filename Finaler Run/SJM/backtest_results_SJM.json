@@ -1,0 +1,111 @@
+{
+    "ticker": "SJM",
+    "total_trades": 2,
+    "winning_trades": 2,
+    "losing_trades": 0,
+    "win_rate": 1.0,
+    "total_return_pct": 5.102274328641115,
+    "average_return_pct": 2.5511371643205574,
+    "median_return_pct": 2.5511371643205574,
+    "return_std_dev": 1.1721218679534529,
+    "sharpe_ratio": 34.551054877894785,
+    "max_drawdown_pct": 0.0,
+    "drawdown_duration": 0,
+    "profit_factor": 0,
+    "expected_return_pct": 2.5511371643205574,
+    "trades": [
+        {
+            "ticker": "SJM",
+            "entry_time": "2025-06-10 13:17:00",
+            "entry_price": 104.6,
+            "exit_time": "2025-06-10 14:17:00",
+            "exit_price": 102.95,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 1.5774378585085962,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Tuesday",
+            "pnl": 1.6499999999999915,
+            "transaction_fees": 0.20755,
+            "pnl_after_fees": 1.4424499999999916,
+            "return_pct_after_fees": 1.3790152963671047
+        },
+        {
+            "ticker": "SJM",
+            "entry_time": "2025-06-10 15:51:00",
+            "entry_price": 101.165,
+            "exit_time": "2025-06-10 16:51:00",
+            "exit_price": 97.2,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 3.919339692581429,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Tuesday",
+            "pnl": 3.9650000000000034,
+            "transaction_fees": 0.198365,
+            "pnl_after_fees": 3.7666350000000035,
+            "return_pct_after_fees": 3.7232590322740102
+        }
+    ],
+    "sentiment_stats": {
+        "negative": {
+            "count": 2,
+            "total_return": 5.102274328641115,
+            "avg_return": 2.5511371643205574,
+            "median_return": 2.5511371643205574,
+            "win_rate": 1.0,
+            "std_dev": 1.1721218679534529,
+            "sharpe_ratio": 34.551054877894785,
+            "profit_factor": 0
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 1,
+            "total_return": 1.3790152963671047,
+            "avg_return": 1.3790152963671047,
+            "win_rate": 1.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": 3.7232590322740102,
+            "avg_return": 3.7232590322740102,
+            "win_rate": 1.0
+        }
+    },
+    "market_session_stats": {
+        "Midday": {
+            "count": 1,
+            "total_return": 1.3790152963671047,
+            "avg_return": 1.3790152963671047,
+            "win_rate": 1.0
+        },
+        "Afternoon": {
+            "count": 1,
+            "total_return": 3.7232590322740102,
+            "avg_return": 3.7232590322740102,
+            "win_rate": 1.0
+        }
+    },
+    "day_of_week_stats": {
+        "Tuesday": {
+            "count": 2,
+            "total_return": 5.102274328641115,
+            "avg_return": 2.5511371643205574,
+            "win_rate": 1.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-06-10 13:17:00",
+        "end_date": "2025-06-10 16:51:00",
+        "start_price": 104.6,
+        "end_price": 97.1,
+        "buyhold_return_pct": -7.170172084130022,
+        "strategy_return_pct": 5.102274328641115,
+        "outperformance_pct": 12.272446412771137
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "strategy_name": "C",
+  "backtest_summary": {
+    "total_trades": 36,
+    "profitable_trades": 21,
+    "losing_trades": 15,
+    "win_rate": 0.5833333333333334
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.1198,
+      "mean_return": -0.1270056348177213,
+      "confidence_interval": [
+        -0.334676620856474,
+        0.0816465057783027
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.2396,
+      "mean_return": 0.072969202622891,
+      "confidence_interval": [
+        -0.1329011569104257,
+        0.2748156591599808
+      ],
+      "significant": false
+    }
+  }
+}

@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,ABBV
+Total Trades,10
+Profitable Trades,7
+Losing Trades,3
+Win Rate,70.00%
+Mean Return,-0.031203
+Return 95% CI Lower,-0.742167
+Return 95% CI Upper,0.558260
+Return p-value,0.4818
+Return Significant?,No
+Mean Trade Return,0.169413
+Trade Return 95% CI Lower,-0.512020
+Trade Return 95% CI Upper,0.762417
+Trade Return p-value,0.2894
+Trade Return Significant?,No
+Bootstrap Simulations,10000

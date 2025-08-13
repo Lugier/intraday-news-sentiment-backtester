@@ -1,0 +1,29 @@
+{
+  "strategy_name": "KO",
+  "backtest_summary": {
+    "total_trades": 12,
+    "profitable_trades": 5,
+    "losing_trades": 6,
+    "win_rate": 0.4166666666666667
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0004,
+      "mean_return": -0.26625490012170205,
+      "confidence_interval": [
+        -0.4306492257219926,
+        -0.10684297479202866
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.2105,
+      "mean_return": -0.06620571419944897,
+      "confidence_interval": [
+        -0.22830952286674558,
+        0.09018550848362604
+      ],
+      "significant": false
+    }
+  }
+}

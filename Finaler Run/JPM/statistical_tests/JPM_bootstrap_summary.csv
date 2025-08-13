@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,JPM
+Total Trades,65
+Profitable Trades,26
+Losing Trades,37
+Win Rate,40.00%
+Mean Return,-0.418413
+Return 95% CI Lower,-0.614000
+Return 95% CI Upper,-0.235339
+Return p-value,0.0000
+Return Significant?,Yes
+Mean Trade Return,-0.218337
+Trade Return 95% CI Lower,-0.412078
+Trade Return 95% CI Upper,-0.035759
+Trade Return p-value,0.0086
+Trade Return Significant?,Yes
+Bootstrap Simulations,10000

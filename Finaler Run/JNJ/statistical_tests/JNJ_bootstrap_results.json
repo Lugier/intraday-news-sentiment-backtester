@@ -1,0 +1,29 @@
+{
+  "strategy_name": "JNJ",
+  "backtest_summary": {
+    "total_trades": 18,
+    "profitable_trades": 10,
+    "losing_trades": 7,
+    "win_rate": 0.5555555555555556
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.2513,
+      "mean_return": -0.13850605825439222,
+      "confidence_interval": [
+        -0.5403906670703409,
+        0.24790204543786137
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.3721,
+      "mean_return": 0.06105919506385048,
+      "confidence_interval": [
+        -0.33743368650722655,
+        0.43700382193554155
+      ],
+      "significant": false
+    }
+  }
+}

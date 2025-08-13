@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,ADBE
+Total Trades,19
+Profitable Trades,12
+Losing Trades,7
+Win Rate,63.16%
+Mean Return,-0.204313
+Return 95% CI Lower,-0.639503
+Return 95% CI Upper,0.199073
+Return p-value,0.1647
+Return Significant?,No
+Mean Trade Return,-0.004474
+Trade Return 95% CI Lower,-0.437081
+Trade Return 95% CI Upper,0.411893
+Trade Return p-value,0.4988
+Trade Return Significant?,No
+Bootstrap Simulations,10000

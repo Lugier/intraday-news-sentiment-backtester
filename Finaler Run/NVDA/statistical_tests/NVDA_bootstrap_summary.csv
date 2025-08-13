@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,NVDA
+Total Trades,230
+Profitable Trades,107
+Losing Trades,118
+Win Rate,46.52%
+Mean Return,-0.219504
+Return 95% CI Lower,-0.321427
+Return 95% CI Upper,-0.118897
+Return p-value,0.0000
+Return Significant?,Yes
+Mean Trade Return,-0.019438
+Trade Return 95% CI Lower,-0.119742
+Trade Return 95% CI Upper,0.081139
+Trade Return p-value,0.3585
+Trade Return Significant?,No
+Bootstrap Simulations,10000

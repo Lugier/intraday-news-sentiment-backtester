@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,GOOGL
+Total Trades,224
+Profitable Trades,122
+Losing Trades,99
+Win Rate,54.46%
+Mean Return,-0.175608
+Return 95% CI Lower,-0.254408
+Return 95% CI Upper,-0.095652
+Return p-value,0.0000
+Return Significant?,Yes
+Mean Trade Return,0.024383
+Trade Return 95% CI Lower,-0.056883
+Trade Return 95% CI Upper,0.103362
+Trade Return p-value,0.2764
+Trade Return Significant?,No
+Bootstrap Simulations,10000

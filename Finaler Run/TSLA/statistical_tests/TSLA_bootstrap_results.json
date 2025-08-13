@@ -1,0 +1,29 @@
+{
+  "strategy_name": "TSLA",
+  "backtest_summary": {
+    "total_trades": 329,
+    "profitable_trades": 168,
+    "losing_trades": 157,
+    "win_rate": 0.5106382978723404
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0004,
+      "mean_return": -0.2271802723274835,
+      "confidence_interval": [
+        -0.34888028894054096,
+        -0.10412372429680258
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.3326,
+      "mean_return": -0.027263961182334612,
+      "confidence_interval": [
+        -0.14869130198600206,
+        0.09390291211355593
+      ],
+      "significant": false
+    }
+  }
+}

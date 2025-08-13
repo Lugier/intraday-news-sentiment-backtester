@@ -1,0 +1,29 @@
+{
+  "strategy_name": "MS",
+  "backtest_summary": {
+    "total_trades": 44,
+    "profitable_trades": 22,
+    "losing_trades": 21,
+    "win_rate": 0.5
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0,
+      "mean_return": -0.5006651551175595,
+      "confidence_interval": [
+        -0.7976858003419087,
+        -0.22914668350948747
+      ],
+      "significant": true
+    },
+    "trade": {
+      "p_value": 0.0157,
+      "mean_return": -0.3006572522540939,
+      "confidence_interval": [
+        -0.5919795142856207,
+        -0.024616590067992286
+      ],
+      "significant": true
+    }
+  }
+}

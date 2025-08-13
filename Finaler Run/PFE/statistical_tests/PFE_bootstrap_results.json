@@ -1,0 +1,29 @@
+{
+  "strategy_name": "PFE",
+  "backtest_summary": {
+    "total_trades": 25,
+    "profitable_trades": 12,
+    "losing_trades": 11,
+    "win_rate": 0.48
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.0953,
+      "mean_return": -0.17173641868353692,
+      "confidence_interval": [
+        -0.447277601578371,
+        0.08040945239452235
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.4077,
+      "mean_return": 0.028525768367224594,
+      "confidence_interval": [
+        -0.25264964854005834,
+        0.27797892480861086
+      ],
+      "significant": false
+    }
+  }
+}

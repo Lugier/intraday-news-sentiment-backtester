@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,CRM
+Total Trades,24
+Profitable Trades,13
+Losing Trades,10
+Win Rate,54.17%
+Mean Return,-0.213559
+Return 95% CI Lower,-0.667169
+Return 95% CI Upper,0.186537
+Return p-value,0.1603
+Return Significant?,No
+Mean Trade Return,-0.013760
+Trade Return 95% CI Lower,-0.459818
+Trade Return 95% CI Upper,0.396238
+Trade Return p-value,0.4809
+Trade Return Significant?,No
+Bootstrap Simulations,10000

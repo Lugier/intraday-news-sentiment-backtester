@@ -1,0 +1,4 @@
+ticker,entry_time,entry_price,exit_time,exit_price,direction,sentiment,return_pct,trade_duration_min,exit_reason,market_session,day_of_week,pnl,transaction_fees,pnl_after_fees,return_pct_after_fees
+GIS,2025-03-11 15:11:00,62.985,2025-03-11 16:11:00,63.32,short,negative,-0.5318726680955798,60.0,max_holding_period,Afternoon,Tuesday,-0.33500000000000085,0.126305,-0.46130500000000085,-0.7324045407636753
+GIS,2025-03-19 12:04:00,57.65,2025-03-19 13:04:00,58.2,short,negative,-0.9540329575021756,60.0,max_holding_period,Midday,Wednesday,-0.5500000000000043,0.11585000000000001,-0.6658500000000043,-1.154986990459678
+GIS,2025-03-19 13:10:00,58.3511,2025-03-19 14:10:00,57.8,short,negative,0.9444552030724446,60.0,end_of_data,Midday,Wednesday,0.5511000000000053,0.11615110000000001,0.43494890000000525,0.745399658275517

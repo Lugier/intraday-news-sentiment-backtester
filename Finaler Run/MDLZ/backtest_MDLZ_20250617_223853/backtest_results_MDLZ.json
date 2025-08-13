@@ -1,0 +1,81 @@
+{
+    "ticker": "MDLZ",
+    "total_trades": 1,
+    "winning_trades": 0,
+    "losing_trades": 1,
+    "win_rate": 0.0,
+    "total_return_pct": -0.3466733637276854,
+    "average_return_pct": -0.3466733637276854,
+    "median_return_pct": -0.3466733637276854,
+    "return_std_dev": 0.0,
+    "sharpe_ratio": 0,
+    "max_drawdown_pct": 0.0,
+    "drawdown_duration": 0,
+    "profit_factor": 0.0,
+    "expected_return_pct": -0.3466733637276854,
+    "trades": [
+        {
+            "ticker": "MDLZ",
+            "entry_time": "2025-03-24 15:05:00",
+            "entry_price": 64.705,
+            "exit_time": "2025-03-24 16:05:00",
+            "exit_price": 64.61,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.14682018391159704,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Afternoon",
+            "day_of_week": "Monday",
+            "pnl": -0.09499999999999886,
+            "transaction_fees": 0.129315,
+            "pnl_after_fees": -0.22431499999999888,
+            "return_pct_after_fees": -0.3466733637276854
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 1,
+            "total_return": -0.3466733637276854,
+            "avg_return": -0.3466733637276854,
+            "median_return": -0.3466733637276854,
+            "win_rate": 0.0,
+            "std_dev": 0.0,
+            "sharpe_ratio": 0,
+            "profit_factor": 0.0
+        }
+    },
+    "exit_reason_stats": {
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.3466733637276854,
+            "avg_return": -0.3466733637276854,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 1,
+            "total_return": -0.3466733637276854,
+            "avg_return": -0.3466733637276854,
+            "win_rate": 0.0
+        }
+    },
+    "day_of_week_stats": {
+        "Monday": {
+            "count": 1,
+            "total_return": -0.3466733637276854,
+            "avg_return": -0.3466733637276854,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-24 15:05:00",
+        "end_date": "2025-03-24 16:05:00",
+        "start_price": 64.705,
+        "end_price": 64.63,
+        "buyhold_return_pct": -0.11591067150915624,
+        "strategy_return_pct": -0.3466733637276854,
+        "outperformance_pct": -0.2307626922185292
+    }
+}

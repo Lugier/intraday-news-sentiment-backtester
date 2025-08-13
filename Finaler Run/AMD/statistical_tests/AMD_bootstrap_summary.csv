@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,AMD
+Total Trades,36
+Profitable Trades,20
+Losing Trades,16
+Win Rate,55.56%
+Mean Return,-0.105642
+Return 95% CI Lower,-0.417258
+Return 95% CI Upper,0.198873
+Return p-value,0.2510
+Return Significant?,No
+Mean Trade Return,0.094215
+Trade Return 95% CI Lower,-0.202920
+Trade Return 95% CI Upper,0.397592
+Trade Return p-value,0.2718
+Trade Return Significant?,No
+Bootstrap Simulations,10000

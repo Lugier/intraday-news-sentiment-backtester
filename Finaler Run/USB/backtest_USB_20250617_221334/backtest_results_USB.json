@@ -1,0 +1,235 @@
+{
+    "ticker": "USB",
+    "total_trades": 7,
+    "winning_trades": 2,
+    "losing_trades": 5,
+    "win_rate": 0.2857142857142857,
+    "total_return_pct": -1.716526977523643,
+    "average_return_pct": -0.2452181396462347,
+    "median_return_pct": -0.2,
+    "return_std_dev": 0.9243021600143715,
+    "sharpe_ratio": -4.2115202746410825,
+    "max_drawdown_pct": -2.2746396286342567,
+    "drawdown_duration": 1,
+    "profit_factor": 0.4285209170665858,
+    "expected_return_pct": -0.24521813964623473,
+    "trades": [
+        {
+            "ticker": "USB",
+            "entry_time": "2025-03-31 14:00:00",
+            "entry_price": 41.45,
+            "exit_time": "2025-03-31 15:00:00",
+            "exit_price": 41.41,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.0965018094089415,
+            "trade_duration_min": 60.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Monday",
+            "pnl": 0.04000000000000625,
+            "transaction_fees": 0.08285999999999999,
+            "pnl_after_fees": -0.042859999999993736,
+            "return_pct_after_fees": -0.10340168878164956
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-03 14:18:00",
+            "entry_price": 41.29,
+            "exit_time": "2025-04-03 15:19:00",
+            "exit_price": 41.09,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": 0.48437878420924135,
+            "trade_duration_min": 61.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": 0.19999999999999574,
+            "transaction_fees": 0.08238000000000001,
+            "pnl_after_fees": 0.11761999999999573,
+            "return_pct_after_fees": 0.2848631629934506
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-03 15:38:00",
+            "entry_price": 40.93,
+            "exit_time": "2025-04-03 16:22:00",
+            "exit_price": 40.08,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -2.0767163449792365,
+            "trade_duration_min": 44.0,
+            "exit_reason": "stop_loss",
+            "market_session": "Afternoon",
+            "day_of_week": "Thursday",
+            "pnl": -0.8500000000000014,
+            "transaction_fees": 0.08101,
+            "pnl_after_fees": -0.9310100000000014,
+            "return_pct_after_fees": -2.274639628634257
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-14 13:04:00",
+            "entry_price": 38.04,
+            "exit_time": "2025-04-14 14:21:00",
+            "exit_price": 38.4978,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 1.2034700315457385,
+            "trade_duration_min": 77.0,
+            "exit_reason": "max_holding_period",
+            "market_session": "Midday",
+            "day_of_week": "Monday",
+            "pnl": 0.4577999999999989,
+            "transaction_fees": 0.07653779999999999,
+            "pnl_after_fees": 0.3812621999999989,
+            "return_pct_after_fees": 1.0022665615141928
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-16 13:15:00",
+            "entry_price": 39.19,
+            "exit_time": "2025-04-16 13:15:00",
+            "exit_price": 39.19,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": 0.0,
+            "trade_duration_min": 0.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": 0.0,
+            "transaction_fees": 0.07837999999999999,
+            "pnl_after_fees": -0.07837999999999999,
+            "return_pct_after_fees": -0.2
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-16 13:37:00",
+            "entry_price": 39.0,
+            "exit_time": "2025-04-16 13:37:00",
+            "exit_price": 39.0,
+            "direction": "short",
+            "sentiment": "negative",
+            "return_pct": -0.0,
+            "trade_duration_min": 0.0,
+            "exit_reason": "conflict_flip",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -0.0,
+            "transaction_fees": 0.078,
+            "pnl_after_fees": -0.078,
+            "return_pct_after_fees": -0.2
+        },
+        {
+            "ticker": "USB",
+            "entry_time": "2025-04-16 13:37:00",
+            "entry_price": 39.0,
+            "exit_time": "2025-04-16 14:37:00",
+            "exit_price": 38.99,
+            "direction": "long",
+            "sentiment": "positive",
+            "return_pct": -0.02564102564102054,
+            "trade_duration_min": 60.0,
+            "exit_reason": "end_of_data",
+            "market_session": "Midday",
+            "day_of_week": "Wednesday",
+            "pnl": -0.00999999999999801,
+            "transaction_fees": 0.07799,
+            "pnl_after_fees": -0.08798999999999801,
+            "return_pct_after_fees": -0.22561538461537956
+        }
+    ],
+    "sentiment_stats": {
+        "positive": {
+            "count": 4,
+            "total_return": -1.6979884517354438,
+            "avg_return": -0.42449711293386094,
+            "median_return": -0.21280769230768978,
+            "win_rate": 0.25,
+            "std_dev": 1.177777016958355,
+            "sharpe_ratio": -5.721526792847623,
+            "profit_factor": 0.3711747803804684
+        },
+        "negative": {
+            "count": 3,
+            "total_return": -0.01853852578819898,
+            "avg_return": -0.006179508596066326,
+            "median_return": -0.10340168878164956,
+            "win_rate": 0.3333333333333333,
+            "std_dev": 0.2095426542847253,
+            "sharpe_ratio": -0.46814648861597025,
+            "profit_factor": 0.938897750165324
+        }
+    },
+    "exit_reason_stats": {
+        "max_holding_period": {
+            "count": 3,
+            "total_return": 1.1837280357259938,
+            "avg_return": 0.3945760119086646,
+            "win_rate": 0.6666666666666666
+        },
+        "stop_loss": {
+            "count": 1,
+            "total_return": -2.274639628634257,
+            "avg_return": -2.274639628634257,
+            "win_rate": 0.0
+        },
+        "conflict_flip": {
+            "count": 2,
+            "total_return": -0.4,
+            "avg_return": -0.2,
+            "win_rate": 0.0
+        },
+        "end_of_data": {
+            "count": 1,
+            "total_return": -0.22561538461537956,
+            "avg_return": -0.22561538461537956,
+            "win_rate": 0.0
+        }
+    },
+    "market_session_stats": {
+        "Afternoon": {
+            "count": 3,
+            "total_return": -2.093178154422456,
+            "avg_return": -0.697726051474152,
+            "win_rate": 0.3333333333333333
+        },
+        "Midday": {
+            "count": 4,
+            "total_return": 0.37665117689881333,
+            "avg_return": 0.09416279422470333,
+            "win_rate": 0.25
+        }
+    },
+    "day_of_week_stats": {
+        "Monday": {
+            "count": 2,
+            "total_return": 0.8988648727325432,
+            "avg_return": 0.4494324363662716,
+            "win_rate": 0.5
+        },
+        "Thursday": {
+            "count": 2,
+            "total_return": -1.9897764656408066,
+            "avg_return": -0.9948882328204033,
+            "win_rate": 0.5
+        },
+        "Wednesday": {
+            "count": 3,
+            "total_return": -0.6256153846153796,
+            "avg_return": -0.20853846153845987,
+            "win_rate": 0.0
+        }
+    },
+    "buy_hold_comparison": {
+        "start_date": "2025-03-31 14:00:00",
+        "end_date": "2025-04-16 14:37:00",
+        "start_price": 41.45,
+        "end_price": 38.99,
+        "buyhold_return_pct": -5.934861278648973,
+        "strategy_return_pct": -1.716526977523643,
+        "outperformance_pct": 4.21833430112533
+    }
+}

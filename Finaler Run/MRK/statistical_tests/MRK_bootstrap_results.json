@@ -1,0 +1,29 @@
+{
+  "strategy_name": "MRK",
+  "backtest_summary": {
+    "total_trades": 35,
+    "profitable_trades": 15,
+    "losing_trades": 17,
+    "win_rate": 0.42857142857142855
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.2579,
+      "mean_return": -0.08187204745949397,
+      "confidence_interval": [
+        -0.32540492522585235,
+        0.1851720703060812
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.1884,
+      "mean_return": 0.11795135954103857,
+      "confidence_interval": [
+        -0.13606210166870397,
+        0.3897647445788043
+      ],
+      "significant": false
+    }
+  }
+}

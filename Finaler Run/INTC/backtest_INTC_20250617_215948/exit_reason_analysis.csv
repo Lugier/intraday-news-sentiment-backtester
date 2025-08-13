@@ -1,0 +1,14 @@
+Exit Reason,Count,Percentage,Total Return,Avg Return,Win Rate,Avg Duration (min)
+conflict_flip,6,11.11%,4.37%,0.73%,66.67%,26.50
+max_holding_period,43,79.63%,18.20%,0.42%,58.14%,60.09
+stop_loss,4,7.41%,-8.82%,-2.21%,0.00%,31.75
+end_of_data,1,1.85%,-1.33%,-1.33%,0.00%,60.00
+
+Direction,Count,Percentage,Total Return,Avg Return
+long,20,37.04%,10.95%,0.55%
+short,34,62.96%,1.47%,0.04%
+
+Conflict Flip Analysis
+Total Flips,6
+Average Time to Flip (min),26.5
+Percentage of Trades Flipped,11.11%

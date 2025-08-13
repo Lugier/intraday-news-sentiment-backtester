@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,COF
+Total Trades,15
+Profitable Trades,9
+Losing Trades,5
+Win Rate,60.00%
+Mean Return,-0.104113
+Return 95% CI Lower,-0.549077
+Return 95% CI Upper,0.324340
+Return p-value,0.3326
+Return Significant?,No
+Mean Trade Return,0.095868
+Trade Return 95% CI Lower,-0.343646
+Trade Return 95% CI Upper,0.537886
+Trade Return p-value,0.3334
+Trade Return Significant?,No
+Bootstrap Simulations,10000

@@ -1,0 +1,17 @@
+Metric,Value
+Strategy Name,MRK
+Total Trades,35
+Profitable Trades,15
+Losing Trades,17
+Win Rate,42.86%
+Mean Return,-0.081872
+Return 95% CI Lower,-0.325405
+Return 95% CI Upper,0.185172
+Return p-value,0.2579
+Return Significant?,No
+Mean Trade Return,0.117951
+Trade Return 95% CI Lower,-0.136062
+Trade Return 95% CI Upper,0.389765
+Trade Return p-value,0.1884
+Trade Return Significant?,No
+Bootstrap Simulations,10000

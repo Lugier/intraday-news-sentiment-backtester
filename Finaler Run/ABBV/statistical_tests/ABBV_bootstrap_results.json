@@ -1,0 +1,29 @@
+{
+  "strategy_name": "ABBV",
+  "backtest_summary": {
+    "total_trades": 10,
+    "profitable_trades": 7,
+    "losing_trades": 3,
+    "win_rate": 0.7
+  },
+  "bootstrap_results": {
+    "overall": {
+      "p_value": 0.4818,
+      "mean_return": -0.03120273998086933,
+      "confidence_interval": [
+        -0.742167392724192,
+        0.5582599504877394
+      ],
+      "significant": false
+    },
+    "trade": {
+      "p_value": 0.2894,
+      "mean_return": 0.16941267991679343,
+      "confidence_interval": [
+        -0.512020476109089,
+        0.7624173418732338
+      ],
+      "significant": false
+    }
+  }
+}
