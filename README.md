@@ -58,15 +58,18 @@ graph TD
     A[NewsFetcher] --> B[SourceFilter]
     B --> C[LLM_Sentiment]
     C --> D[Backtester]
-    D --> E[EventStudy]
+    C --> E[EventStudy]
     D --> F[Bootstrap]
     D --> G[RandomBenchmarks]
-    E --> H[Portfolio]
+    D --> H[Portfolio]
+    E --> H
     F --> H
     G --> H
     H --> I[Visuals_Reports]
     I --> J[FinalerRun]
 ```
+> [!NOTE]
+> EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. Beide Pfade werden anschließend auf Portfolio‑Ebene zusammengeführt.
 
 ### Funktionen
 - **LLM-basiertes Sentiment**: Batch-Verarbeitung über Gemini (Modell/Temperatur/Parallelität konfigurierbar).
