@@ -62,22 +62,29 @@ graph TD
     M[MarketData] --> D
     M --> E
 
+    %% Independent branches from sentiment
     C --> D[Backtester]
     C --> E[EventStudy]
 
+    %% Backtest branch details
     D --> F[Bootstrap]
     D --> G[RandomBenchmarks]
     D --> H[Portfolio]
+    D --> K[FilterStats]
     F --> H
     G --> H
+    H --> PB[PortfolioBootstrap]
 
-    %% EventStudy goes straight to visuals (no portfolio node)
-    H --> I[Visuals_Reports]
-    E --> I
+    %% Where results are rendered
+    E --> T[EventStudy_TTests]
+    E --> I[Visuals_Reports]
+    T --> I
+    H --> I
+    PB --> I
     I --> J[FinalerRun]
 ```
 > [!NOTE]
-> EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. EventStudy‑Ergebnisse (JSON/Plots) gehen direkt in die Visual/Report‑Erstellung ein. Die Portfolio‑Aggregation bezieht sich ausschließlich auf Backtest‑Outputs (inkl. Bootstrap/RandomBenchmark).
+> EventStudy wird direkt aus dem LLM‑Sentiment gespeist und läuft unabhängig vom Backtester. EventStudy‑Ergebnisse (inkl. optionaler T‑Tests) gehen direkt in die Visual/Report‑Erstellung ein. Die Portfolio‑Aggregation (inkl. PortfolioBootstrap und RandomBenchmarks) basiert ausschließlich auf Backtest‑Outputs. FilterStats werden nach Backtests aus dem `filter_tracker` erzeugt und in die Reports aufgenommen.
 
 ### Funktionen
 - **LLM-basiertes Sentiment**: Batch-Verarbeitung über Gemini (Modell/Temperatur/Parallelität konfigurierbar).
