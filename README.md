@@ -55,15 +55,11 @@ python -m src.main --dow --output-dir "Finaler Run"
 ### Architektur
 ```mermaid
 graph TD
-    A[News Fetcher<br/>(TickerTick API)] --> B[Quellen-Filter<br/>& Qualitätsregeln]
-    B --> C[LLM-Sentiment<br/>(Gemini)]
+    A[News Fetcher (TickerTick API)] --> B[Quellen-Filter & Qualitätsregeln]
+    B --> C[LLM-Sentiment (Gemini)]
     C --> D[Trading-Backtester]
-    D --> E[Event Study
-    • AR/AAR
-    • CAAR]
-    D --> F[Bootstrap-Tests
-    • p-Werte
-    • Konfidenzintervalle]
+    D --> E[Event Study]
+    D --> F[Bootstrap-Tests]
     D --> G[Random Benchmarks]
     E --> H[Portfolio-Aggregation]
     F --> H
