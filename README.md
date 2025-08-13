@@ -1,19 +1,59 @@
-## Finanznachrichten-Sentiment & Trading-Backtester – End-to-End Pipeline
+## Intraday News Sentiment & Event-Study Backtester
 
-Leistungsfähige, reproduzierbare Pipeline zur:
-- Beschaffung und Filterung von Finanznachrichten (Quelle-Qualität, Whitelist)
-- Sentiment-Analyse mittels LLM (Gemini) im Batchbetrieb
-- Regelbasiertem Intraday-Backtesting mit realistischen Ausführungsannahmen (Delay, Gebühren, Slippage)
-- Event-Study-Analyse (AR, AAR, CAAR), Bootstrap-Signifikanz und Random-Benchmarks
-- Portfolio-Aggregation, Visualisierungen und Reports pro Ticker und als Gesamtportfolio
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Issues](https://img.shields.io/github/issues/Lugier/intraday-news-sentiment-backtester.svg)](https://github.com/Lugier/intraday-news-sentiment-backtester/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Lugier/intraday-news-sentiment-backtester.svg)](https://github.com/Lugier/intraday-news-sentiment-backtester/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Lugier/intraday-news-sentiment-backtester.svg)](https://github.com/Lugier/intraday-news-sentiment-backtester/commits/main)
 
-Diese Veröffentlichung enthält ausschließlich die relevanten Teile zum Ausführen und Reproduzieren:
-- `Finaler Run/` konsolidierte Ergebnisordner und Abbildungen pro Ticker und Index-Analysen
+Reproduzierbare End‑to‑End‑Pipeline für den Preis‑Impact von Finanznachrichten im Minutenbereich:
+- Hochqualitative News‑Beschaffung und -Filterung (Quellen‑Whitelist)
+- LLM‑basierte Sentiment‑Analyse (Gemini) im Batchbetrieb
+- Realistisches Intraday‑Backtesting (Entry‑Delay, Stop‑Loss, Gebühren, Slippage, Flip)
+- Event‑Study (AR/AAR/CAAR), Bootstrap‑Signifikanz und Random‑Benchmarks
+- Portfolio‑Aggregation, Visualisierungen und Reports
+
+Enthaltene Komponenten:
+- `Finaler Run/` konsolidierte Ergebnisordner und Abbildungen pro Ticker und Index‑Analysen
 - `src/` Anwendungscode (Pipelines, Analyse, Backtesting, News, LLM)
 - `Test_scripts/` Skripte für zusätzliche Auswertungen
 - `requirements.txt` Abhängigkeiten
 
-### Architekturüberblick
+> [!TIP]
+> Für einen schnellen Einstieg siehe „Schnellstart (TL;DR)“.
+
+### Inhaltsverzeichnis
+- [Schnellstart (TL;DR)](#schnellstart-tldr)
+- [Funktionen](#funktionen)
+- [Architektur](#architektur)
+- [Verzeichnisstruktur](#verzeichnisstruktur)
+- [Installation](#installation)
+- [Konfiguration (.env)](#konfiguration-env)
+- [Ausführen der Pipeline](#ausführen-der-pipeline)
+- [CLI und Beispiele](#cli-und-beispiele)
+- [Wissenschaftlicher Kontext & Ergebnisse](#wissenschaftlicher-kontext-und-kernergebnisse-aus-der-bachelorarbeit)
+- [Visuals (Beispiele)](#visuals-beispiele)
+- [Output, Reproduzierbarkeit und Nachnutzung](#output-reproduzierbarkeit-und-nachnutzung)
+- [Post‑Processing‑Skripte](#post-processing-skripte-testscripts)
+- [Performance‑Hinweise](#performance-hinweise)
+- [Troubleshooting & FAQ](#troubleshooting--faq)
+- [Roadmap](#roadmap)
+- [Lizenz & Zitation](#lizenz--zitation)
+
+### Schnellstart (TL;DR)
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+
+# .env anlegen (siehe Abschnitt „Konfiguration (.env)“)
+
+# Einzelticker
+python -m src.main --ticker AAPL --output-dir "Finaler Run"
+
+# Dow 30 (Batch)
+python -m src.main --dow --output-dir "Finaler Run"
+```
+
+### Architektur
 ```mermaid
 graph TD
     A[News Fetcher<br/>(TickerTick API)] --> B[Quellen-Filter<br/>& Qualitätsregeln]
@@ -33,7 +73,7 @@ graph TD
     I --> J[Finaler Run/<TICKER>/*]
 ```
 
-### Wichtige Fähigkeiten
+### Funktionen
 - **LLM-basiertes Sentiment**: Batch-Verarbeitung über Gemini (Modell/Temperatur/Parallelität konfigurierbar).
 - **Realistisches Backtesting**: Entry-Delay, Stop-Loss/Take-Profit, Gebühren, Slippage, After-Hours, Parallelisierung.
 - **Event-Study**: Marktmodell, mehrfache Zeitfenster (5, 15, 30, 60 Min), AAR/CAAR mit Signifikanztests.
@@ -47,6 +87,14 @@ src/                    # Applikationscode (Pipelines, Analyse, Backtesting, New
 Test_scripts/           # Zusatz-Analysen für fertige Ergebnisse
 requirements.txt        # Python-Abhängigkeiten
 ```
+
+### Pipeline-Module
+- `src/news/processing/pipeline.py`: End‑to‑End News → Sentiment Pipeline je Ticker
+- `src/backtesting/execution/pipeline.py`: Regelbasiertes Intraday‑Backtesting inkl. Gebühren/Slippage
+- `src/analysis/event_study.py`: AAR/CAAR, Marktmodell, Fenster 5/15/30/60 Min
+- `src/analysis/bootstrap.py`: Bootstrap‑Signifikanztests der Backtest‑Ergebnisse
+- `src/analysis/portfolio_*.py`: Portfolio‑Aggregation, Benchmarks, Statistik
+- `src/backtesting/analysis/backtest_visualizer.py`: Visuals (Equity, Win‑Rate, Sentiment‑Plots)
 
 Typische Inhalte von `Finaler Run/<TICKER>/`:
 - `<TICKER>_news_all.json`, `<TICKER>_news_all_curated.json` (Roh- und kuratierte Nachrichten)
@@ -71,7 +119,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-### Umgebungsvariablen (.env)
+### Konfiguration (.env)
 Erzeuge `.env` im Projektroot:
 ```bash
 GEMINI_API_KEY=dein_gemini_api_key
@@ -82,6 +130,14 @@ Hinweise:
 - `.env` und Credentials nicht committen (durch `.gitignore` ausgeschlossen).
 - `src/config.py` liest Umgebungsvariablen und bietet Defaults – setze deine Schlüssel.
 
+Empfohlene Variablen:
+
+| Variable | Beschreibung | Beispiel |
+|---|---|---|
+| `GEMINI_API_KEY` | API‑Key für Google Gemini | `AIza...` |
+| `GOOGLE_APPLICATION_CREDENTIALS` | Pfad zur Service‑Account‑JSON | `/Users/du/key.json` |
+| `POLYGON_API_KEY` | API‑Key für Marktdaten | `abcd-...` |
+
 ## Ausführen der Pipeline
 
 Empfohlen aus dem Projektroot:
@@ -89,7 +145,7 @@ Empfohlen aus dem Projektroot:
 python -m src.main --help
 ```
 
-### CLI-Parameter
+### CLI und Beispiele
 
 | Flag | Typ | Beschreibung |
 |---|---|---|
@@ -286,6 +342,18 @@ python Test_scripts/create_sequential_performance_chart.py
 
 </details>
 
+## Visuals (Beispiele)
+> [!NOTE]
+> Beispiel‑Abbildungen. Weitere Visuals liegen unter `Finaler Run/<TICKER>/...`.
+
+| Event‑Study (TSLA) | Sentiment‑Verteilung (MSFT) |
+|---|---|
+| ![TSLA Event Study](Finaler%20Run/TSLA/event_study/TSLA_event_study.png) | ![MSFT Sentiment Distribution](Finaler%20Run/MSFT/sentiment_distribution_MSFT.png) |
+
+| Kumulierte Renditen (NVDA) | Win‑Rate (PEP) |
+|---|---|
+| ![NVDA Cumulative](Finaler%20Run/NVDA/backtest_NVDA_20250617_212212/backtest_NVDA_20250617_212217/cumulative_returns.png) | ![PEP Win Rate](Finaler%20Run/PEP/backtest_PEP_20250617_223733/backtest_PEP_20250617_223735/win_rate.png) |
+
 ## Output, Reproduzierbarkeit und Nachnutzung
 - Alle Ergebnisse werden zeitgestempelt unter `Finaler Run/<TICKER>/...` abgelegt.
 - Filter‑Entscheidungen und Trade‑Zahlen pro Ticker: `*_filter_statistics_summary.txt`.
@@ -308,6 +376,26 @@ python Test_scripts/create_sequential_performance_chart.py --help
 - `--include-after-hours` nur nutzen, wenn Marktdatenanbieter Extended Hours sauber liefert.
 - Secrets/Credentials niemals committen (`.env`, Service‑Accounts sind ausgeschlossen).
 
+## Performance‑Hinweise
+- Parallelisierung über `--max-workers` sowie Batch‑Größen in `src/config.py`.
+- Für schnelle Iterationen `--max-articles` und `--bootstrap-simulations` reduzieren.
+- Bei API‑Limits Pausen in `API_CONFIG` erhöhen.
+
+## Troubleshooting & FAQ
+> [!WARNING]
+> „No API key provided“ – Prüfe `.env` und `src/config.py`.
+
+- „Zu wenige Events für Event‑Study“: Estimationsfenster zu klein; mehr Daten oder anderen Index wählen.
+- „Bilder fehlen im Output“: Stelle sicher, dass `VIZ_CONFIG` das Rendern aktiviert.
+- „After‑Hours wirkt inkonsistent“: Verifiziere, ob der Datenanbieter Extended Hours konsistent liefert.
+
+## Roadmap
+- Sekundengenaue Daten / Tick‑Daten
+- Multi‑LLM‑Ensembles
+- Erweiterte Benchmarks (z. B. Optionen, sektorale Indizes ohne Eigengewicht)
+- CI‑Workflow (Lint/Tests) via GitHub Actions
+
 ## Lizenz & Zitation
 - Für akademische Nutzung bitte mit Repository‑URL und Commit‑Hash zitieren, um genaue Ergebnisse zu fixieren.
+ - Ergänze optional eine Lizenzdatei (`LICENSE`), z. B. MIT oder Apache‑2.0.
 
