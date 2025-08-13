@@ -54,21 +54,25 @@ python -m src.main --dow --output-dir "Finaler Run"
 
 ### Architektur
 ```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': true, 'nodeSpacing': 60, 'rankSpacing': 60 }, 'themeVariables': { 'fontSize': '12px', 'fontFamily': 'Arial' } }}%%
 flowchart LR
 
   %% Ingestion
   subgraph INGESTION [Ingestion]
+    direction LR
     NF["News<br/>Fetcher"] --> SF["Source<br/>Filter"]
     SF --> LLM["LLM<br/>Sentiment"]
   end
 
   %% Data
   subgraph DATA [Data]
+    direction LR
     MD["Market<br/>Data"]
   end
 
   %% Backtest
   subgraph BACKTEST [Backtest]
+    direction TB
     LLM --> BT[Backtester]
     MD --> BT
     BT --> FS["Filter<br/>Stats"]
@@ -79,6 +83,7 @@ flowchart LR
 
   %% Event Study
   subgraph EVENTSTUDY [Event Study]
+    direction LR
     LLM --> ES["Event<br/>Study"]
     MD --> ES
     ES --> EST["T-<br/>Tests"]
@@ -86,6 +91,7 @@ flowchart LR
 
   %% Reporting
   subgraph REPORTING [Reporting]
+    direction LR
     PF --> VR["Visuals &<br/>Reports"]
     PB --> VR
     ES --> VR
