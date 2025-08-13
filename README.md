@@ -54,43 +54,44 @@ python -m src.main --dow --output-dir "Finaler Run"
 
 ### Architektur
 ```mermaid
+%%{init: { 'flowchart': { 'htmlLabels': false, 'nodeSpacing': 30, 'rankSpacing': 30 } }}%%
 flowchart LR
 
   %% Ingestion
   subgraph INGESTION [Ingestion]
-    NF["News\nFetcher"] --> SF["Source\nFilter"]
-    SF --> LLM["LLM\nSentiment"]
+    NF[NewsFetcher] --> SF[SourceFilter]
+    SF --> LLM[LLM]
   end
 
   %% Data
   subgraph DATA [Data]
-    MD["Market\nData"]
+    MD[MarketData]
   end
 
   %% Backtest
   subgraph BACKTEST [Backtest]
-    LLM --> BT["Back\ntest"]
+    LLM --> BT[Backtest]
     MD --> BT
-    BT --> FS["Filter\nStats"]
-    BT --> RB["Random\nBenchmarks"]
-    BT --> PF["Port\nfolio"]
-    PF --> PB["Portfolio\nBootstrap"]
+    BT --> FS[FilterStats]
+    BT --> RB[RandomBench]
+    BT --> PF[Portfolio]
+    PF --> PB[PortfolioBootstrap]
   end
 
   %% Event Study
   subgraph EVENTSTUDY [Event Study]
-    LLM --> ES["Event\nStudy"]
+    LLM --> ES[EventStudy]
     MD --> ES
-    ES --> EST["T-\nTests"]
+    ES --> EST[TTests]
   end
 
   %% Reporting
   subgraph REPORTING [Reporting]
-    PF --> VR["Visuals &\nReports"]
+    PF --> VR[VisualsReports]
     PB --> VR
     ES --> VR
     EST --> VR
-    VR --> OUT["Finaler\nRun"]
+    VR --> OUT[FinalRun]
   end
 ```
 > [!NOTE]
